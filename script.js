@@ -392,7 +392,7 @@ function actualizarEstado() {
                 case "minAprobadas":
                     puedeCursar = aprobadas.size >= m.condiciones.cantidad;
                     break;
-                case "maxAdeudados":
+                case "maxRtfAdeudados":
                     puedeCursar = rtfAdeudados <= m.condiciones.cantidad;
                     break;
                 default:
