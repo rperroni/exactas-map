@@ -212,5 +212,12 @@ export const CARRERAS = [
         nombre: "Constructor",
         anio: "2025",
         plan: "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-civil/carrera-constructor/plan-2025/"
+    },
+
+    {
+        value: "constructor-1997",
+        nombre: "Constructor",
+        anio: "1997",
+        plan: "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-civil/carrera-constructor/plan-2005/"
     }
 ];
