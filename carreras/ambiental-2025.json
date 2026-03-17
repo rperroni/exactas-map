@@ -1,1 +1,364 @@
-[]
+[
+	{
+		"codigo": "IAMB25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["IAMB25-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IAMB25-AmbUniv"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-quimica",
+		"nombre": "Química",
+		"correlativas": ["IAMB25-mat", "IAMB25-fyq"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-economia",
+		"nombre": "Economía",
+		"correlativas": ["IAMB25-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IAMB25-mat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["IAMB25-am1", "IAMB25-fyq"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-representacion",
+		"nombre": "Sistemas de Representación",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 5
+		},
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["IAMB25-am1", "IAMB25-algebra"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IAMB25-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-estatica",
+		"nombre": "Estática",
+		"correlativas": ["IAMB25-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-bioamb",
+		"nombre": "Biología y Ambiente",
+		"correlativas": ["IAMB25-quimica"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["IAMB25-f1", "IAMB25-algebra"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-cycn",
+		"nombre": "Computación y Cálculo Numérico",
+		"correlativas": ["IAMB25-am1", "IAMB25-algebra"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-quimorg",
+		"nombre": "Química Orgánica",
+		"correlativas": ["IAMB25-quimica"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-ingeogeot",
+		"nombre": "Ingeniería Geológica y Geotécnica",
+		"correlativas": ["IAMB25-fyq"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-mecestr",
+		"nombre": "Mecánica de las Estructuras",
+		"correlativas": ["IAMB25-estatica", "IAMB25-am1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-mecsuelos",
+		"nombre": "Mecánica de Suelos y Rocas",
+		"correlativas": ["IAMB25-estatica", "IAMB25-ingeogeot"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-microbio",
+		"nombre": "Microbiología Ambiental",
+		"correlativas": ["IAMB25-quimorg", "IAMB25-bioamb"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-fia",
+		"nombre": "Fundamentos de Ingeniería Ambiental",
+		"correlativas": ["IAMB25-bioamb", "IAMB25-quimorg"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-qfpa",
+		"nombre": "Química y Física de los Procesos Ambientales",
+		"correlativas": ["IAMB25-f2", "IAMB25-quimica"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-topobas",
+		"nombre": "Topografía Básica",
+		"correlativas": ["IAMB25-mat", "IAMB25-representacion"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-fluidos",
+		"nombre": "Mecánica de los Fluidos",
+		"correlativas": ["IAMB25-f1", "IAMB25-am2"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-termoquim",
+		"nombre": "Termodinámica Química",
+		"correlativas": ["IAMB25-quimica", "IAMB25-am2", "IAMB25-f2"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-hidrologia",
+		"nombre": "Hidrología y Procesos Hidráulicos",
+		"correlativas": ["IAMB25-fluidos", "IAMB25-ingeogeot"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-ecologia",
+		"nombre": "Ecología",
+		"correlativas": ["IAMB25-microbio"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-topoap",
+		"nombre": "Topografía Aplicada",
+		"correlativas": ["IAMB25-topobas"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-hormigon",
+		"nombre": "Hormigón Armado",
+		"correlativas": ["IAMB25-mecestr"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": ["IAMB25-qfpa", "IAMB25-termoquim"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-atmosferaer",
+		"nombre": "Atmósfera y Energías Renovables",
+		"correlativas": ["IAMB25-hidrologia", "IAMB25-fia"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-legetica",
+		"nombre": "Ingeniería Legal y Ética",
+		"correlativas": ["IAMB25-fia", "IAMB25-introing"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-geomorf",
+		"nombre": "Geomorfología",
+		"correlativas": ["IAMB25-ingeogeot", "IAMB25-topoap"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-tas",
+		"nombre": "Tecnología, Ambiente y Sociedad",
+		"correlativas": ["IAMB25-fia"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-ingsan",
+		"nombre": "Ingeniería Sanitaria",
+		"correlativas": ["IAMB25-fia", "IAMB25-hidrologia"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-gyta",
+		"nombre": "Gestión y Tecnologías Ambientales",
+		"correlativas": ["IAMB25-atmosferaer", "IAMB25-qfpa"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-pdov",
+		"nombre": "Proyecto, Dirección de Obras y Valuaciones",
+		"correlativas": ["IAMB25-economia", "IAMB25-legetica"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB25-obrashid",
+		"nombre": "Obras Hidráulicas",
+		"correlativas": ["IAMB25-hidrologia", "IAMB25-mecsuelos"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-geoambiental",
+		"nombre": "Ingeniería Geoambiental",
+		"correlativas": ["IAMB25-fia", "IAMB25-mecsuelos"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-suelosamb",
+		"nombre": "Suelos y Ambiente",
+		"correlativas": ["IAMB25-mecsuelos", "IAMB25-geomorf"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB25-practica",
+		"nombre": "Práctica Supervisada",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 37
+		},
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	}
+]

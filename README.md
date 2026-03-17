@@ -92,6 +92,7 @@ Esta app usa Firebase cargado por script (CDN) y Firestore como base de datos. N
 
 - Cargar los `programa_url` faltantes en materias de los planes nuevos (todos menos industrial 2025, biomedica 2005, biomédica 2025 y TUSD 2025).
 - Completar los `RTF` de `aeroespacial-2005`, porque se necesitan para calcular correctamente las condiciones de cursado de `Proyecto Integrador` y `Práctica Profesional Supervisada`.
+- Completar los `RTF` de `ambiental-2025` (archivo `carreras/ambiental-2025.json`).
 
 ---
 
