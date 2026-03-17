@@ -1,0 +1,274 @@
+[
+	{
+		"codigo": "CONS97-ambuniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/ambientacion-universitaria/"
+	},
+	{
+		"codigo": "CONS97-fisica",
+		"nombre": "Física",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/fisica/"
+	},
+	{
+		"codigo": "CONS97-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/matematica/"
+	},
+
+	{
+		"codigo": "CONS97-informatica",
+		"nombre": "Informática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/informatica/"
+	},
+	{
+		"codigo": "CONS97-repgraf",
+		"nombre": "Representación gráfica",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/representacion-grafica/"
+	},
+	{
+		"codigo": "CONS97-intromat",
+		"nombre": "Introducción a la Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/introduccion-a-la-matematica/"
+	},
+	{
+		"codigo": "CONS97-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/introduccion-a-la-ingenieria/"
+	},
+
+	{
+		"codigo": "CONS97-am1",
+		"nombre": "Análisis Matemático I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-i/"
+	},
+	{
+		"codigo": "CONS97-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/algebra-lineal/"
+	},
+	{
+		"codigo": "CONS97-f1",
+		"nombre": "Física I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-i-1/"
+	},
+	{
+		"codigo": "CONS97-quimaplic",
+		"nombre": "Química aplicada",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/quimica-aplicada/"
+	},
+	{
+		"codigo": "CONS97-repasist",
+		"nombre": "Representación asistida",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/representacion-asistida/"
+	},
+
+	{
+		"codigo": "CONS97-tecmatcons",
+		"nombre": "Tecnología de los materiales de construcción",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/tecnologia-de-los-materiales-de-construccion/"
+	},
+	{
+		"codigo": "CONS97-am2",
+		"nombre": "Análisis Matemático II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-ii/"
+	},
+	{
+		"codigo": "CONS97-estatica",
+		"nombre": "Estática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/estatica/"
+	},
+
+	{
+		"codigo": "CONS97-mecestr1",
+		"nombre": "Mecánica de las Estructuras I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/mecanica-de-las-estructuras-i/"
+	},
+	{
+		"codigo": "CONS97-arq1",
+		"nombre": "Arquitectura I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/arquitectura-i/"
+	},
+	{
+		"codigo": "CONS97-f2",
+		"nombre": "Física II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-ii-2/"
+	},
+	{
+		"codigo": "CONS97-termotecnia",
+		"nombre": "Termotecnia",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/termotecnia/"
+	},
+
+	{
+		"codigo": "CONS97-instedif1",
+		"nombre": "Instalaciones en Edificios I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/instalaciones-en-edificios-i/"
+	},
+	{
+		"codigo": "CONS97-topo1",
+		"nombre": "Topografía I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/topografia-i/"
+	},
+	{
+		"codigo": "CONS97-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/modulo-de-ingles-1/"
+	},
+	{
+		"codigo": "CONS97-economia",
+		"nombre": "Economía",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/economia/"
+	},
+
+	{
+		"codigo": "CONS97-tecconst1",
+		"nombre": "Técnicas Constructivas I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/tecnicas-constructivas-i/"
+	},
+	{
+		"codigo": "CONS97-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/higiene-y-seguridad-2223/"
+	},
+	{
+		"codigo": "CONS97-hormigon",
+		"nombre": "Hormigón armado y Pretensado",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/hormigon-armado-y-pretensado/"
+	},
+	{
+		"codigo": "CONS97-legetica",
+		"nombre": "Legislación Ética y Profesional",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/legislacion-etica-y-profesional/"
+	},
+
+	{
+		"codigo": "CONS97-pdov",
+		"nombre": "Proyecto, Dirección de Obras y Valuaciones",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/proyecto-direccion-de-obras-y-valuaciones/"
+	},
+	{
+		"codigo": "CONS97-fundaciones",
+		"nombre": "Fundaciones",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/fundaciones/"
+	},
+	{
+		"codigo": "CONS97-arq2",
+		"nombre": "Arquitectura II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/arquitectura-ii/"
+	},
+
+	{
+		"codigo": "CONS97-instedif2",
+		"nombre": "Instalaciones en Edificios II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/instalaciones-en-edificios-ii/"
+	},
+	{
+		"codigo": "CONS97-tecconst2",
+		"nombre": "Técnicas Constructivas II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/tecnicas-constructivas-ii/"
+	},
+	{
+		"codigo": "CONS97-disestr",
+		"nombre": "Diseño de Estructuras",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/diseno-de-estructuras/"
+	}
+]
