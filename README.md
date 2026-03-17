@@ -13,6 +13,7 @@ Inspirado fuertemente en el proyecto [FIUBA-Map](https://github.com/fdelmazo/FIU
 - [Capturas / Demo](#capturas--demo)  
 - [Cómo usar](#cómo-usar)  
 - [Configuración de Firebase](#configuración-de-firebase)  
+- [Pendientes / TODO](#pendientes--todo)  
 - [Cómo contribuir](#cómo-contribuir)  
 - [Licencia](#licencia)  
 - [Agradecimientos](#agradecimientos)
@@ -84,6 +85,13 @@ Esta app usa Firebase cargado por script (CDN) y Firestore como base de datos. N
 - Notas:
   - Si la sincronización falla, la app sigue funcionando en modo local.
   - El DNI se usa como ID de documento en la colección `progreso`.
+
+---
+
+## Pendientes / TODO
+
+- Cargar los `programa_url` faltantes en materias de los planes nuevos (todos menos industrial 2025, biomedica 2005, biomédica 2025 y TUSD 2025).
+- Completar los `RTF` de `aeroespacial-2005`, porque se necesitan para calcular correctamente las condiciones de cursado de `Proyecto Integrador` y `Práctica Profesional Supervisada`.
 
 ---
 
