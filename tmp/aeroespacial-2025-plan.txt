@@ -1,0 +1,5248 @@
+Universidad Nacional de Córdoba
+1983/2023 - 40 AÑOS DE DEMOCRACIA
+Resolución H. Consejo Directivo
+Número: RHCD-2023-715-E-UNC-DEC#FCEFYN
+CORDOBA, CORDOBA
+Domingo 24 de Septiembre de 2023
+
+Referencia: EX-2022-01041957--UNC-ME#FCEFYN
+
+V I S T O:
+
+El presente expediente por el cual la Escuela de INGENIERÍA AERONÁUTICA solicita
+aprobar Plan de Estudios de la Carrera de INGENIERÍA AEROESPACIAL; y
+
+CONSIDERANDO:
+
+Que cuenta con el Visto Bueno de la Secretaría Académica Área Ingeniería;
+
+Lo aconsejado por la Comisión de ENSEÑANZA;
+
+EL H. CONSEJO DIRECTIVO DE LA
+FACULTAD DE CIENCIAS EXACTAS, FÍSICAS Y NATURALES
+R E S U E L V E:
+
+Art. 1º).- Aprobar el Plan de Estudios de la Carrera de INGENIERÍA AEROESPACIAL, que
+como ANEXO I forma parte de la presente Resolución.
+
+Art. 2°).- Elevar las presentes actuaciones al H. Consejo Superior para su consideración.
+
+Art. 3°).- Dese al Registro de Resoluciones, comuníquese a Secretaría Académica Área
+Ingeniería, al Área Apoyo Administrativo a la Función Docente, a Oficialía, a la Escuela de
+Ingeniería Aeronáutica y gírense las presentes actuaciones a la Secretaría General de la
+Universidad Nacional de Córdoba para la prosecución del trámite.
+DADA EN LA SALA DE SESIONES DEL H. CONSEJO DIRECTIVO, EN LA CIUDAD DE
+CÓRDOBA, A LOS OCHO DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL
+VEINTITRÉS.
+
+NB/Mbl
+
+Digitally signed by RUIZ CATURELLI Miguel Esteban
+Date: 2023.09.22 15:16:02 ART
+Location: Ciudad de Córdoba
+
+Digitally signed by RECABARREN Pablo Genaro Antonio
+Date: 2023.09.24 20:38:34 ART
+Location: Ciudad de Córdoba
+
+Miguel Ruiz Caturelli
+Secretario General
+Secretaría General Facultad de Ciencias Exactas, Físicas y Naturales
+Universidad Nacional de Córdoba
+
+Pablo Recabarren
+Decano
+Decanato Facultad de Ciencias Exactas Físicas y Naturales
+Universidad Nacional de Córdoba
+
+Digitally signed by GDE UNC
+DN: cn=GDE UNC, c=AR, o=Universidad
+Nacional de Cordoba, ou=Prosecretaria de
+Informatica, serialNumber=CUIT 30546670623
+Date: 2023.09.24 20:38:35 -03'00'
+
+Ingeniería Aeroespacial
+Plan de Estudios
+Escuela de Ingeniería Mecánica Aeronáutica
+
+Diciembre 2022
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+página 1 de 45
+
+Índice
+1. Diseño Curricular
+
+4
+
+1.1 Plan de Estudios
+
+4
+
+1.1.A Información general
+
+4
+
+1.1.B Alcances del Título y Actividades Reservadas
+
+5
+
+Alcances del Título
+
+5
+
+Actividades Reservadas
+
+5
+
+1.1.C Antecedentes y Fundamentación
+
+6
+
+Antecedentes
+
+6
+
+Fundamentación
+
+7
+
+1.1.D Objetivos de la carrera y perfil de egreso
+
+8
+
+Objetivos de la carrera
+
+8
+
+Propósitos del Plan de Estudios
+
+8
+
+Perfil de egreso
+
+8
+
+Competencias
+
+10
+
+Objetivos de Desarrollo Sostenible (ODS)
+
+10
+
+1.1.E Organización del plan de estudios
+
+11
+
+Estructura curricular del plan de estudios
+
+11
+
+Descripción de la estructura curricular
+
+13
+
+1.1.F Contenidos Mínimos
+
+15
+
+1.1.G Condiciones de Ingreso, requisitos de cursado, permanencia y egreso
+
+24
+
+Condiciones de ingreso
+
+24
+
+1.1.H Instancias de seguimiento del plan de estudios
+
+24
+
+1.1.I Aspectos metodológicos
+
+25
+
+Enfoque Metodológico
+
+25
+
+Pautas de evaluación
+
+26
+
+Instancias de Articulación
+
+26
+
+Tratamiento de los contenidos curriculares básicos
+
+26
+
+1.1.J Otros aspectos
+
+27
+
+Régimen de cursado de las asignaturas
+
+27
+
+Modalidad de cursado de las asignaturas
+
+27
+
+Programa Compromiso Social Estudiantil
+
+27
+
+1.2 Sistema de correlatividades y plan de transición
+
+27
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 2 de 45
+
+1.2.A Plan de transición
+
+27
+
+1.2.B Sistema de correlatividades
+
+28
+
+1.2.C Sistema Nacional de Reconocimiento Académico
+
+28
+
+1.3 Factibilidad Económica
+
+28
+
+2. SIED
+
+28
+
+3. Anexos
+
+29
+
+3.1 Anexo I: Competencias Genéricas.
+
+29
+
+Competencias tecnológicas
+
+29
+
+Competencias sociales, políticas y actitudinales
+
+29
+
+3.2 Anexo II: Matriz de tributación a competencias genéricas
+
+30
+
+3.3 Anexo III: Competencias Específicas
+
+31
+
+3.4 Anexo IV: Competencias Específicas Desagregadas
+
+32
+
+3.5 Anexo V: Matriz de tributación a competencias específicas
+
+33
+
+3.6 Anexo VI: Horas por bloque curricular
+
+34
+
+Detalle de la tributación a los bloques curriculares por asignatura
+
+34
+
+3.7 Anexo VII: Intensidad de la actividad práctica
+
+37
+
+3.8 Anexo VIII: Descriptores del conocimiento
+
+39
+
+3.9 Anexo IX: Matriz de tributación de ejes y enunciados multidimensionales y
+transversales
+
+41
+
+3.10 Anexo X: Bibliografía
+
+45
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 3 de 45
+
+1. Diseño Curricular
+1.1 Plan de Estudios
+1.1.A Información general
+Información General
+Nombre de la Carrera
+
+Ingeniería Aeroespacial
+
+Tipo de Presentación
+
+Modificación de Plan de
+Estudios
+
+Resolución HCS que aprueba
+el PE vigente:
+417-HCS-2006
+Resolución de validez
+nacional que aprueba el PE
+vigente:
+RESOL-2014-1669
+Resolución de acreditación
+CONEAU: 177/13
+
+Facultades que Participan
+
+Facultad de Ciencias Exactas, Físicas y Naturales
+
+Localización de la
+Propuesta
+
+Sede
+
+FCEFyN
+
+CPRES
+
+Centro
+
+Modalidad de la Carrera
+
+Presencial
+
+Nivel de Formación
+
+Grado Art. 43 - Con bachiller
+Resolución estándares de
+acreditación
+
+RESOL-2021-1563-APN-ME
+
+Título que Otorga
+
+Ingeniero Aeroespacial / Ingeniera Aeroespacial
+
+Duración y carga horaria de
+la carrera
+
+Total en Años
+
+5
+
+Total en Horas Reloj
+
+3774
+
+Total RTF
+
+300
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 4 de 45
+
+1.1.B Alcances del Título y Actividades Reservadas
+Alcances del Título
+1.1.1
+
+1.1.2
+
+Estudio, factibilidad, proyecto, planificación, dirección, construcción, instalación,
+puesta en marcha, operación, ensayos, mediciones, mantenimiento, reparación,
+modificación, transformación e inspección de:
+1.
+
+Aeronaves, vehículos espaciales y toda máquina de vuelo.-
+
+2.
+
+Instalación de plantas propulsoras y auxiliares aeronáuticas y espaciales.-
+
+3.
+
+Sistemas de control.-
+
+4.
+
+Talleres aeronáuticos y de mantenimiento, laboratorios de todo tipo relacionados
+con los incisos anteriores, excepto obras civiles.-
+
+Estudio, tarea y asesoramiento relacionados con:
+1.
+
+Técnicas aeronáuticas relativas a rutas y líneas de transporte aéreo,
+aeropuertos y bases aéreas.-
+
+2.
+
+Asuntos de Ingeniería Legal, Económica y Financiera relacionadas con los
+Incisos anteriores.-
+
+3.
+
+Arbitrajes, pericias y tasaciones relacionados con los incisos anteriores
+
+4.
+
+Higiene, Seguridad y contaminación ambiental relacionado con los incisos
+anteriores.Nota : Los presentes alcances, se corresponden en un todo con las
+incumbencias aprobadas por Resolución 1232/01 y contienen las Actividades
+Reservadas aplicables para el título de Ingeniero/a Aeroespacial según
+resolución ME 1254/18.
+
+Actividades Reservadas
+1. Diseñar, calcular y proyectar aeronaves, vehículos espaciales y toda máquina de
+vuelo, plantas propulsoras y auxiliares aeronáuticas y espaciales, sistemas de control
+aeronáuticos, instalaciones aeroportuarias, en aquello que afecte la operación y el
+funcionamiento de una aeronave y/o sus equipos, rutas y líneas de transporte aéreo.
+2. Proyectar, dirigir y controlar la construcción, operación y mantenimiento de lo
+anteriormente mencionado.
+3. Certificar el funcionamiento, condición de uso o estado de lo mencionado
+anteriormente.
+4. Proyectar y dirigir lo referido a la higiene y seguridad en su actividad profesional.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 5 de 45
+
+1.1.C Antecedentes y Fundamentación
+Antecedentes
+A partir de la Resolución CONEAU 177/13 la carrera de Ingeniería Aeronáutica Plan
+2005 fue acreditada por un plazo de seis años. De acuerdo al procedimiento de
+revisión de acreditaciones de carreras que están bajo el Artículo 43 de la LES (Ley de
+Educación Superior # 24.521), según aplicación de la Resolución del Ministerio de
+Educación 1232/01 y la recientemente emitida resolución del Ministerio de Educación
+1254/18, dónde se asignan las Actividades Reservadas para los/las graduados/as en
+su futuro ejercicio profesional, con equivalencia directa entre Ingeniería Aeronáutica e
+Ingeniería Aeroespacial, está Facultad de Ciencias Exactas, Físicas y Naturales,
+dependiente de la Universidad Nacional de Córdoba, considera necesario efectuar
+una revisión de los planes de estudios con el objetivo de adecuarse a la normativa
+vigente y a la vez enfrentar el desafío de la incorporación de nuevos conocimientos y
+tecnologías en la actividad profesional del ingeniero/a aeronáutico/a, o para este caso,
+ingeniero/a aeroespacial, con proyección hacia el próximo decenio.
+A tal fin, se procedió a reconsiderar los informes de autoevaluación del Plan anterior,
+que fueron empleados para la sustanciación de la última acreditación de la carrera de
+Ingeniería Aeronáutica por parte de CONEAU. Sobre esta base, y procurando
+implementar la formación por competencias, se presentan las propuestas siguientes:
+1) Adecuar el plan de estudios en vigencia (2005) a lo establecido en la resolución
+1254/18 del Ministerio de Educación, procurando migrar la actual estructura de la
+carrera al concepto de formación por competencias.
+2)
+
+Mantener la Práctica Profesional asegurando el cumplimiento de las 200 horas
+que requiere la resolución 1232/01 para esta actividad y mantener la actividad del
+Proyecto Integrador como requisito de la dedicación, por parte del estudiante, a
+tareas de proyecto y diseño, en un mismo espacio curricular denominado Práctica
+Profesional Integradora.
+
+3)
+
+Mantener la posibilidad del estudiante de optar por materias selectivas para
+garantizar su formación profesional complementando así las horas mínimas de
+Proyecto, Diseño y Mantenimiento de aeronaves y sus sistemas.
+
+4)
+
+Proceder a renombrar la carrera con la designación de Ingeniería Aeroespacial.
+
+En base a estos requerimientos y para incluir los conceptos de competencias, la
+Escuela de Ingeniería Mecánica Aeronáutica procedió a la elaboración de un plan de
+estudios que responde a lo requerido, procurando que las adecuaciones a introducir
+no impacten significativamente en la carga horaria, con la intención de minimizar las
+deserciones, desgranamientos y prolongación excesiva de cursado.
+La nueva propuesta del plan de estudios no modifica “El Perfil Profesional” ni los
+“Alcances del Título”, si bien se cambian los espacios curriculares, horas del plan de
+estudios, actividades reservadas (debido a los nuevos estándares) y denominación de
+la carrera, las consultas se realizaron en el seno de la Facultad con los docentes que
+dictan asignaturas en la carrera de Ingeniería Aeronáutica y demás Ingenierías, a
+través de CAPA, especialmente IEM e IM, sumando criterios para un mejor desarrollo
+de los conocimientos. Anteriormente, se trataron también los conceptos de esta
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 6 de 45
+
+modificación a través de la RUIA, que es la Red Universitaria de las Carreras de
+Ingeniería Aeronáutica de la República Argentina, constituida por las universidades
+dónde actualmente se dicta está carrera (UNLP, UTN HAEDO, IUA y UNC),
+incluyendo además el Consejo Profesional CPIAyE responsable por la emisión de la
+matrícula profesional.
+
+Fundamentación
+El aprendizaje centrado en el estudiante, adoptado para el presente plan de
+estudios, implica un cambio de enfoque en la metodología de enseñanza.
+Esto surge, entre otras razones, como respuesta frente a las recomendaciones del Consejo
+Federal de Decanos de Ingeniería (CONFEDI), en cuanto a la implementación de planes de
+estudios diseñados por competencias. .
+A su vez, la reciente modificación de las actividades reservadas al título, introducida por el
+Consejo Interuniversitario Nacional (CIN), por Resolución CE Nº1131/16, y formalizada por
+el Ministerio de Educación de la Nación (ME), por Resolución 1254/2018, obligan a una
+revisión completa del plan de estudios.
+La creación del Sistema Nacional de Reconocimiento Académico (Resolución ME
+1870E/2016), y las modificaciones introducidas por el Ministerio de Educación de la Nación
+(Resoluciones 1563/2021) en contenidos curriculares básicos, carga horaria mínima,
+criterios de formación práctica y estándares para acreditación, también son una razón de
+mucho peso para la reformulación completa del plan de estudios.
+Por otra parte, se pretende establecer un ciclo básico común para la mayoría de las
+carreras de ingeniería dictadas por la Facultad de Ciencias Exactas Físicas y Naturales
+(FCEFyN), favoreciendo la movilidad de estudiantes entre carreras. Se considera la
+modificación del plan de estudios una oportunidad inmejorable para articular eficientemente
+los planes de estudios de carreras afines, como así también con otras carreras de grado y
+pregrado que pudieran proponerse.
+En todos los claustros existe una conformidad general con el actual plan de estudios, los
+resultados obtenidos y la adecuación de los graduados/as a las necesidades de la sociedad
+y la industria, no siendo estas las causas del cambio propuesto. No obstante se considera
+oportuna una revisión de dichos contenidos, a fin de actualizarlos, revisar la pertinencia de
+los contenidos respecto a las actividades reservadas y perfil del graduado/a, y coordinar los
+mismos entre las distintas asignaturas. A su vez, se busca también introducir mejoras en el
+plan de estudios tal que reduzcan el tiempo promedio de egreso,
+Finalmente, cabe mencionar que la propuesta se encuentra dentro de las necesidades
+descritas en el documento Áreas de Vacancia, Vinculación y Pertinencia y Planificación del
+Sistema Universitario, Secretaría Ejecutiva CPRES, Secretaría de Políticas Universitarias,
+Ministerio de Educación de la Nación
+A su vez, la región es un polo tecnológico con presencia de pequeñas, medianas y grandes
+empresas tecnológicas, con una alta demanda de profesionales de Ingeniería Aeroespacial.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 7 de 45
+
+1.1.D Objetivos de la carrera y perfil de egreso
+Objetivos de la carrera
+Desarrollar las competencias genéricas del Ingeniero/a y específicas del Ingeniero/a
+Aeroespacial propuestas en este plan de estudios. Para esto, se pretende formar
+profesionales que no sólo adquieran conocimientos, sino que sepan realizar su actividad
+profesional con ética, compromiso y responsabilidad.
+
+Propósitos del Plan de Estudios
+Adecuar la carrera a las nuevas recomendaciones de CONFEDI, estándares de
+acreditación y regulaciones actuales.
+Migrar a un sistema de formación basado en el aprendizaje centrado en el
+estudiante y formación en competencias.
+Adecuar los contenidos a fin de evitar redundancias, coordinando las actividades
+entre asignaturas.
+Revisar la pertinencia de los temas respecto del estado del arte y alcances del título.
+Implementar modificaciones que permitan disminuir el tiempo real de egreso.
+Articular la carrera con las demás ingenierías, permitiendo movilidad entre carreras
+de ingeniería y otras titulaciones.
+Disminuir la deserción y desgranamiento de los estudiantes.
+Abastecer al medio de profesionales con sólida formación y competencias de egreso
+acordes a los desafíos y necesidades actuales de la sociedad y la industria.
+
+Perfil de egreso
+Los documentos publicados por CONFEDI “Acuerdo de Competencias Genéricas (2017)” y
+Libro Rojo de CONFEDI (2018) establecen las competencias genéricas del ingeniero/a y
+competencias específicas de ingeniero/a aeroespacial. Dichas competencias forman parte
+del perfil del graduado/a y se incluyen en el presente plan de estudios.
+A continuación se describe el perfil del graduado/a deseado por esta unidad académica.
+Características Generales del graduado/a:
+Reconocer la realidad social, política, económica y tecnológica que rodea a la
+Universidad.
+Tomar conciencia del impacto social y ambiental de cualquier proyecto de ingeniería
+de su especialidad.
+Reconocer los valores fundamentales de la vida en sociedad, conduciendo sus
+acciones hacia el bienestar general y empeñando su trabajo hacia la construcción de
+una sociedad más justa.
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 8 de 45
+
+Formación generalista, creativa e innovadora, con capacidad para especializarse en
+cualquier área específica aeroespacial.
+Capacidad de resolver problemas de la sociedad y la industria, con actitud ética,
+crítica y creativa, considerando aspectos políticos, sociales, económicos,
+ambientales y culturales.
+Disponer de capacidad e inclinación por el trabajo intelectual sostenido, conducirse
+con genuina capacidad de razonamiento, espíritu crítico y actitud creativa.
+Estudiar, analizar, comprender y resolver problemas, esto es, disponer de capacidad
+de análisis para comprender el problema y capacidad de síntesis para aplicar sus
+conocimientos generales y específicos para resolverlos.
+Integrar grupos de trabajo multidisciplinarios, disponiendo de amplitud de criterio,
+disposición para la discusión de hipótesis y una correcta utilización de la
+comunicación oral y escrita.
+Reconocer la necesidad de su actualización permanente, disponer de capacidad de
+aprender en forma autónoma y transmitir sus conocimientos a personas de igual o
+menor nivel de formación técnica.
+Conocer la ética como ciencia formativa y la práctica que sustenta el accionar
+profesional de manera sostenible.
+Emitir juicios éticos frente a las distintas posturas filosóficas que fundamentan el
+hacer profesional.
+Transferir los resultados de la investigación a situaciones concretas según el área de
+trabajo.
+Participar en investigaciones y dirigirlas.
+
+Características Particulares del graduado/a:
+Sólida formación de en los principios de la actividad aeroespacial, tal que le permitan
+aprender en forma autónoma y desempeñarse correctamente en todas las tareas
+que involucran el proyecto, operación y mantenimiento de:
+Aeronaves, vehículos espaciales y toda máquina de vuelo,
+Plantas propulsoras y auxiliares aeronáuticas y espaciales,
+Sistemas de control aeronáuticos,
+Instalaciones aeroportuarias, en aquello que afecte la operación y el
+funcionamiento de una aeronave y/o sus equipos, rutas y líneas de transporte
+aéreo.
+Formación básica y general sobre planificación, administración y control de los
+recursos humanos y financieros referidos a proyectos u obras, conceptos
+funcionales de la estructura operátiva de una empresa, ingeniería de producto y
+control de calidad.
+Sólida formación científica, técnica y profesional tal que le permitan aprender y
+desarrollar nuevas técnicas y tecnologías.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 9 de 45
+
+Competencias
+Las competencias de egreso a desarrollar se dividen en:
+Competencias Genéricas del Ingeniero/a.
+Competencias tecnológicas.
+Competencias políticas, sociales y actitudinales.
+Competencias Específicas del Ingeniero/a Aeroespacial.
+
+Las Competencias Genéricas se encuentran definidas en el Anexo I de este
+documento y cubren los ejes transversales establecidos en el estándar de acreditación.
+Cada asignatura será responsable de colaborar con el desarrollo de determinadas
+Competencias Genéricas, según se detalla en la matriz del Anexo II.
+En el programa analítico de cada materia, la Cátedra deberá incorporar un
+desagregado de estas competencias. Para este fin se adopta el desagregado propuesto en
+el documento Acuerdo de Competencias Genéricas elaborado por CONFEDI, pudiendo
+cada cátedra optar por otras. La Escuela recomienda la adopción de esta propuesta.
+Las competencias específicas del Ingeniero/a Aeroespacial, basadas en las
+actividades reservadas, cubren los enunciados establecidos en el bloque de Tecnologías
+Aplicadas del estándar de acreditación y se detallan en el Anexo III.
+Debido a que es necesario un mayor nivel de desagregación para poder definir cómo
+colaborarán las asignaturas a su desarrollo, la Escuela IMA propone un desagregado de
+estas
+competencias
+y
+se
+muestran
+en
+el
+Anexo
+IV.
+Las asignaturas que colaboran con el desarrollo de cada competencia específica se
+encuentran definidas en las matrices de tributación de “Anexo V: Matriz de tributación de
+competencias específicas”.
+
+Objetivos de Desarrollo Sostenible (ODS)
+El perfil de egreso está alineado con la Agenda 2030 para el Desarrollo Sostenible,
+aprobada en 2015 por la Asamblea General de Naciones Unidas, la cual establece una
+visión transformadora hacia la sostenibilidad económica, social y ambiental de los 193
+Estados Miembros que la suscribieron. En esta agenda se definen 17 Objetivos de
+Desarrollo Sostenible (ODS), con 169 metas. La Universidad Nacional de Córdoba ha
+tomado la decisión institucional de contribuir a la divulgación de los ODS y a la elaboración
+de instrumentos para el seguimiento, verificación, información y comunicación de la
+integración estratégica de los mismos. El presente plan de estudios colabora de forma
+directa con el objetivo 4, y a través de las competencias de egreso propuestas, los/las
+futuros/as graduados/as colaborarán con los objetivos 7, 8, 9, 11 y 12.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 10 de 45
+
+1.1.E Organización del plan de estudios
+Estructura curricular del plan de estudios
+Estructura curricular del plan de estudios
+Facultad: Ciencias Exactas Físicas y Naturales
+Carrera: Ingeniería Aeroespacial
+Modalidad: Presencial
+Año
+
+Semestre
+
+Espacio
+Curricular
+
+Régimen de
+cursado
+
+Modalidad
+
+Carga
+horaria
+
+Carga
+horaria
+Semanal
+
+RTF
+
+CINEU
+
+CINEU
+
+Matemática
+
+—
+
+Presencial/a
+distancia
+
+48
+
+24
+
+3
+
+CINEU
+
+CINEU
+
+Física y
+Química
+
+—
+
+Presencial/a
+distancia
+
+48
+
+24
+
+3
+
+CINEU
+
+CINEU
+
+Ambientación
+Universitaria
+
+—
+
+22
+
+11
+
+1
+
+1
+
+1
+
+Sistemas de
+Representación
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+1
+
+1
+
+Análisis
+Matemático 1
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+1
+
+1
+
+Introducción a
+la Ingeniería
+
+Semestral
+
+Presencial
+
+48
+
+3
+
+3
+
+1
+
+1
+
+Química
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+5
+
+1
+
+2
+
+Ciencias de
+Materiales
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+1
+
+2
+
+Algebra Lineal
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+1
+
+2
+
+Física 1
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+1
+
+2
+
+Dibujo Técnico
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+2
+
+3
+
+Física 2
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+2
+
+3
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+5
+
+2
+
+3
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+2
+
+3
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+2
+
+4
+
+Termodinámica
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+2
+
+4
+
+Análisis
+Matemático 3
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+2
+
+4
+
+Mecánica de
+las Estructuras
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+2
+
+4
+
+Tecnología
+Mecánica
+
+Semestral
+
+Presencial
+
+96
+
+4,5
+
+7
+
+Probabilidad y
+Estadística
+Estructuras
+Isostáticas
+Análisis
+Matemático 2
+
+Presencial/a
+distancia
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 11 de 45
+
+3
+
+5
+
+3
+
+5
+
+3
+
+5
+
+3
+
+5
+
+3
+
+6
+
+3
+
+6
+
+3
+
+6
+
+3
+
+6
+
+4
+
+7
+
+4
+
+7
+
+4
+
+7
+
+4
+
+7
+
+4
+
+7
+
+4
+
+8
+
+4
+
+8
+
+4
+
+8
+
+4
+
+8
+
+4
+
+8
+
+5
+
+9
+
+5
+
+9
+
+5
+
+9
+
+5
+
+9
+
+5
+
+10
+
+Aeronáutica
+General,
+Seminarios y
+Aeropuertos
+Módulo de
+Inglés
+Electrotecnia y
+Electricidad
+Mecánica
+Racional
+Teoría del
+Control
+Computación y
+Cálculo
+Numérico
+Mecánica de
+los Fluidos
+Mecanismos y
+Elementos de
+Máquinas
+Cálculo
+Estructural 1
+Dinámica. de
+los Gases 1
+Aerodinámica 1
+Organización
+Industrial y
+Empresarial
+Materia
+Selectiva 1
+Materia
+Selectiva 2
+Propulsión
+Instrumentos y
+Aviónica
+Cálculo
+Estructural 2
+Mecánica del
+Vuelo
+Cálculo
+Estructural 3
+Sistemas y
+Equipos del
+Avión
+Ingeniería de
+Diseño Asistido
+Materia
+Selectiva 3
+Proyecto y
+Construcción
+de Aviones
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+10
+
+Semestral
+
+Presencial
+
+48
+
+3
+
+3
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+8
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+8
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+10
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+6
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+6
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+48
+
+3
+
+5
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+7
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+7
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 12 de 45
+
+5
+
+10
+
+Ingeniería
+Económica y
+Legal
+
+Semestral
+
+Presencial
+
+96
+
+6
+
+6
+
+5
+
+10
+
+Higiene y
+Seguridad
+
+Semestral
+
+Presencial
+
+72
+
+4,5
+
+5
+
+5
+
+10
+
+Mantenimiento
+de Aeronaves
+
+Semestral
+
+Presencial
+
+72
+
+4.5
+
+7
+
+5
+
+10
+
+Práctica
+Profesional
+Integradora
+
+Semestral
+
+presencial
+
+296
+
+18,5
+
+16
+
+Carga horaria total de la carrera
+
+3774
+
+Horas
+Reloj
+
+300 RTF
+
+Carga horaria total excluido PPS y PI
+
+3478
+
+Horas Reloj
+
+NOTA (*): para el cálculo del total de horas a distancia, las asignaturas que se proponen en
+ambas modalidades, son computadas como a distancia.
+Los valores de dedicación presencial y RTF correspondientes a las asignaturas optativas
+son valores mínimos.
+En los casos en que la cátedra no asigna un valor total de horas de dedicación del
+estudiante, el cálculo de RTF por asignatura se realiza empleando la siguiente fórmula de
+estimación:
+Carga horaria total (CHT) = CHP + K CHP
+Donde:
+K=1,25 para el bloque curricular de Ciencias Básicas
+K=1,5 para Tecnologías Básicas
+K=2 para Tecnologías Aplicadas
+K=1 para Tecnologías Complementarias.
+Se aplica redondeo a 0.5
+
+Para el cálculo de RTF se emplea
+RTF = CHT / 30
+
+Descripción de la estructura curricular
+La carrera está organizada en asignaturas. Tres de corta duración correspondientes
+al Ciclo de Iniciación a los Estudios Universitarios (CINEU) y el resto semestrales en su
+totalidad, agrupadas en diez semestres (5 años).
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 13 de 45
+
+Las asignaturas pertenecen a cuatro bloques curriculares: Ciencias Básicas, Tecnologías
+Básicas, Tecnologías Aplicadas y Tecnologías Complementarias.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 14 de 45
+
+1.1.F Contenidos Mínimos
+SEMESTRE
+CINEU
+
+CINEU
+
+Contenidos mínimos de los espacios curriculares de la carrera
+ASIGNATURA
+CONTENIDOS MINIMOS
+Matemática
+
+Física y Química
+
+CINEU
+
+Ambientación Universitaria
+
+1
+
+Sistemas de Representación
+
+1
+
+Análisis Matemático 1
+
+1
+
+1
+
+Introducción a la Ingeniería
+
+Química
+
+Números Reales y Complejos.
+Polinomios.
+Relaciones y funciones.
+Ecuaciones de primer y segundo grado
+Trigonometría
+
+Introducción a la Física
+El Movimiento
+Dinámica
+Introducción a la Química
+Nomenclatura química.
+Estequiometria
+Técnicas de estudio para un aprendizaje
+comprensivo en la Universidad
+Las Ciencias, la Tecnología y el conocimiento
+científico y tecnológico.
+La Universidad Nacional de Córdoba y la
+Facultad de Ciencias Exactas Físicas y Naturales
+Normativa y reglamentaciones
+·Aplicaciones de Geometría básica - Primitivas
+·Sistemas de Proyección
+·Edición - Capas
+·Representación de Sólidos – Vistas
+·Croquización - Bibliotecas
+·Principios de Acotación
+·Cortes, Secciones y Sombreado
+El Plano
+Representación as istida
+Funciones Reales de variable real.
+Límite, continuidad y derivadas.
+Variación de funciones.
+Integral definida.
+Funciones Primitivas- Métodos de Integración.
+Aplicaciones
+Definiciones de la ingeniería, ámbito y
+competencias necesarias para el ejercicio
+profesional.
+Historia
+y
+prospectiva
+tecnológica.
+Contextualización
+Relaciones entre: ingeniería, ciencia, tecnología,
+sociedad y medio ambiente.
+Proyecto y problemas tecnológicos.
+Innovación, emprendedurismo, liderazgo y
+trabajo en equipo
+Ética y responsabilidad profesional.
+Carreras de Ingeniería
+Estructura atómica.
+Estados de la materia.
+Enlaces Químicos.
+Estequiometria.
+Termodinámica.
+Equilibrio químico.
+Oxido-Reducción.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 15 de 45
+
+2
+
+Ciencias de Materiales
+
+2
+
+Algebra Lineal
+
+2
+
+Física 1
+
+Introducción a los materiales
+Estructuras cristalinas y sólidos no cristalinos.
+Propiedades de los materiales
+Fases y diagramas de fases
+Aleaciones metálicas ferrosas y no-ferrosas
+Materiales no metálicos: polímeros,
+cerámicos,compuestos
+Deterioro de materiales
+Sistema de Ecuaciones Lineales
+Matrices
+Vectores
+Espacios Vectoriales
+Aplicaciones Lineales
+Estática.
+Cinemática.
+Dinámica.
+Movimientos oscilatorios.
+Trabajo y Energía
+Gravitación.
+Elasticidad.
+Hidrostática e Hidrodinámica.
+Calor, Termometría y Dilatación.
+Ondas Sonoras –Acústica
+Representación de cuerpos, vistas, acotación,
+tolerancias dimensionales y geométricas
+Recursos a utilizar en la confección de planos.
+El croquis como herramienta de diseño,
+modelizado mediante CAD.
+Dimensionamiento de piezas por construcción y
+función.
+
+2
+
+Dibujo Técnico
+
+Símbolos de terminaciones y rugosidad,
+especificación de los materiales en el plano.
+Piezas conjugadas, montaje y ensamble de
+piezas.
+Modelizado y simulación de ensambles mediante
+CAD.
+Representación convencional de elementos de
+unión permanente y desmontable.
+
+3
+
+3
+
+Física 2
+
+Probabilidad y Estadística
+
+Ingeniería inversa aplicada al diseño de piezas
+Electrostática
+Magnetostática
+Propiedades eléctricas y magnéticas de la
+materia
+Potencial Eléctrico y Corriente Eléctrica
+Circuitos Eléctricos
+Corriente Alterna
+Campos y Ondas Electromagnéticas
+Óptica.
+Muestreo y tratamiento de datos
+Cálculo de Probabilidades
+Toma de decisiones con fundamento estadístico
+Regresión y correlación.
+Aplicaciones en la ingeniería.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 16 de 45
+
+3
+
+3
+
+Estructuras Isostáticas
+
+Análisis Matemático 2
+
+Introducción, conceptos y principios fundamentales.
+Sistemas de fuerzas concurrentes.
+Sistemas de fuerzas paralelas.
+Sistemas generales de fuerzas.
+Equilibrio de estructuras.
+Esfuerzos internos en estructuras isostáticas.
+Cónicas.
+Límites. Continuidad.
+Derivadas Parciales y Direccionales. Función
+diferencial.
+Funciones de
+RnR. Extremos Libres y Ligados. Integral
+Múltiple
+Funciones de RRp Curvas. Integrales de línea.
+Funciones de R2Rp. Superficies. Integrales de
+Superficie.
+Teoría de Campos vectoriales.
+Ecuaciones Diferenciales Ordinarias
+Sistemas termodinámicos.
+Primer Principio de la Termodinámica. Ecuación
+de la energía.
+Gases Perfectos y Reales.
+Segundo Principio de la Termodinámica.
+Funciones termodinámicas.
+
+4
+
+Termodinámica
+
+Ciclo de Sistemas Gaseosos.
+Ciclos de Vapor y ciclos frigoríficos.
+Mezcla y escurrimiento de gases y vapores.
+Fundamentos de Termotransferencia.
+Termoquímica y combustión.
+
+4
+
+Análisis Matemático 3
+
+Funciones de Variable Compleja.
+Integración en el Plano Complejo.
+Transformación Conforme.
+Series y Sucesiones.
+Ecuaciones Diferenciales.
+Problemas de Contorno.
+Ecuaciones en Derivadas Parciales.
+Cálculo Variacional.
+Fundamentos de la Resistencia de Materiales.
+Solicitaciones axiales.
+Propiedades de las superficies planas.
+Torsión
+
+4
+
+Mecánica de las Estructuras
+
+Flexión
+Corte.
+Estado plano de tensiones.
+Solicitaciones combinadas.
+Deformaciones por flexión.
+Inestabilidad por pandeo.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 17 de 45
+
+Las superficies y los procesos de maquinado con
+arranque de viruta.
+Metrología, Tolerancias y Ajuste.
+Estudio geométrico y desgaste de las
+herramientas de corte, materiales para
+herramientas de corte.
+Torneado, taladrado, fresado, brochado.
+4
+
+Tecnología Mecánica
+
+Los abrasivos en los procesos de maquinado.
+Métodos de mecanizado no convencionales,
+máquinas y programación CNC.
+Corte, doblado y estampado de chapa,
+soldadura.
+Forja.
+Fundición.
+Seminarios de introducción a la Aeronáutica
+Propiedades de la atmósfera y fundamentos del
+flujo de aire
+Fuerzas y coeficientes aerodinámicos
+Introducción a la aerodinámica experimental
+
+5
+
+Aeronáutica General, Seminarios y
+Aeropuertos
+
+Aspectos generales de la aerodinámica de los
+perfiles y las superficies sustentadoras
+Componentes principales del avión
+Introducción a las actuaciones del avión
+Generalidades de los aeropuertos y el transporte
+aéreo
+Morfología.
+La frase sustantiva.
+
+5
+
+Módulo de Inglés
+
+La frase verbal.
+Coherencia textual.
+Funciones básicas del discurso científico-técnico
+Transformadores.
+Motores de CC y CA., servomotores, Actuadores
+Eléctricos
+Semiconductores y Rectificadores
+Amplificadores, Servoamplificadores
+Filtros pasivos y Osciladores
+
+5
+
+Electrotecnia y Electricidad
+
+Presentación Electrónica, tubos de rayos
+catódicos.
+Ondas electromagnéticas, propagación.
+Modulación de Amplitud de frecuencia
+Espectro de Radio frecuencias, VLF , LF y
+subsiguientes, su uso, propagación
+Antenas y Transmisores y Receptores
+
+5
+
+Mecánica Racional
+
+Sistemas de vectores deslizantes
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 18 de 45
+
+Cinemática del punto
+Cinemática del cuerpo rígido
+Dinámica del punto
+Movimiento central
+Movimiento vibratorio
+Dinámica de los sistemas
+Momentos de inercia
+Dinámica del cuerpo rígido
+Dinámica Analítica
+Introducción a sistemas realimentados.
+Modelización de los sistemas.
+Métodos matemáticos y numéricos de aplicación
+específica
+Funciones de transferencia
+6
+
+Teoría del Control
+
+Realimentación y sus efectos.
+Componentes característicos de servosistemas.
+Comportamiento transitorio y estabilidad.
+Compensadores.
+
+6
+
+Computación y Calculo Numérico
+
+Respuesta en frecuencia
+Introducción a la Computación Científica
+Fundamentos de la Programación Estructurada
+Entrada y salida de información
+Introducción al Cálculo Numérico
+Resolución numérica de ecuaciones y sistemas
+de ecuaciones
+Interpolación y aproximación de funciones
+Diferenciación e integración numérica
+Resolución numérica de ecuaciones diferenciales
+Aplicaciones de las ecuaciones diferenciales y
+modelado
+Propiedades de los fluidos.
+Cinemática elemental del movimiento fluido.
+Ecuaciones de conservación aplicadas a
+volumen de control.
+
+6
+
+Mecánica de los Fluidos
+
+Análisis diferencial del movimiento fluido.
+Análisis dimensional y semejanza.
+Flujo potencial.
+Flujo externo incompresible viscoso.
+Flujo interno incompresible viscoso
+Introducción a los mecanismos y a las máquinas
+Elementos de unión (uniones soldadas y
+adherentes)
+
+6
+
+Mecanismos y Elementos de
+Máquinas
+
+Elementos de sujeción (roscados, remaches,
+pernos, cuñas y pasadores)
+Embragues, Acoplamientos, Frenos y Volantes
+Lubricación y contacto deslizante
+Transmisión de potencia por fricción
+Transmisión mecánica con elementos flexibles
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 19 de 45
+
+(correas, cadenas, cables, ejes flexibles, etc.)
+Cojinetes de contacto rodante
+Resortes mecánicos
+Engranes y Engranajes (mecanismo diferencial,
+levas)
+Ejes fijos y ejes móviles
+Mecanismo de biela y manivela
+Análisis Estructural
+Teoremas energéticos.
+7
+
+Cálculo Estructural 1
+
+Métodos de las Fuerzas.
+Método de Rigidez.
+Inestabilidad estructural.
+Dinámica de las estructuras.
+Conceptos básicos y ecuaciones fundamentales
+de los fluidos compresibles
+La onda de choque recta y tratamiento
+unidimensional de la dinámica de los gases
+Flujo compresible con simple cambio de área.
+Efusores y difusores.
+
+7
+
+Dinámica. de los Gases 1
+
+Flujo adiabático con fricción en conducto de área
+constante y:Flujo en conductos con únicamente
+cambios en la temperatura de estancamiento.
+Análisis unidimensional de flujos más complejos.
+Elementos de la teoría de características y Flujo
+unidimensional inestacionario
+Soluciones del movimiento supersónico
+bidimensional estacionario
+Nomenclatura aerodinámica , Perfiles
+Aerodinámicos e Hipersustentadores
+El ala de envergadura finita. Las superficies
+sustentadoras
+Aerodinámica del fuselaje
+
+7
+
+Aerodinámica 1
+
+La hélice
+Características Aerodinámicas de
+configuraciones
+Efectos de compresibilidad en régimen subsónico
+Iintroducción al análisis de resultados de la
+aerodinámica experimental.
+
+7
+
+Organización Industrial y
+Empresarial
+
+La industria. Definición. Características.
+Organización y estructura de la empresa.
+La fábrica como unidad productiva.
+Análisis del trabajo.
+Investigación del mercado.
+Mantenimiento Industrial.
+Planificación, programación y control de la producción.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 20 de 45
+
+Dirección de operaciones.
+Gestión financiera y comercial de las empresas.
+Control de gestión.
+Ciclo económico.
+Planificación y gestión de proyectos. Metodologías ágiles
+7
+
+Materia Selectiva 1
+
+8
+
+Materia Selectiva 2
+
+No posee contenidos curriculares. Depende de la
+asignatura elegida
+No posee contenidos curriculares. Depende de la
+asignatura elegida
+Generalidades de Sistemas Propulsivos.
+Antecedentes y desarrollos.
+Teoría de la Propulsión.
+Procesos Termodinámicos. Ciclos Teóricos.
+Ciclos Reales. Diagrama P –
+
+ión.
+
+Combustión y Cámaras de Combustión, Motores
+Encendido Provocado y Encendidos por
+Compresión.
+. Combustibles para motores de Combustión
+Interna Alternativos (MCIA).
+Preparación de la Carga. Carga “L” del MCIA.
+Rendimientos, Renovación de la Carga.
+Performance de MCIA.
+8
+
+Propulsión
+
+El Encendido y la Lubricación.
+Tipos de Motores de Turbina de Gas.
+Ciclo Brayton.
+Turbina de Acción y Reacción
+Combustión Continua y Cámaras de Combustión.
+Compresores axiales y centrífugos. Curvas del
+compresor. “Bombeo”
+Combustibles y Materiales para Turbinas de Gas.
+Reparación, inspección y mantenimiento.
+Documentación.
+Performances del Turbomotor.
+Tomas de Aire.
+Accesorios del Turbomotor.
+Paneles de Instrumentos
+Medición de datos del aire
+Instrumentos de motores
+
+8
+
+Instrumentos y Aviónica
+
+Instrumentos de Control
+Instrumentos Giroscópico
+Navegadores y Comunicación de a bordo
+Directores y Control Automático de Vuelo
+Teoría de la elasticidad
+
+8
+
+Cálculo Estructural 2
+
+Criterios de falla
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 21 de 45
+
+Componentes estructurales
+Inestabilidad estructural
+Método de elementos finitos
+Concentración de tensiones y fatiga
+Mecánica de fractura
+Casos especiales de vigas
+Uniones
+Ecuaciones generales del avión
+Performances del avión
+Estabilidad Estática Longitudinal
+8
+
+Mecánica del Vuelo
+
+Estabilidad Dinámica Longitudinal
+Estabilidad Estática Lateral-direccional
+Estabilidad Dinámica Lateral-direccional
+Cargas: diagramas V-N
+Soluciones constructivas.
+Estructuras tolerantes al daño.
+
+9
+
+Cálculo Estructural 3
+
+Análisis de tensiones en estructuras semimonocasco.
+Análisis estructural con herramientas
+computacionales.
+Problemas de aeroelasticidad.
+Mecánica de los materiales compuestos.
+Diseño utilizando materiales compuestos.
+Sistemas Aeroespaciales eléctricos
+Sistemas Aeroespaciales Hidráulicos y
+Neumáticos
+Sistemas Aeroespaciales de Aire Acondicionado
+y Presurización
+
+9
+
+Sistemas y Equipos del Avión
+
+Sistemas Aeroespaciales de Oxigeno
+Sistemas Aeroespaciales de Seguridad,
+Protección y Emergencia
+Sistemas Aeroespaciales de Combustible
+Sistemas Aeroespaciales de trenes de aterrizaje
+
+9
+
+Ingeniería de Diseño Asistido
+
+9
+
+Materia Selectiva 3
+
+Sistemas Aeroespaciales de Comando de Vuelo
+y Motor
+Construcción de Partes
+Funciones avanzadas
+Creación de planos de partes
+Creación de Conjuntos y planos de conjuntos
+Animación de conjuntos
+Modelado de superficies
+Diseño de piezas en chapa plegada
+Computer-Assisted Machining (CAM)
+Computer-Assisted Engineering (CAE)
+No posee contenidos curriculares. Depende de la
+asignatura elegida
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 22 de 45
+
+Etapas de un Proyecto Aeronáutico
+Estudio de Arquitecturas Constitutivas de
+Aviones y sus Partes.
+
+10
+
+Proyecto y Construcción de
+Aviones
+
+Materiales Utilizados en la Construcción de
+Aviones.
+Fabricación Aeronáutica en Metal y Material
+Compuesto.
+Diseño preliminar.
+Integración del Diseño.
+Reparaciones y Variación del Diseño.
+
+10
+
+Ingeniería Económica y
+Legal
+
+Escuela del pensamiento económico
+Microeconomía
+Macroeconomía
+Ingeniería económica
+Gestión financiera y comercial de la empresa
+Introducción al derecho. Derecho civil y comercial
+Derecho administrativo.
+Derecho ambiental
+Derecho Aeronáutico
+Marco legal de aplicación a los derechos intelectuales.
+Ordenamiento legal y ético del ejercicio profesional.
+Consideraciones generales de la prevención de
+riesgos. Aspectos legales y éticos.
+Gestión de la prevención. Modelación de
+situaciones riesgosas.
+
+10
+
+Higiene y Seguridad
+
+Riesgos en máquinas, equipos e instalaciones.
+Riesgo de incendio y gestión de la emergencia.
+Riesgos del ambiente laboral.
+Gestión Ambiental.
+Las regulaciones aeronáuticas y los organismos
+de control.
+
+10
+
+Mantenimiento de Aeronaves
+
+10
+
+Práctica Profesional Integradora
+
+Organización del mantenimiento de aeronaves
+Procedimientos de Inspección.
+Factores Humanos
+Logística del Mantenimiento
+Gestión de calidad.
+No posee contenidos curriculares propios, depende de la
+práctica y del proyecto a realizar.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 23 de 45
+
+1.1.G Condiciones de Ingreso, requisitos de cursado, permanencia y
+egreso
+Condiciones de ingreso
+Aplican los requisitos establecidos en el Art 7 Ley de Educación Superior.
+Para postulantes extranjeros se aplican los requisitos y condiciones de ingreso establecidos
+por la UNC.
+
+Requisitos de cursado y permanencia
+Las condiciones de permanencia y régimen de estudiante son las establecidas en el
+Régimen de Alumno, las condiciones de aprobación de cada asignatura son las
+establecidas por cada cátedra y de acuerdo a la reglamentación vigente. Las asignaturas
+comunes con las de otras carreras ofrecidas en la Facultad de Ciencias Exactas, Físicas y
+Naturales, Universidad Nacional de Córdoba pueden aprobarse por equivalencia directa en
+caso de corresponder.
+Estudiantes de otras universidades que soliciten pases y equivalencias, podrán reconocerse
+hasta el máximo de asignaturas permitido por el Art. 92 del Estatuto de la Universidad
+Nacional de Córdoba o normativa más restrictiva de la Universidad Nacional de Córdoba o
+la FCEFyN.
+La Escuela se reserva el derecho de reconocer equivalencias con aquellas asignaturas
+correspondientes a los bloques curriculares de tecnologías aplicadas. En caso de
+corresponder, a fin de asegurar el perfil de egreso, deberán ser cursadas y aprobadas en la
+FCEFyN de la UNC, Tanto para pases y equivalencias como para pases a través del SNRA.
+
+Requisitos de egreso
+Para la obtención del título de grado de Ingeniero/a Aeroespacial es requisito la
+aprobación de la totalidad de las asignaturas y espacios curriculares exigidos en este plan
+de estudios incluido Práctica Profesional Integradora, y acreditar un mínimo de 300 RTF.
+
+Requisitos para la certificación de bachiller:
+Los requisitos para la obtención de la certificación académica de bachiller
+universitario se encuentran especificados en la Resolución Rectoral 1691-2018. Los
+requisitos particulares para esta carrera se aprobarán por acto administrativo independiente
+
+1.1.H Instancias de seguimiento del plan de estudios
+La Escuela, como coordinadora de la carrera, tiene a su cargo la evaluación y
+seguimiento del plan de estudios, para lo que cuenta con instrumentos implementados
+institucionalmente vigentes, mas
+los que se disponga implementar para tal fin.
+El seguimiento se centra en el análisis del proceso de enseñanza-aprendizaje,
+personal docente, estudiantes, y recursos de infraestructura y administrativos.
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 24 de 45
+
+Para esto se cuenta con las siguientes herramientas: Encuesta obligatoria a
+estudiantes de la carrera, sistema de control de gestión docente, anuario estadístico de la
+UNC
+e
+informes
+estadísticos
+de
+la
+carrera
+a
+requerimiento.
+La Escuela puede, además, implementar herramientas ad hoc, como encuestas a
+docentes, estudiantes y graduados/as a fin de determinar dificultades y proponer mejoras
+contínuas
+al
+proceso
+formativo.
+Asimismo, la Unidad Académica cuenta con un equipo técnico-pedagógico que
+puede acompañar estos procesos y, además, solicitar el acompañamiento y asesoramiento
+de la Unidad Central de Evaluación Institucional y Acreditación de Carreras de Grado de la
+UNC.
+El plan de estudios está diseñado para que los programas analíticos de las
+asignaturas puedan ser actualizados, a fin de mantener vigente la propuesta formativa a
+requerimiento de esta Escuela.
+
+1.1.I Aspectos metodológicos
+Enfoque Metodológico
+El enfoque metodológico adoptado por la FCEFyN para sus nuevos planes de
+estudios es el modelo centrado en el estudiante y el aprendizaje basado en competencias,
+abordado desde un enfoque constructivista.
+Competencia es desempeñarse con idoneidad integrando distintos saberes y valores en un
+contexto dado frente a situaciones profesionales con una determinada condición de calidad.
+Tradicionalmente en los procesos formativos el concepto de “saber” solamente hace
+referencia al conocimiento teórico (saber conocer), pero en este enfoque se extiende al
+saber hacer, y saber ser.
+El saber hacer se refiere a los conocimientos procedimentales, el manejo de técnicas y
+procedimientos necesarios para la ejecución de una tarea que en el caso de la ingeniería se
+trata la resolución de problemas de manera eficiente y sistemática.
+Por último, el saber ser se refiere a los conocimientos actitudinales, que permiten incorporar
+las competencias, sociales, éticas y valores al ejercicio profesional.
+Como puede verse, la sola definición de competencia pone de manifiesto un real cambio de
+enfoque en el proceso de aprendizaje.
+La enseñanza tradicional se basa en el desarrollo de determinados temas siendo la clase
+magistral el recurso pedagógico por excelencia. Aún las actividades prácticas tienen por
+objeto reforzar los conocimientos adquiridos.
+El proceso de aprendizaje por competencias pretende un desarrollo más integral en el cual
+obviamente es necesario que el estudiante adquiera esos mismos conocimientos, pero debe
+adquirir también la habilidad de emplearlos adecuadamente para el ejercicio profesional,
+como así también debe desarrollar la capacidad de aprender por sí mismo.
+Las actividades planteadas por el docente deben estar dirigidas ya no solo a reforzar
+conocimientos teóricos sino a desarrollar otras habilidades que pueden, por ejemplo,
+abarcar desde aprender a emplear la nueva herramienta adquirida a la resolución de un
+problema típico del ejercicio profesional, manejar correctamente los tiempos para la
+ejecución del trabajo, hasta poder desenvolverse en un grupo de trabajo.
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 25 de 45
+
+Como puede verse, se requiere para la implementación de un plan basado en competencias
+un cambio en la didáctica, sumando una diversidad de herramientas pedagógicas a las
+habituales en el aula.
+
+Pautas de evaluación
+Acorde a la propuesta metodológica, se realiza tanto la evaluación de contenidos
+conceptuales como actitudinales y procedimentales.
+Las herramientas de evaluación deberán estar especificadas por las cátedras en los
+programas analíticos de la asignatura y deberán ser acordes a la propuesta metodológica.
+La Escuela propone el empleo de indicadores de desempeño y rúbricas para la evaluación
+de competencias. Los indicadores de desempeño deben ser obtenidos a partir de las
+competencias propuestas y sus desagregados.
+Tanto Indicadores de desempeño, rúbricas, metodología de evaluación, criterio de
+calificación y condiciones de evaluación deben estar detalladas en el programa analítico de
+la asignatura.
+
+Instancias de Articulación
+La carrera prevé instancias de articulación horizontal y vertical entre los distintos
+espacios curriculares de la carrera.
+La articulación vertical está dada por la relación entre asignaturas correlativas,
+principalmente por aquellas que forman parte de un mismo eje temático. Las cátedras de
+estas asignaturas deben coordinar el diseño de sus actividades e instancias de aprendizaje
+de manera ensamblada tematicamente a fin de promover el desarrollo de competencias de
+manera progresiva.
+Las instancias de integración horizontal se promueven principalmente entre asignaturas de
+distintos ejes temáticos, que pueden o no encontrarse en el mismo semestre de la carrera.
+Las Instancias de articulación horizontal y vertical de la carrera son propuestas por la
+Escuela y aprobadas por acto administrativo independiente.
+
+Tratamiento de los contenidos curriculares básicos
+Los Contenidos Curriculares Básicos establecidos en la resolución CIN 1453/2019 y
+resolución Ministerio de Educación RESOL-2021-1563-APN-ME, se encuentran detallados
+en el punto 1.1.F.
+Como puede leerse en dicha resolución, junto a los descriptores del conocimiento
+correspondientes al bloque de Tecnologías Básicas, se han incluido enunciados
+multidimensionales y transversales.
+Los descriptores del conocimiento son cubiertos por las diferentes asignaturas en
+función de sus contenidos, tal como se detalla en el mencionado punto 1.1.F.
+Respecto a los enunciados, como la misma resolución establece, éstos no involucran una
+referencia directa a una disciplina o asignatura del plan de estudios, sino que requieren la
+articulación de conocimientos y de prácticas y fundamentan el ejercicio profesional.
+Para cubrir estos enunciados desde el enfoque adoptado por ésta unidad académica, se
+piensan los mismos en términos de competencias, y las distintas asignaturas tienen la
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 26 de 45
+
+responsabilidad de colaborar con el desarrollo de dichas competencias a lo largo del
+transcurso de la carrera.
+Los enunciados asociados al Bloque de Tecnologías Básicas son cubiertos por las
+competencias específicas mientras que los ejes transversales son cubiertos por las
+competencias genéricas.
+
+1.1.J Otros aspectos
+Régimen de cursado de las asignaturas
+La totalidad de las asignaturas que componen el plan de estudios son de régimen
+semestral (a excepción de CINEU).
+
+Modalidad de cursado de las asignaturas
+La modalidad de cursado de las asignaturas es presencial excepto CINEU, el cual
+tiene modalidad tanto presencial como a distancia. No obstante cada espacio curricular
+puede definir actividades en la modalidad a distancia de manera parcial, a condición de que
+estos no alcancen el 30%.
+
+Programa Compromiso Social Estudiantil
+Son aplicables los requisitos establecidos en la Ordenanza 04-HCS-2016 y su
+reglamentación.
+
+1.2 Sistema de correlatividades y plan de transición
+1.2.A Plan de transición
+Se prevé un plan de transición de Ingeniería Aeroespacial con el plan 232-97-05 de
+la carrera de Ingeniería Aeronáutica.
+En el mismo se establecen las equivalencias para las asignaturas de esta propuesta con
+dicho plan. Dichas equivalencias se hacen extensivas a las asignaturas de planes anteriores
+de la carrera Ingeniería Aeronáutica y otras carreras que tengan establecidas equivalencias
+directas con las asignaturas del plan 232-97-05.
+La tabla de equivalencias con el plan anterior es aplicable para los estudiantes del plan 23297-05 que deseen migrar a esta versión, indicando qué asignaturas del plan nuevo obtienen
+por equivalencia, como así también para aquellos que prefieran permanecer en el plan
+anterior, indicando que asignatura del nuevo plan deben cursar para cumplimentar los
+espacios curriculares pendientes del plan 232-97-05, pudiendo en este caso existir
+diferencias en el semestre de dictado.
+Las asignaturas del plan 232-97-05 que no guarden equivalencia con las de la nueva
+propuesta serán dictadas por el término que defina la Facultad en dicho plan de transición.
+El mismo, por su carácter de transitorio, no se incluye en el presente plan y será aprobado
+por acto administrativo independiente.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 27 de 45
+
+1.2.B Sistema de correlatividades
+El plan de correlatividades no se incluye en el presente plan y será aprobado por
+acto administrativo independiente.
+
+1.2.C Sistema Nacional de Reconocimiento Académico
+La carrera de grado de Ingeniería Aeroespacial, adopta la definición de trayectos
+formativos propuesto por el Sistema Nacional de Reconocimiento Académico (SNRA) tanto
+para pases y movilidades.
+La definición de los trayectos formativos correspondientes a éste plan de estudios
+será definido y aprobado por acto administrativo independiente.
+
+1.3 Factibilidad Económica
+Al tratarse de una modificación al plan de estudios de una carrera existente no se
+necesitan recursos adicionales.
+
+2. SIED
+Al ser una carrera a desarrollarse exclusivamente en modalidad presencial, no se desarrolla
+este apartado.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 28 de 45
+
+3. Anexos
+3.1 Anexo I: Competencias Genéricas.
+El desarrollo de estas competencias, en su conjunto, permite cubrir los descriptores
+genéricos transversales a la carrera, especificados en los estándares de acreditación.
+
+Competencias tecnológicas
+CG 1. Competencia para identificar, formular y resolver problemas de ingeniería.
+CG 2. Competencia para concebir, diseñar y desarrollar proyectos de ingeniería
+(sistemas, componentes, productos o procesos).
+CG 3. Competencia para gestionar, planificar, ejecutar y controlar proyectos de
+ingeniería (sistemas, componentes, productos o procesos).
+CG 4. Competencia para utilizar de manera efectiva las técnicas y herramientas de
+aplicación en ingeniería.
+CG 5. Competencia para contribuir a la generación de desarrollos tecnológicos y/o
+innovaciones tecnológicas.
+
+Competencias sociales, políticas y actitudinales
+CG 6. Competencia para desempeñarse de manera efectiva en equipos de trabajo.
+CG 7. Competencia para comunicarse con efectividad.
+CG 8. Competencia para actuar con ética, responsabilidad profesional y
+compromiso social, considerando el impacto económico, social y ambiental de su
+actividad en el contexto local y global.
+CG 9. Competencia para aprender en forma continua y autónoma.
+CG 10. Competencia para actuar con espíritu emprendedor.
+La asignación de competencias genericas a una determinada asignatura se realiza
+según se describen en este anexo. No obstante esto, se recomienda a las Cátedras tener
+en cuenta el desagregado de las mismas, propuesta por CONFEDI en el documento
+“Acuerdo de Competencias Genéricas” , a los fines de interpretar correctamente las
+competencias asignadas y facilitar la elaboración de indicadores de desempeño para las
+mismas.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 29 de 45
+
+3.2 Anexo II: Matriz de tributación a competencias genéricas
+COMPETENCIAS GENÉRICAS
+ASIGNATURAS
+Matemática
+Física y Química
+Ambientación Universitaria
+Sistemas de
+Representación
+Análisis Matemático 1
+Introducción a la Ingeniería
+Química
+Ciencia de los Materiales
+Algebra Lineal
+Física 1
+Dibujo Técnico
+Física 2
+Probabilidad y Estadística
+Estructuras Isostáticas
+Análisis Matemático 2
+Termodinámica
+Análisis Matemático 3
+Mecánica de las
+Estructuras
+Tecnología Mecánica
+Aeronáutica General,
+Seminarios y Aeropuertos
+Módulo de Inglés
+Electrotecnia y Electricidad
+Mecánica Racional
+Teoría del Control
+Computación y Cálculo
+Numérico
+
+CG 1
+B
+B
+
+CG 2
+
+CG 3
+
+CG 4
+
+CG 6
+
+M
+M
+B
+M
+A
+A
+A
+M
+A
+A
+A
+A
+A
+A
+
+CG 7
+B
+
+CG 8
+
+B
+A
+
+A
+B
+A
+A
+A
+A
+A
+M
+A
+A
+
+M
+
+B
+A
+
+A
+
+B
+B
+
+M
+M
+
+A
+
+M
+
+B
+
+M
+M
+
+A
+M
+B
+M
+M
+
+M
+A
+
+A
+
+M
+
+M
+A
+
+A
+
+M
+
+A
+M
+
+M
+M
+M
+
+A
+
+M
+
+M
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Cálculo Estructural 1
+Dinámica. de los Gases 1
+Aerodinámica 1
+Organización Industrial y
+Empresarial
+
+A
+A
+A
+
+A
+A
+
+M
+M
+
+M
+
+A
+
+Propulsión
+Instrumentos y Aviónica
+Cálculo Estructural 2
+Mecánica del Vuelo
+Cálculo Estructural 3
+Sistemas y Equipos del
+Avión
+Ingeniería de Diseño
+Asistido
+
+A
+A
+A
+A
+A
+
+A
+A
+
+A
+
+A
+
+M
+
+M
+
+M
+
+A
+
+A
+
+A
+
+B
+
+CG 10
+
+A
+
+A
+
+A
+A
+A
+
+CG 9
+B
+
+A
+
+Mecánica de los Fluidos
+Mecanismos y Elementos
+de Máquinas
+
+Proyecto y Construcción de
+Aviones
+Ingeniería Económica y
+
+CG 5
+
+A
+
+M
+
+M
+M
+A
+
+A
+
+M
+M
+M
+M
+
+M
+M
+A
+
+M
+M
+M
+
+M
+A
+
+A
+
+M
+
+A
+A
+
+M
+
+A
+
+A
+
+A
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 30 de 45
+
+Legal
+
+Higiene y Seguridad
+Mantenimiento de
+Aeronaves
+Práctica Profesional
+Integradora
+TOTAL
+
+A
+A
+
+35
+
+A
+
+M
+
+A
+
+M
+
+A
+
+A
+
+A
+
+29
+
+4
+
+20
+
+6
+
+M
+M
+
+4
+
+19
+
+6
+
+M
+
+A
+
+11
+
+2
+
+Nivel de Aporte
+A = Alto ; M = Medio ; B = Bajo
+
+3.3 Anexo III: Competencias Específicas
+Las competencias específicas para la carrera de Ingeniería Aeroespacial de la
+FCEFyN, de la Universidad Nacional de Córdoba (UNC) se basan en las propuestas por
+CONFEDI. En su conjunto, las competencias de este anexo cubren los descriptores
+transversales asociados a las tecnologías aplicadas, establecidos en los estándares.
+Competencias específicas para la carrera de INGENIERÍA AEROESPACIAL:
+
+CE 1. Competencias para diseñar, calcular y proyectar aeronaves, vehículos espaciales y
+toda máquina de vuelo, plantas propulsoras y auxiliares aeronáuticas y espaciales, sistemas
+de control aeronáuticos, instalaciones aeroportuarias -en aquello que afecte la operación y
+el funcionamiento de una aeronave y/o sus equipos-, rutas y líneas de transporte aéreo
+CE 2. Competencias para proyectar, dirigir y controlar la construcción, operación y
+mantenimiento de lo anteriormente mencionado.
+CE 3 Competencias para certificar el funcionamiento, condición de uso o estado de lo
+mencionado anteriormente.
+CE 4. Competencias para proyectar y dirigir lo referido a la higiene y seguridad en su
+actividad profesional
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 31 de 45
+
+3.4 Anexo IV: Competencias Específicas Desagregadas
+Con el fin de lograr una mejor comprensión y desarrollo de las competencias específicas
+descritas, se propone el siguiente conjunto de competencias específicas desagregadas.
+CE1A: Competencia para establecer parámetros de diseño y normas de mantenimiento y
+operación para todos los subsistemas eléctricos de aeronaves, vehículos espaciales y toda
+máquina de vuelo.
+CE1B Competencia para calcular, diseñar, proyectar y construir estructuras y componentes
+estructurales alas, fuselajes, costillas, cuadernas, largueros, tanque, estructuras auxiliares,
+plataformas para la operación excepto sus fundaciones, de aeronaves, vehículos espaciales
+y toda máquina de vuelo.
+CE1 C Competencia para calcular, diseñar y proyectar aerodinámica de vehículos en flujo
+incompresible y compresible.
+CE1 D Competencia para analizar la performance, la operación en distintas condiciones y
+todo lo referente a la mecánica de vuelo de aeronaves, vehículos espaciales y toda máquina
+de vuelo
+CE1 E . Competencia para calcular, diseñar, proyectar y construir plantas de propulsoras
+principales y auxiliares motores alternativos, a reacción, cohetes, compresores, cámaras de
+combustión, turbinas, hélices de aeronaves, vehículos espaciales y toda máquina de vuelo
+CE1 F Competencia para calcular y diseñar los diferentes sistemas mecánicos y elementos
+de máquinas aplicados a las aeronaves, vehículos espaciales y toda máquina de vuelo
+CE1 G: Competencia para diseñar y proyectar la realización del sistema de navegación,
+guiado y control de aeronaves, vehículos espaciales y toda máquina de vuelo.
+CE1 H: Competencia para diseñar y proyectar los principales parámetros de diseño
+aeroportuario y de bases aeroespaciales, en todo aquello que afecte la operación y el
+funcionamiento de una máquina de vuelo y/o sus equipos, rutas y líneas de transporte
+aéreo.
+CE1 I; Competencia para diseñar, proyectar y ensayar los principales parámetros
+pertinentes a laboratorios de ensayos y calibraciones de equipos de aplicados a las
+aeronaves, vehículos espaciales y toda máquina de vuelo.
+CE2 A. Competencia para proyectar, dirigir y controlar la construcción, operación y
+mantenimiento de aeronaves, vehículos espaciales y toda máquina de vuelo.
+CE3A: Competencia para certificar el funcionamiento, condición de uso o estado y aptitud
+para el vuelo de aeronaves, vehículos espaciales y toda máquina de vuelo.
+CE4A: Competencia para proyectar y dirigir lo referido a la higiene y seguridad en el campo
+aeroespacial.
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 32 de 45
+
+3.5 Anexo V: Matriz de tributación a competencias específicas
+CE 1
+
+CE2
+
+CE3
+
+CE4
+
+M
+
+M
+
+M
+
+ASIGNATURAS
+
+Sistemas de Representación
+Análisis Matemático 1
+Introducción a la Ingeniería
+Química
+Ciencia de los Materiales
+Algebra Lineal
+Física 1
+Dibujo Técnico
+Física 2
+Probabilidad y Estadística
+Estructuras Isostáticas
+Análisis Matemático 2
+Termodinámica
+Análisis Matemático 3
+Mecánica de las Estructuras
+Tecnología Mecánica
+Aeronáutica General, Seminarios
+y Aeropuertos
+Módulo de Inglés
+Electrotecnia y Electricidad
+Mecánica Racional
+Teoría del Control
+Computación y Cáculo Numérico
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+M
+M
+M
+
+M
+M
+M
+M
+
+M
+M
+M
+M
+
+M
+
+M
+M
+M
+M
+
+Ingeniería de Diseño Asistido
+Proyecto y Construcción de
+Aviones
+
+M
+
+B
+M
+
+M
+
+M
+M
+
+A
+
+A
+
+B
+
+M
+
+M
+
+M
+
+B
+
+B
+
+M
+
+A
+
+M
+
+M
+
+M
+
+M
+M
+
+M
+
+M
+
+M
+
+M
+M
+
+M
+M
+
+M
+M
+M
+A
+
+M
+M
+
+B
+
+M
+M
+M
+M
+
+M
+M
+
+M
+
+M
+M
+M
+M
+
+M
+M
+B
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+B
+
+M
+
+M
+
+M
+
+A
+
+M
+M
+M
+
+M
+M
+M
+
+B
+M
+
+M
+
+Mecánica de los Fluidos
+Mecanismos y Elementos de
+Máquinas
+Cálculo Estructural 1
+Dinámica. de los Gases 1
+Aerodinámica 1
+Organización Industrial y
+Empresarial
+Propulsión
+Instrumentos y Aviónica
+Cálculo Estructural 2
+Mecánica del Vuelo
+Cálculo Estructural 3
+Sistemas y Equipos del Avión
+
+M
+M
+
+M
+
+M
+A
+A
+
+M
+M
+
+M
+
+M
+M
+
+A
+A
+A
+A
+
+A
+M
+M
+M
+M
+
+M
+
+M
+
+M
+
+A
+
+A
+
+A
+
+A
+
+M
+
+M
+M
+M
+
+A
+M
+M
+M
+
+M
+M
+M
+
+M
+
+M
+
+M
+
+M
+
+A
+
+A
+
+A
+
+M
+
+M
+M
+
+B
+
+M
+
+M
+
+M
+
+M
+M
+
+M
+M
+M
+
+B
+M
+M
+
+M
+
+M
+
+M
+A
+M
+M
+M
+
+M
+M
+M
+M
+M
+
+A
+A
+M
+A
+M
+
+A
+A
+A
+A
+A
+
+A
+
+M
+
+A
+
+A
+
+M
+
+M
+
+A
+
+A
+
+M
+
+A
+M
+
+M
+
+M
+
+A
+
+M
+
+A
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 33 de 45
+
+Ingeniería Económica y Legal
+Higiene y Seguridad
+
+Mantenimiento de Aeronaves
+Práctica Profesional Integradora
+TOTAL
+
+M
+
+M
+
+A
+A
+12
+
+A
+A
+17
+
+A
+12
+
+A
+14
+
+M
+
+M
+
+M
+
+A
+
+A
+
+A
+
+M
+
+A
+
+A
+
+M
+
+M
+
+A
+
+A
+
+A
+
+A
+27
+
+A
+25
+
+A
+A
+25
+
+A
+A
+14
+
+A
+A
+25
+
+A
+A
+23
+
+A
+A
+27
+
+A
+A
+16
+
+Nivel de Aporte
+A = Alto ; M = Medio ; B = Bajo
+
+3.6 Anexo VI: Horas por bloque curricular
+El anexo II de la resolución-2021-1563-APN-ME del Ministerio de Educación de la Nación
+establece una duración mínima de la carrera de 3600 horas presenciales o 300RTF y la
+carga horaria mínima por bloque curricular.
+Bloque
+
+Mínimo Hs.
+
+Hs del plan
+
+Total Horas Presenciales
+
+3600
+
+3774
+
+Ciencias Básicas de la Ingeniería
+
+710
+
+1152
+
+Tecnologías Básicas
+
+545
+
+696
+
+Tecnologías Aplicadas
+
+545
+
+1544
+
+Ciencias y Tecnologías Complementarias
+
+365
+
+382
+
+A su vez, esta carrera tiene una duración mínima de 3774 hs, dado por las asignaturas
+obligatorias, Práctica Profesional Integradora y asignaturas optativas.
+
+Detalle de la tributación a los bloques curriculares por asignatura
+Cada asignatura pertenece a un determinado bloque curricular, siendo asignada al
+que la materia colabora con mayor preponderancia.
+El enfoque adoptado hace que muchos saberes sean desarrollados no en una determinada
+asignatura, sino de manera transversal a la carrera, siendo varias materias las responsables
+de colaborar con su desarrollo.
+Es por ello que, prácticamente todas las asignaturas, desarrollarán saberes
+correspondientes a más de un bloque curricular.
+En particular, los saberes actitudinales y procedimentales, como varios contenidos
+habitualmente ubicados dentro del bloque de tecnologías complementarias, serán cubiertos
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 34 de 45
+
+por distintas asignaturas, es por ello, que se elabora el siguiente detalle al fin de explicitar el
+aporte de cada asignatura a los bloques curriculares.
+Se hace notar que los enunciados multidimensionales y transversales, cubiertos por el
+desarrollo de las competencias genéricas, se incluyen según los estándares dentro del
+bloque de las tecnologías complementarias.
+Con lo antedicho se asume que todos los espacios curriculares tributan al bloque de
+Tecnologías Complementarias de dos formas: mediante la inclusión de contenidos no
+disciplinares como así también mediante las actividades que promueven el desarrollo de
+las mismas. Debido a que este aporte no implica necesariamente una disminución
+significativa al realizado al bloque curricular al que pertenece la materia, debe entenderse
+que las horas declaradas para el bloque de tecnologías complementarias son mínimas, a fin
+de asegurar el cumplimiento de los estándares.
+Semestre Asignatura
+CINEU
+
+Bloque
+Curricular
+
+Total
+Cs.
+Tec.
+Tec.
+Hs.
+Básicas Básicas Aplic
+
+Matemática
+
+Cs. Básicas
+
+48
+
+48
+
+Física y Química
+Ambientación
+Universitaria
+Sistemas de
+Representación
+Análisis
+Matemático 1
+Introducción a la
+Ingeniería
+
+Cs. Básicas
+
+48
+
+48
+
+Química
+Ciencias de
+Materiales
+
+Cs. Básicas
+
+2
+
+Algebra Lineal
+
+Cs. Básicas
+
+96
+
+96
+
+2
+
+Física 1
+
+Cs. Básicas
+
+96
+
+96
+
+2
+
+Dibujo Técnico
+
+Cs. Básicas
+
+96
+
+96
+
+3
+
+Física 2
+Probabilidad y
+Estadística
+Estructuras
+Isostáticas
+Análisis
+Matemático 2
+
+Cs. Básicas
+
+96
+
+96
+
+Termodinámica
+Análisis
+Matemático 3
+Mecánica de las
+Estructuras
+Tecnología
+Mecánica
+Aeronáutica
+General,
+Seminarios y
+Aeropuertos
+
+Tec. Básicas
+
+CINEU
+CINEU
+1
+1
+1
+1
+2
+
+3
+3
+3
+4
+4
+4
+4
+5
+
+5
+
+Módulo de Inglés
+
+Complementarias
+Cs. Básicas
+Cs. Básicas
+Complementarias
+
+Tec. Básicas
+
+Cs. Básicas
+Tec. Básicas
+Cs. Básicas
+
+Cs. Básicas
+Tec. Básicas
+Tec. Aplicadas
+
+22
+
+22
+96
+96
+
+96
+96
+48
+
+48
+72
+
+72
+
+96
+
+72
+
+96
+
+72
+72
+
+72
+96
+
+96
+72
+
+72
+96
+72
+96
+
+Tec. Aplicadas
+
+Compl. Observaciones
+
+96
+72
+96
+96
+
+96
+Complementarias
+
+48
+
+48
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 35 de 45
+
+5
+5
+6
+6
+6
+6
+
+7
+7
+7
+7
+
+7
+8
+8
+8
+8
+8
+9
+9
+
+9
+9
+10
+
+10
+
+10
+10
+
+Electrotecnia y
+Electricidad
+Mecánica
+Racional
+Teoría del
+Control
+Computación y
+Cálculo Numérico
+Mecánica de los
+Fluidos
+Mecanismos y
+Elementos de
+Máquinas
+Cálculo
+Estructural 1
+Dinámica. de los
+Gases 1
+Aerodinámica 1
+
+Tec. Básicas
+Tec. Básicas
+Tec. Aplicadas
+Cs. Básicas
+Tec. Básicas
+
+72
+72
+
+72
+96
+
+96
+96
+
+96
+
+96
+96
+
+Tec. Básicas
+Tec. Básicas
+Tec. Aplicadas
+Complementarias
+
+Materia
+Selectiva 1
+Materias
+Selectiva 2
+
+Tec. Aplicadas
+
+Instrumentos y
+Aviónica
+Cálculo
+Estructural 2
+Mecánica del
+Vuelo
+Cálculo
+Estructural 3
+Sistemas y
+Equipos del
+Avión
+Ingeniería de
+Diseño Asistido
+Materia
+Selectiva 3
+Proyecto y
+Construcción de
+Aviones
+Ingeniería
+Económica y
+Legal
+Higiene y
+Seguridad
+Mantenimiento de
+Aeronaves
+
+72
+
+Tec. Aplicadas
+
+Organización
+Industrial y
+Empresarial
+
+Propulsión
+
+72
+
+72
+
+72
+
+72
+72
+
+72
+72
+
+72
+
+96
+96
+
+Tec. Aplicadas
+Tec. Aplicadas
+Tec. Aplicadas
+Tec. Aplicadas
+Tec. Aplicadas
+Tec. Aplicadas
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+72
+
+Tec. Aplicadas
+
+72
+72
+
+Cs. Básicas
+Tec. Aplicadas
+
+48
+72
+
+Tec. Aplicadas
+
+48
+72
+96
+
+96
+Complementarias
+
+96
+96
+
+Complementarias
+Tec. Aplicadas
+
+72
+
+72
+72
+
+72
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 36 de 45
+
+10
+
+Práctica
+Profesional
+Integradora
+
+Tec. Aplicadas
+296
+
+296
+
+3.7 Anexo VII: Intensidad de la actividad práctica
+El anexo III de la resolución-2021-1563-APN-ME del Ministerio de Educación de la
+Nación establece un mínimo de 750 horas de formación práctica.
+Se detalla a continuación los principales aportes de los distintos espacios
+curriculares a la formación práctica.
+Si bien la mayoría de los espacios curriculares emplean una importante parte de su
+tiempo a la realización de prácticos, resolución de ejercicios, actividades de laboratorio o
+similares, la siguiente tabla se limita a contabilizar aquellas actividades que estrictamente
+están orientadas a desarrollar en el ingeniero/a las competencias necesarias para el
+cumplimiento de las Actividades Reservadas en el contexto descripto del ejercicio
+profesional.
+Se adopta este criterio en concordancia con lo propuesto en el Anexo III de los
+estándares, a fin de asegurar el cumplimiento del mínimo establecido aún con la
+interpretación más restrictiva en cuanto a qué tipo de actividades son consideradas a este
+fin..
+Por ello, las horas de formación práctica declaradas a continuación pueden
+considerarse mínimas, pudiendo los distintos espacios curriculares declarar valores
+mayores aún cuando no sean computados para este fin.
+Intensidad de la actividad práctica
+Carrera: Ingeniería Aeroespacial
+N°
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+Semestre
+
+Espacio Curricular
+
+Carga horaria
+Presenciales
+
+Horas de
+formación
+práctica
+
+CINEU
+
+Matemática
+
+48
+
+CINEU
+
+Física y Química
+
+48
+
+CINEU
+
+Ambientación Universitaria
+
+22
+
+1
+
+Sistemas de Representación
+
+96
+
+1
+
+Análisis Matemático 1
+
+96
+
+1
+
+Introducción a la Ingeniería
+
+48
+
+1
+
+Química
+
+72
+
+24
+
+2
+
+Ciencias de Materiales
+
+96
+
+48
+
+2
+
+Algebra Lineal
+
+96
+
+2
+
+Física 1
+
+96
+
+24
+
+2
+
+Dibujo Técnico
+
+96
+
+48
+
+3
+
+Física 2
+
+96
+
+24
+
+3
+
+Probabilidad y Estadística
+
+72
+
+3
+
+Estructuras Isostáticas
+
+72
+
+48
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 37 de 45
+
+15
+16
+17
+18
+19
+
+3
+
+Análisis Matemático 2
+
+96
+
+4
+
+Termodinámica
+
+72
+
+4
+
+Análisis Matemático 3
+
+96
+
+4
+
+Mecánica de las Estructuras
+
+72
+
+6
+
+4
+
+Tecnología Mecánica
+
+96
+
+24
+
+5
+
+Aeronáutica General, Seminarios y
+Aeropuertos
+
+96
+
+5
+
+Módulo de Inglés
+
+48
+
+24
+
+5
+
+Electrotecnia y Electricidad
+
+72
+
+24
+
+5
+
+Mecánica Racional
+
+72
+
+6
+
+Teoría del Control
+
+72
+
+24
+
+6
+
+Computación y Cálculo Numérico
+
+96
+
+48
+
+6
+
+Mecánica de los Fluidos
+
+96
+
+24
+
+Mecanismos y Elementos de Máquinas
+
+96
+
+9
+
+7
+
+Cálculo Estructural 1
+
+72
+
+15
+
+7
+
+Dinámica. de los Gases 1
+
+72
+
+7
+
+Aerodinámica 1
+
+72
+
+7
+
+Organización Industrial y Empresarial
+
+96
+
+7
+
+Materia Selectiva 1
+
+72
+
+8
+
+Materia Selectiva 2
+
+72
+
+8
+
+Propulsión
+
+72
+
+8
+
+Instrumentos y Aviónica
+
+72
+
+8
+
+Cálculo Estructural 2
+
+72
+
+8
+
+Mecánica del Vuelo
+
+72
+
+9
+
+Cálculo Estructural 3
+
+72
+
+9
+
+Sistemas y Equipos del Avión
+
+72
+
+9
+
+Ingeniería de Diseño Asistido
+
+48
+
+9
+
+Materia Selectiva 3
+
+72
+
+Proyecto y Construcción de Aviones
+
+96
+
+Ingeniería Económica y Legal
+
+96
+
+Higiene y Seguridad
+
+72
+
+Mantenimiento de Aeronaves
+
+72
+
+24
+
+Práctica Profesional Integradora
+
+296
+
+296
+
+3774
+
+854
+
+20
+21
+22
+23
+24
+25
+26
+27
+6
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+10
+43
+
+10
+
+44
+10
+45
+46
+
+10
+
+10
+Carga horaria total de la carrera
+
+9
+
+24
+
+24
+
+15
+
+36
+
+12
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 38 de 45
+
+3.8 Anexo VIII: Descriptores del conocimiento
+La siguiente tabla muestra qué espacios curriculares cubren los descriptores establecidos
+en los estándares.
+Área/Bloque
+Tecnologías Aplicadas
+
+Descriptor
+Aerodinámica y Mecánica de
+Vuelo
+
+Asignaturas que aportan al descriptor
+Aerodinámica 1
+
+Aeropuertos
+
+Aeronáutica General, Seminarios y
+Aeropuertos
+Cálculo Estructural 2
+
+Estructuras Aero-espaciales
+
+Mecánica del Vuelo
+
+Cálculo Estructural 3
+Aeronáutica General, Seminarios y
+Aeropuertos
+Instrumentos y Mediciones
+
+Mecanismos y elementos de
+Máquinas
+Procesos de Fabricación y
+Mantenimiento de todo vehículo
+de vuelo y sus equipamientos
+
+Instrumentos y Aviónica
+Aeronáutica General, Seminarios y
+Aeropuertos
+Mecanismos y Elementos de Máquinas
+Tecnología Mecánica
+Proyecto y Construcción de Aviones
+Mantenimiento de Aeronaves
+
+Propulsión
+
+Propulsión
+
+Sistemas de Control
+
+Sistemas y Equipos del Avión
+Teoría del Control
+
+Tecnologías Básicas
+
+Sistemas del Vehículo de Vuelo
+
+Sistemas y Equipos del Avión
+
+Descriptores transversales a las
+Tecnologías Aplicadas
+
+cubiertas en forma transversal por
+Competencias Especificas de la Ingeniería
+Aeronáutica
+
+Ciencias de los Materiales
+Electrotecnia y Electrónica
+
+Ciencias de los Materiales
+Electrotecnia y Electricidad
+Instrumentos y Aviónica
+
+Estática y Resis tencia de
+Materiales
+
+Estructuras Isostáticas
+Mecánica de las Estructuras
+
+Estructuras
+
+Cálculo Estructural 1
+
+Mecánica de los Fluidos
+
+Mecánica de los Fluidos
+Dinámica. de los Gases 1
+
+Mecánica Racional
+
+Ciencias y Tecnologías
+Complementarias
+
+Mecánica Racional
+
+Termodinámica
+
+Termodinámica
+
+Economía
+
+Ingeniería Económica y Legal
+
+Ética y Legislación
+Formulación y evaluación de
+proyectos
+
+Ingeniería Económica y Legal
+Organización Industrial y Empresarial
+Módulo de Inglés
+Introducción a la Ingeniería
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 39 de 45
+
+Proyecto y Construcción de Aviones
+Gestión Ambiental
+
+Higiene y Seguridad
+Tecnología Mecánica
+Higiene y Seguridad
+
+Gestión de la Calidad
+
+Tecnología Mecánica
+Mantenimiento de Aeronaves
+
+Ciencias Básicas de la
+Ingeniería – Física
+
+Higiene y Seguridad
+Organización Industrial
+
+Higiene y Seguridad
+
+Descriptores transversales a las
+Ciencias yTecnologías
+Complementarias
+
+cubiertas en forma transversal por
+Competencias Genericas de la Ingeniería
+Aeronáutica
+
+Calor
+
+Física 1
+
+Electricidad
+
+Física 2
+
+Electromagnetismo
+
+Física 2
+
+Magnetismo
+
+Física 2
+
+Mecánica
+
+Física 1
+
+Organización Industrial y Empresarial
+
+Óptica
+
+Física 2
+
+Ciencias Básicas de la
+Ingeniería - Informática
+
+Fundamentos de Programación
+
+Computación y Cálculo Numérico
+
+Ciencias Básicas de la
+Ingeniería - Matemáticas
+
+Álgebra lineal
+
+Álgebra Lineal
+Análisis Matemático1
+
+Cálculo Diferencial e Integral
+
+Análisis Matemático 2
+Análisis Matemático 3
+Análisis Matemático 1
+
+Cálculo y Análisis Numérico
+
+Análisis Matemático 2
+Análisis Matemático 3
+Computación y Cálculo Numérico
+
+Ecuaciones diferenciales
+
+Análisis Matemático 2
+Análisis Matemático 3
+
+Geometría Analítica
+Probabilidad y Estadística
+
+Álgebra Lineal
+
+Ciencias Básicas de la
+Ingeniería - Química
+
+Fundamentos de Química
+
+Química
+
+Ciencias Básicas de la
+Ingeniería - Sist. De
+Representación.
+
+Sistemas de Representación
+Gráfica
+
+Probabilidad y estadística
+
+Sistemas de Representación
+Dibujo Técnico
+Ingeniería de Diseño Asistido
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 40 de 45
+
+3.9 Anexo IX: Matriz de tributación de ejes y enunciados
+multidimensionales y transversales
+Como se menciona en el anexo VIII, los descriptores Transversales y Enunciados
+Transversales a las Tecnologías Aplicadas son cubiertos, en su conjunto, por el conjunto
+de las competencias genéricas y específicas adoptadas.
+Debido a que no se se ha explicitado una correlación directa entre la redacción de dichas
+competencias, y los descriptores enunciados en la resolución RESOL-2021-1563-APN-ME,
+se elabora la siguiente matriz de tributación a los fines de sintetizar el aporte de cada
+espacio curricular a los descriptores, basada en las matrices de tributación de
+competencias.
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 41 de 45
+
+Asignatura
+
+EJES TRANSVERSALES
+1 1 1 1 1 1
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+
+Matemática
+
+1
+6
+
+1
+7
+
+1
+8
+
+1
+9
+
+2
+0
+
+2
+1
+
+2
+2
+
+M
+
+Física y
+Química
+Ambientación
+Universitaria
+Sistemas de
+Representació
+n
+Análisis
+Matemático 1
+
+M
+
+M
+M
+M
+
+Introducción a
+la Ingeniería
+
+A
+
+A
+
+B
+
+A
+
+M
+
+Química
+Ciencia de los
+Materiales
+
+M
+
+A
+
+B
+
+M M M M M M M M A M
+
+A
+
+M
+
+M
+M
+
+Algebra Lineal
+
+A
+
+A
+
+Física 1
+
+A
+
+A
+
+Dibujo Técnico
+
+M
+
+Física 2
+
+A
+
+A
+
+M
+
+A
+
+A
+
+B
+
+A
+
+M
+
+A
+
+A
+
+M M A
+
+A
+
+Probabilidad y
+Estadística
+Estructuras
+Isostáticas
+Análisis
+Matemático 2
+Termodinámic
+a
+
+M
+
+M
+
+M M M
+
+M M M M M
+
+Análisis
+Matemático 3
+
+B
+
+M
+
+M M M M M
+
+A
+
+M
+
+M
+
+M M M
+
+M
+
+Tecnología
+Mecánica
+Aeronáutica
+General,
+Seminarios y
+Aeropuertos
+
+M
+
+M M M
+
+M A A
+
+A
+
+B M M M B B M A M M M
+
+M
+
+Electrotecnia y
+Electricidad
+Mecánica
+Racional
+
+M
+
+A
+
+A
+
+M
+
+M
+
+A
+
+Mecánica de
+las Estructuras
+
+Módulo de
+Inglés
+
+2
+3
+
+A
+
+M
+A
+
+M
+A
+
+M M M M M M M M M M M M
+M
+
+A
+
+M M M M M M M M A M
+M B M M M M
+
+B
+
+A
+
+A
+
+M
+
+M
+
+M
+
+M
+M
+
+M
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 42 de 45
+
+Asignatura
+
+EJES TRANSVERSALES
+1 1 1 1 1 1
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+
+1
+6
+
+Teoría del
+Control
+
+B
+
+Computación
+y Cáculo
+Numérico
+Mecánica de
+los Fluidos
+Mecanismos
+y Elementos
+de Máquinas
+
+M M M A
+
+M M M M M M M
+M M M B M
+M A
+
+Cálculo
+Estructural 1
+
+M
+
+Dinámica. de
+los Gases 1
+Aerodinámica
+1
+
+Organizació
+n Industrial y
+Empresarial
+
+M M M
+
+Cálculo
+Estructural 2
+
+A
+
+M
+
+M M M
+
+A
+
+A
+
+M
+
+A
+
+A
+
+M M M M A
+
+A
+
+B
+
+1
+9
+
+M
+
+A
+
+A
+
+M
+
+M
+
+A M M M
+
+M M M
+
+A
+
+A
+
+M
+
+M
+
+M
+
+A
+
+M M M M
+
+M A M
+A
+
+M
+A
+
+A M
+A
+
+Sistemas y
+Equipos del
+Avión
+
+A
+
+M
+
+A M A M A A
+
+A
+
+A
+
+M
+
+M M M A
+
+A
+
+M M M M A A
+
+A
+
+A
+
+A
+
+M A M A A
+
+A
+
+A
+
+M
+
+M
+
+M
+
+A
+
+A
+
+A
+
+Proyecto y
+Construcción
+de Aviones
+
+A A A A A A A M A A
+
+A A
+
+Ingeniería
+Económica
+y Legal
+
+M M M A
+
+A A
+
+B
+
+M M M M
+
+M M
+
+Higiene y
+Seguridad
+
+M M
+
+M A A M M A
+
+A A
+
+A
+
+Mantenimient
+
+A A
+
+A A A A
+
+A A
+
+A
+
+A
+
+A
+
+M
+
+A
+
+A
+
+M
+
+A
+A
+
+A
+
+M
+
+M
+
+A
+
+M M M
+
+M
+
+M
+
+M
+
+M M M A
+
+Ingeniería de
+Diseño
+Asistido
+
+2
+3
+
+M
+
+M
+
+A
+
+M M M
+A
+
+A
+
+M M A A
+
+M M M
+
+2
+2
+
+M
+
+M M M
+
+M
+
+2
+1
+
+M
+
+A M M M
+
+M
+
+2
+0
+
+A
+
+A
+
+Mecánica del
+Vuelo
+Cálculo
+Estructural 3
+
+M
+
+1
+8
+
+M B
+
+Propulsión
+Instrumentos
+y Aviónica
+
+M
+
+1
+7
+
+M
+
+M
+
+A
+
+A
+
+M
+
+M
+
+M
+
+M
+
+A
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 43 de 45
+
+o de
+Aeronaves
+Práctica
+Profesional
+Integradora
+
+A A A A A A A A A A
+
+A A
+
+A
+
+A
+
+A
+
+M
+
+A
+
+Nivel de Aporte
+A = Alto ; M = Medio ; B = Bajo
+Ejes y enunciados multidimensionales y transversales.
+1. Establecimiento de parámetros de diseño y normas de mantenimiento y operación para todos
+los subsistemas eléctricos de aeronaves, vehículos espaciales y toda otra máquina devuelo.
+2. Cálculo, diseño, proyecto y construcción de estructuras y componentes estructurales,
+estructuras auxiliares y plataformas para la operación -excepto sus fundaciones- de aeronaves,
+vehículos espaciales y toda otra máquina de vuelo.
+3. Cálculo, diseño y proyecto en aerodinámica de vehículos en flujo incompresible y compresible.
+4. Análisis de la performance, la operación en distintas condiciones y la mecánica de vuelo de
+aeronaves, vehículos espaciales y toda otra máquina de vuelo.
+5. Cálculo, diseño, proyecto y construcción de plantas de propulsoras principales yauxiliares,
+motores alternativos, a reacción, cohetes, compresores, cámaras de combustión, turbinas,
+hélices de aeronaves, vehículos espaciales y toda otra máquina de vuelo.
+6. Cálculo y diseño de los diferentes sistemas mecánicos y elementos de máquinas aplicados a las
+aeronaves, vehículos espaciales y toda otra máquina de vuelo.
+7. Diseño, proyecto e implementación del sistema de navegación, guiado y control de aeronaves,
+vehículos espaciales y toda otra máquina de vuelo.
+8. Diseño y proyecto de los principales parámetros de diseño aeroportuario y de bases
+aeroespaciales, relacionados con la operación y el funcionamiento de una máquina
+de vuelo y/o sus equipos, rutas y líneas de transporte aéreo.
+9. Diseño, proyecto y ensayo de los principales parámetros pertinentes a los laboratorios de
+ensayos y calibraciones de equipos aplicados a las aeronaves, vehículos espaciales y toda otra
+máquina de vuelo.
+10. Proyecto, dirección y control de la construcción, operación y mantenimiento de aeronaves,
+vehículos espaciales y toda otra máquina de vuelo.
+11. Certificación del funcionamiento, condición de uso o estado y aptitud de lo relacionado con el
+campo aeronáutico y aeroespacial.
+12. Proyecto y dirección de lo referido a la seguridad en los sistemas específicos del campo
+aeronáutico y aeroespacial.
+13. Identificación, formulación y resolución de problemas de ingeniería aeronáutica y
+aeroespacial.
+14. Concepción, diseño y desarrollo de proyectos de ingeniería aeronáutica y aeroespacial.
+15. Gestión, planificación, ejecución y control de proyectos de ingeniería aeronáutica y
+aeroespacial.
+16. Utilización de técnicas y herramientas de aplicación en la ingeniería aeronáutica y
+aeroespacial.
+17.Generación de desarrollos tecnológicos y/o innovaciones tecnológicas.
+18. Desempeño en equipos de trabajo.
+19. Comunicación efectiva
+20. Actuación profesional ética y responsable.
+21. Evaluación y actuación en relación con el impacto social de su actividad profesional en el
+contexto global y local.
+IF-2023-00731245-UNC-EIMA#FCEFYN
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 44 de 45
+
+22. Aprendizaje continuo.
+23. Desarrollo de una actitud profesional emprendedora.
+
+3.10 Anexo X: Bibliografía
+Plan de estudios carrera de Ingeniería Aeronáutica F.C.E.F.yN. – U.N.C. 232-97-05.
+Resolución HCS-731-2019: Pautas para estructurar un plan de estudios en
+modalidad presencial o a distancia.
+Ley 24.521: Ley de Educación Superior.
+Propuesta de estándares de segunda generación para la acreditación de carreras de
+ingeniería en la república argentina “LIBRO ROJO DE CONFEDI”. Octubre de 2018.
+Anuario Estadístico 2017 Universidad Nacional de Córdoba.
+Régimen de Alumno – Texto Ordenado 2006(Res. N° 154-H.C.D.-2002, Res. 907-A2002, Res. 114-H.C.D.-2003 y 680-H.C.D.-2006).
+Áreas de vacancia, vinculación y pertinencia y planificación del sistema universitario.
+Secretaría Ejecutiva CPRES, ISBN 978-950-00-1209-6, 2018.
+Informe de los Objetivos de Desarrollo Sostenible, OMS. 2019.
+Resolución CFA 268/17 y Anexos.
+Resolución CIN 1453/2019.
+Resolución Ministerio de Educación RESOL-2021-1563-APN-ME.
+Resolución Ministerio de Educación 1254/2018
+Resolución Ministerio de Educación y Deportes ME 1870E/2016
+Resolución Rectoral UNC 449/2017
+
+IF-2023-00731245-UNC-EIMA#FCEFYN
+
+Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina
+https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+página 45 de 45
+
+Universidad Nacional de Córdoba
+1983/2023 - 40 AÑOS DE DEMOCRACIA
+Hoja Adicional de Firmas
+Informe Gráfico
+Número: IF-2023-00731245-UNC-EIMA#FCEFYN
+CORDOBA, CORDOBA
+Lunes 28 de Agosto de 2023
+
+Referencia: PLAN INGENIERIA AEROESPACIAL
+
+El documento fue importado por el sistema GEDO con un total de 45 pagina/s.
+Digitally signed by GDE UNC
+DN: cn=GDE UNC, c=AR, o=Universidad Nacional de Cordoba, ou=Informatica, serialNumber=CUIT
+30546670623
+Date: 2023.08.28 22:18:12 -03'00'
+
+Eugenio Bonvin
+Director de Escuela
+Escuela de Ingeniería Mecánica Aeronáutica Facultad de Ciencias Exactas,
+Físicas y Naturales
+Universidad Nacional de Córdoba
+
+Digitally signed by GDE UNC
+DN: cn=GDE UNC, c=AR, o=Universidad
+Nacional de Cordoba, ou=Informatica,
+serialNumber=CUIT 30546670623
+Date: 2023.08.28 22:18:18 -03'00'
+
+

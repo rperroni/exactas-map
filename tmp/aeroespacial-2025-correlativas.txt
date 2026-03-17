@@ -1,0 +1,130 @@
+Ingeniería Aeroespacial
+
+
+      Plan de Correlatividades
+
+ Escuela de Ingeniería Aeroespacial
+‭|‬
+
+
+
+
+                   ‭ANEXO II: Modificaciones en los Planes de‬
+                                ‭Correlatividades‬
+  ‭ abla‬ ‭1:‬ ‭Correlatividades‬ ‭correspondientes‬ ‭al‬ ‭Plan‬ ‭2025‬ ‭de‬
+  T
+  ‭Ingeniería Aeroespacial.‬
+
+‭AÑO‬        ‭SEMESTRE‬                  ‭ASIGNATURA‬                                   ‭CORRELATIVA/S‬
+
+                          ‭Matemática‬                                 ‭---‬
+‭CINEU‬         ‭CINEU‬   ‭Física y Química‬                           ‭---‬
+                          ‭Ambientación Universitaria‬                 ‭---‬
+                          ‭Introducción a la Ingeniería‬               ‭Ambientación Universitaria‬
+                          ‭Análisis Matemático 1‬                      ‭Matemática‬
+                  ‭1‬     ‭Sistemas de Representación‬                 ‭---‬
+                                                                       ‭Matemática‬
+                          ‭Química‬
+                                                                       ‭Física y Química‬
+      ‭1‬
+                          ‭Álgebra Lineal‬                             ‭Matemática‬
+                                                                       ‭Análisis Matemático 1‬
+                          ‭Física 1‬
+                  ‭2‬                                                  ‭Física y Química‬
+                          ‭Dibujo Técnico‬                             ‭Sistemas de Representación‬
+                          ‭Ciencias de Materiales‬                     ‭Química‬
+                                                                       ‭Análisis Matemático 1‬
+                          ‭Análisis Matemático 2‬
+                                                                       ‭Álgebra Lineal‬
+                                                                       ‭Álgebra Lineal‬
+                  ‭3‬     ‭Física 2‬
+                                                                       ‭Física 1‬
+                          ‭Probabilidad y Estadística‬                 ‭Análisis Matemático 1‬
+      ‭2‬                 ‭Estructuras Isostáticas‬                    ‭Física 1‬
+                          ‭Análisis Matemático 3‬                      ‭Análisis Matemático 2‬
+                                                                       ‭Física 1‬
+                          ‭Termodinámica‬
+                  ‭4‬                                                  ‭Probabilidad y Estadística‬
+                          ‭Mecánica de las Estructuras‬                ‭Estructuras Isostáticas‬
+                          ‭ ecnología Mecánica‬
+                          T                                            ‭Ciencias de Materiales‬
+                          ‭Aeronáutica General, Seminarios y‬
+                                                                       ‭Termodinámica‬
+                           ‭Aeropuertos‬
+                            ‭Electrotecnia y Electricidad‬             ‭Física 2‬
+                  ‭5‬     ‭Módulo de Inglés‬                           ‭10 asignaturas‬
+
+      ‭3‬                                                              ‭Análisis Matemático 3‬
+                          ‭Mecánica Racional‬
+                                                                       ‭Física 1‬
+                          ‭Teoría del Control‬                         ‭Electrotecnia y Electricidad‬
+                  ‭6‬     ‭Computación y Cálculo Numérico‬             ‭Análisis Matemático 1‬
+
+                                                                               IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                               página 1 de 22
+‭|‬
+
+
+
+
+                                                                       ‭Álgebra Lineal‬
+                                                                       ‭Termodinámica‬
+                          ‭Mecánica de los Fluidos‬
+                                                                       ‭Mecánica Racional‬
+                          ‭Mecanismos y Elementos de Máquinas‬ ‭Tecnología Mecánica‬
+
+                          ‭Cálculo Estructural 1‬                      ‭Mecánica de las Estructuras‬
+
+                          ‭Dinámica de los Gases 1‬                    ‭Mecánica de los Fluidos‬
+                                                                       ‭ ecánica de los Fluidos‬
+                                                                       M
+                  ‭7‬     ‭Aerodinámica 1‬                             ‭Aeronáutica General, Seminarios y‬
+                                                                        ‭Aeropuertos‬
+                          ‭Organización Industrial y Empresarial‬        ‭Mecanismos y Elementos de Máquinas‬
+                          ‭Asignatura Selectiva 1‬                     ‭Según Asignatura‬
+      ‭4‬                 ‭Asignatura Selectiva 2‬                     ‭ egún Asignatura‬
+                                                                       S
+                                                                       ‭Aeronáutica General, Seminarios y‬
+                          ‭Propulsión‬                                  ‭Aeropuertos‬
+                                                                         ‭Mecanismos y Elementos de Máquinas‬
+                  ‭8‬                                                  ‭Aerodinámica 1‬
+                          ‭Instrumentos y Aviónica‬
+                                                                       ‭Teoría del Control‬
+                          ‭Cálculo Estructural 2‬                      ‭Cálculo Estructural 1‬
+                          ‭Mecánica del Vuelo‬                         ‭Aerodinámica 1‬
+                          ‭Cálculo Estructural 3‬                      ‭ álculo Estructural 2‬
+                                                                       C
+                                                                       ‭Aeronáutica General, Seminarios y‬
+                          ‭Ingeniería de Diseño Asistido‬               ‭Aeropuertos‬
+                                                                         ‭Dibujo Técnico‬
+                  ‭9‬
+                                                                          ‭Aeronáutica General, Seminarios y‬
+                          ‭Sistemas y Equipos del Avión‬                   ‭Aeropuertos‬
+                                                                            ‭Electrotecnia y Electricidad‬
+                          ‭Asignatura Selectiva 3‬                     ‭Según Asignatura‬
+
+      ‭5‬                                                              ‭Propulsión‬
+                          ‭Proyecto y Construcción de Aviones‬
+                                                                       ‭ ecánica del Vuelo‬
+                                                                       M
+                                                                       ‭Aeronáutica General, Seminarios y‬
+                          ‭Ingeniería Económica y Legal‬                ‭Aeropuertos.‬
+                 ‭10‬                                                    ‭Introducción a la Ingeniería‬
+                          ‭Higiene y Seguridad‬                        ‭Organización Industrial y Empresarial‬
+                                                                       ‭Instrumentos y Aviónica‬
+                          ‭Mantenimiento de Aeronaves‬
+                                                                       ‭Sistemas y Equipos del Avión‬
+                          ‭Práctica Profesional Integradora‬           ‭Tener 233 RTF en asignaturas aprobadas‬
+
+
+
+
+                                                                            IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                            página 2 de 22
+

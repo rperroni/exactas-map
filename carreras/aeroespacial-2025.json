@@ -1,1 +1,388 @@
-[]
+[
+	{
+		"codigo": "IAE25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 1,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04050-ambientacion-universitaria/"
+	},
+	{
+		"codigo": "IAE25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04051-matematica/"
+	},
+	{
+		"codigo": "IAE25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04052-fisica-y-quimica/"
+	},
+
+	{
+		"codigo": "IAE25-representacion",
+		"nombre": "Sistemas de Representación",
+		"correlativas": [],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-04055-sistemas-de-representacion/"
+	},
+	{
+		"codigo": "IAE25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["IAE25-mat"],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04053-analisis-matematico-1/"
+	},
+	{
+		"codigo": "IAE25-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IAE25-AmbUniv"],
+		"RTF": 3,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04054-introduccion-a-la-ingenieria/"
+	},
+	{
+		"codigo": "IAE25-quimica",
+		"nombre": "Química",
+		"correlativas": ["IAE25-mat", "IAE25-fyq"],
+		"RTF": 5,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/departamento-de-quimica/10-04057-quimica/"
+	},
+
+	{
+		"codigo": "IAE25-cmateriales",
+		"nombre": "Ciencias de Materiales",
+		"correlativas": ["IAE25-quimica"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/materiales-y-tecnologia/departamento-de-materiales-y-tecnologia/10-09300-ciencias-de-materiales/"
+	},
+	{
+		"codigo": "IAE25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IAE25-mat"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04059-algebra-lineal/"
+	},
+	{
+		"codigo": "IAE25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["IAE25-am1", "IAE25-fyq"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04060-fisica-1/"
+	},
+	{
+		"codigo": "IAE25-dibujo",
+		"nombre": "Dibujo Técnico",
+		"correlativas": ["IAE25-representacion"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-09301-dibujo-tecnico/"
+	},
+
+	{
+		"codigo": "IAE25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["IAE25-am1", "IAE25-f1"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04067-fisica-2/"
+	},
+	{
+		"codigo": "IAE25-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IAE25-am1"],
+		"RTF": 5,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04062-probabilidad-y-estadistica/"
+	},
+	{
+		"codigo": "IAE25-estructurasiso",
+		"nombre": "Estructuras Isostáticas",
+		"correlativas": ["IAE25-f1"],
+		"RTF": 6,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-04069-estructuras-isostaticas/"
+	},
+	{
+		"codigo": "IAE25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["IAE25-am1", "IAE25-algebra"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04063-analisis-matematico-2/"
+	},
+
+	{
+		"codigo": "IAE25-termodinamica",
+		"nombre": "Termodinámica",
+		"correlativas": ["IAE25-f1", "IAE25-pye"],
+		"RTF": 6,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-09302-termodinamica/"
+	},
+	{
+		"codigo": "IAE25-am3",
+		"nombre": "Análisis Matemático 3",
+		"correlativas": ["IAE25-am2"],
+		"RTF": 7,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04070-analisis-matematico-3/"
+	},
+	{
+		"codigo": "IAE25-mecestr",
+		"nombre": "Mecánica de las Estructuras",
+		"correlativas": ["IAE25-estructurasiso"],
+		"RTF": 6,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-04073-mecanica-de-las-estructuras/"
+	},
+	{
+		"codigo": "IAE25-tecmecanica",
+		"nombre": "Tecnología Mecánica",
+		"correlativas": ["IAE25-cmateriales"],
+		"RTF": 7,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/materiales-y-tecnologia/departamento-de-materiales-y-tecnologia/10-04080-tecnologia-mecanica/"
+	},
+
+	{
+		"codigo": "IAE25-aerogeneral",
+		"nombre": "Aeronáutica General, Seminarios y Aeropuertos",
+		"correlativas": ["IAE25-termodinamica"],
+		"RTF": 10,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09303-aeronautica-general-seminarios-y-aeropuertos/"
+	},
+	{
+		"codigo": "IAE25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 10
+		},
+		"RTF": 3,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04066-modulo-de-ingles/"
+	},
+	{
+		"codigo": "IAE25-electrotecnia",
+		"nombre": "Electrotecnia y Electricidad",
+		"correlativas": ["IAE25-f2"],
+		"RTF": 6,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electrotecnia/departamento-de-electrotecnia/10-09304-electrotecnia-y-electricidad/"
+	},
+	{
+		"codigo": "IAE25-mecracional",
+		"nombre": "Mecánica Racional",
+		"correlativas": ["IAE25-am3", "IAE25-f1"],
+		"RTF": 6,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-09305-mecanica-racional/"
+	},
+
+	{
+		"codigo": "IAE25-control",
+		"nombre": "Teoría del Control",
+		"correlativas": ["IAE25-electrotecnia"],
+		"RTF": 6,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09306-teoria-del-control/"
+	},
+	{
+		"codigo": "IAE25-cycn",
+		"nombre": "Computación y Cálculo Numérico",
+		"correlativas": ["IAE25-am1", "IAE25-algebra"],
+		"RTF": 8,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-04072-computacion-y-calculo-numerico/"
+	},
+	{
+		"codigo": "IAE25-fluidos",
+		"nombre": "Mecánica de los Fluidos",
+		"correlativas": ["IAE25-termodinamica", "IAE25-mecracional"],
+		"RTF": 8,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09307-mecanica-de-los-fluidos/"
+	},
+	{
+		"codigo": "IAE25-mecanismos",
+		"nombre": "Mecanismos y Elementos de Máquinas",
+		"correlativas": ["IAE25-tecmecanica"],
+		"RTF": 10,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/maquinas/departamento-de-maquinas/10-04079-mecanismos-y-elementos-de-maquinas/"
+	},
+
+	{
+		"codigo": "IAE25-calestr1",
+		"nombre": "Cálculo Estructural 1",
+		"correlativas": ["IAE25-mecestr"],
+		"RTF": 6,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-04083-calculo-estructural-1/"
+	},
+	{
+		"codigo": "IAE25-dingases1",
+		"nombre": "Dinámica de los Gases 1",
+		"correlativas": ["IAE25-fluidos"],
+		"RTF": 7,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09308-dinamica-de-los-gases-1/"
+	},
+	{
+		"codigo": "IAE25-aerodinamica1",
+		"nombre": "Aerodinámica 1",
+		"correlativas": ["IAE25-fluidos", "IAE25-aerogeneral"],
+		"RTF": 7,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09309-aerodinamica-1/"
+	},
+	{
+		"codigo": "IAE25-orgindustrial",
+		"nombre": "Organización Industrial y Empresarial",
+		"correlativas": ["IAE25-mecanismos"],
+		"RTF": 6,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/departamento-de-produccion-gestion-y-medioambiente/10-04085-organizacion-industrial-y-empresarial/"
+	},
+	{
+		"codigo": "IAE25-selectiva1",
+		"nombre": "Selectiva 1",
+		"correlativas": [],
+		"RTF": 7,
+		"semestre": 7,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE25-selectiva2",
+		"nombre": "Selectiva 2",
+		"correlativas": [],
+		"RTF": 7,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE25-propulsion",
+		"nombre": "Propulsión",
+		"correlativas": ["IAE25-aerogeneral", "IAE25-mecanismos"],
+		"RTF": 7,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09312-propulsion/"
+	},
+	{
+		"codigo": "IAE25-avionica",
+		"nombre": "Instrumentos y Aviónica",
+		"correlativas": ["IAE25-aerodinamica1", "IAE25-control"],
+		"RTF": 7,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09313-instrumentos-y-avionica/"
+	},
+	{
+		"codigo": "IAE25-calestr2",
+		"nombre": "Cálculo Estructural 2",
+		"correlativas": ["IAE25-calestr1"],
+		"RTF": 7,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-04084-calculo-estructural-2/"
+	},
+	{
+		"codigo": "IAE25-mecvuelo",
+		"nombre": "Mecánica del Vuelo",
+		"correlativas": ["IAE25-aerodinamica1"],
+		"RTF": 7,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09314-mecanica-del-vuelo/"
+	},
+
+	{
+		"codigo": "IAE25-calestr3",
+		"nombre": "Cálculo Estructural 3",
+		"correlativas": ["IAE25-calestr2"],
+		"RTF": 7,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09315-calculo-estructural-3/"
+	},
+	{
+		"codigo": "IAE25-sistemasavion",
+		"nombre": "Sistemas y Equipos del Avión",
+		"correlativas": ["IAE25-aerogeneral", "IAE25-electrotecnia"],
+		"RTF": 7,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09316-sistemas-y-equipos-del-avion/"
+	},
+	{
+		"codigo": "IAE25-disenoasistido",
+		"nombre": "Ingeniería de Diseño Asistido",
+		"correlativas": ["IAE25-aerogeneral", "IAE25-dibujo"],
+		"RTF": 5,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-09317-ingenieria-de-diseno-asistido/"
+	},
+	{
+		"codigo": "IAE25-selectiva3",
+		"nombre": "Selectiva 3",
+		"correlativas": [],
+		"RTF": 7,
+		"semestre": 9,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE25-proyconstruccion",
+		"nombre": "Proyecto y Construcción de Aviones",
+		"correlativas": ["IAE25-propulsion", "IAE25-mecvuelo"],
+		"RTF": 7,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09319-proyecto-y-construccion-de-aviones/"
+	},
+	{
+		"codigo": "IAE25-ingeconomicalegal",
+		"nombre": "Ingeniería Económica y Legal",
+		"correlativas": ["IAE25-aerogeneral", "IAE25-introing"],
+		"RTF": 6,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09320-ingenieria-economica-y-legal/"
+	},
+	{
+		"codigo": "IAE25-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": ["IAE25-orgindustrial"],
+		"RTF": 5,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/departamento-de-produccion-gestion-y-medioambiente/10-04078-higiene-y-seguridad/"
+	},
+	{
+		"codigo": "IAE25-mantenimiento",
+		"nombre": "Mantenimiento de Aeronaves",
+		"correlativas": ["IAE25-avionica", "IAE25-sistemasavion"],
+		"RTF": 7,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-aeroespacial/departamento-de-aeroespacial/10-09321-mantenimiento-de-aeronaves/"
+	},
+	{
+		"codigo": "IAE25-PPI",
+		"nombre": "Práctica Profesional Integradora",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "maxRtfAdeudados",
+			"cantidad": 67
+		},
+		"RTF": 16,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-mecanica-aeronautica/10-09322-practica-profesional-integradora/"
+	}
+]
