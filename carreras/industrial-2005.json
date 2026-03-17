@@ -1,1 +1,512 @@
-[]
+[
+  {
+    "codigo": "II05-AmbUniv",
+    "nombre": "Ambientación Universitaria",
+    "correlativas": [],
+    "RTF": 1,
+    "semestre": 0,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-mat",
+    "nombre": "Matemática",
+    "correlativas": [],
+    "RTF": 3,
+    "semestre": 0,
+    "programa_url": "https://fcefyn.unc.edu.ar/documents/112/03-IME-Ciclo_de_nivelacion_Amb_Univ.pdf"
+  },
+  {
+    "codigo": "II05-fisica",
+    "nombre": "Física",
+    "correlativas": [],
+    "RTF": 3,
+    "semestre": 0,
+    "programa_url": "https://fcefyn.unc.edu.ar/documents/111/02-IM-Ciclo_de_nivelacion_Fisica.pdf"
+  },
+
+  {
+    "codigo": "II05-intromat",
+    "nombre": "Introducción a la Matemática",
+    "correlativas": ["II05-mat"],
+    "RTF": 7,
+    "semestre": 1,
+    "programa_url": "https://fcefyn.unc.edu.ar/documents/110/01-IM-Ciclo_de_nivelacion_Matematicas.pdf"
+  },
+  {
+    "codigo": "II05-informatica",
+    "nombre": "Informática",
+    "correlativas": ["II05-mat"],
+    "RTF": 7,
+    "semestre": 1,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-introing",
+    "nombre": "Introducción a la Ingeniería",
+    "correlativas": ["II05-AmbUniv"],
+    "RTF": 3,
+    "semestre": 1,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-repingenieria",
+    "nombre": "Sistemas de Representación en Ingeniería",
+    "correlativas": [],
+    "RTF": 7,
+    "semestre": 1,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-am1",
+    "nombre": "Análisis Matemático I",
+    "correlativas": ["II05-intromat"],
+    "RTF": 7,
+    "semestre": 2,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-f1",
+    "nombre": "Física I",
+    "correlativas": ["II05-fisica", "II05-intromat"],
+    "RTF": 7,
+    "semestre": 2,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-quimicaap",
+    "nombre": "Química Aplicada",
+    "correlativas": ["II05-mat"],
+    "RTF": 5,
+    "semestre": 2,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-algebra",
+    "nombre": "Álgebra Lineal",
+    "correlativas": ["II05-intromat"],
+    "RTF": 7,
+    "semestre": 2,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-repasistida",
+    "nombre": "Representación Asistida",
+    "correlativas": ["II05-repingenieria", "II05-informatica"],
+    "RTF": 6,
+    "semestre": 2,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-am2",
+    "nombre": "Análisis Matemático II",
+    "correlativas": ["II05-am1", "II05-algebra"],
+    "RTF": 7,
+    "semestre": 3,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-f2",
+    "nombre": "Física II",
+    "correlativas": ["II05-am1", "II05-f1"],
+    "RTF": 7,
+    "semestre": 3,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-estructurasiso",
+    "nombre": "Estructuras Isostáticas",
+    "correlativas": ["II05-f1"],
+    "RTF": 6,
+    "semestre": 3,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-materiales",
+    "nombre": "Materiales",
+    "correlativas": ["II05-quimicaap", "II05-f1"],
+    "RTF": 6,
+    "semestre": 3,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-pye",
+    "nombre": "Probabilidad y Estadística",
+    "correlativas": ["II05-am1"],
+    "RTF": 5,
+    "semestre": 4,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-metodosnum",
+    "nombre": "Métodos Numéricos",
+    "correlativas": ["II05-am2", "II05-algebra"],
+    "RTF": 7,
+    "semestre": 4,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-modingles",
+    "nombre": "Módulo de Inglés",
+    "correlativas": [],
+    "RTF": 3,
+    "semestre": 4,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-electromaquinas",
+    "nombre": "Electrotecnia y Máquinas Eléctricas",
+    "correlativas": ["II05-f2"],
+    "RTF": 10,
+    "semestre": 4,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-mecestructuras",
+    "nombre": "Mecánica de las Estructuras",
+    "correlativas": ["II05-am1", "II05-estructurasiso"],
+    "RTF": 8,
+    "semestre": 4,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-termotecnia",
+    "nombre": "Termotecnia y Máquinas Térmicas",
+    "correlativas": ["II05-f1"],
+    "RTF": 10,
+    "semestre": 5,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-mecanicaracional",
+    "nombre": "Mecánica Racional",
+    "correlativas": ["II05-f1", "II05-metodosnum"],
+    "RTF": 8,
+    "semestre": 5,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-io1",
+    "nombre": "Investigación Operativa I",
+    "correlativas": ["II05-am2", "II05-pye"],
+    "RTF": 10,
+    "semestre": 5,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-manufactura1",
+    "nombre": "Procesos de Manufactura I",
+    "correlativas": ["II05-materiales"],
+    "RTF": 10,
+    "semestre": 5,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-economia",
+    "nombre": "Economía",
+    "correlativas": ["II05-pye"],
+    "RTF": 6,
+    "semestre": 6,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-mercadotecnia",
+    "nombre": "Mercadotecnia",
+    "correlativas": ["II05-io1"],
+    "RTF": 7,
+    "semestre": 6,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-estudiotrabajo",
+    "nombre": "Estudio del Trabajo",
+    "correlativas": ["II05-io1"],
+    "RTF": 7,
+    "semestre": 6,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-mecanismos",
+    "nombre": "Mecanismos y Elementos de Máquinas",
+    "correlativas": ["II05-materiales", "II05-mecestructuras", "II05-mecanicaracional"],
+    "RTF": 8,
+    "semestre": 6,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-manufactura2",
+    "nombre": "Procesos de Manufactura II",
+    "correlativas": ["II05-manufactura1"],
+    "RTF": 7,
+    "semestre": 6,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-costos",
+    "nombre": "Costos Industriales",
+    "correlativas": ["II05-economia"],
+    "RTF": 10,
+    "semestre": 7,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-fluidos",
+    "nombre": "Mecánica de los Fluidos",
+    "correlativas": ["II05-termotecnia", "II05-mecanicaracional"],
+    "RTF": 6,
+    "semestre": 7,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-inglegal",
+    "nombre": "Ingeniería Legal y Ética",
+    "correlativas": ["II05-estudiotrabajo"],
+    "RTF": 7,
+    "semestre": 7,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-insttermyelec",
+    "nombre": "Instalaciones Térmicas y Eléctricas",
+    "correlativas": ["II05-electromaquinas", "II05-termotecnia"],
+    "RTF": 10,
+    "semestre": 7,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-relaciones",
+    "nombre": "Relaciones Industriales",
+    "correlativas": ["II05-estudiotrabajo"],
+    "RTF": 7,
+    "semestre": 7,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-calidad",
+    "nombre": "Gestión de Calidad",
+    "correlativas": ["II05-estudiotrabajo"],
+    "RTF": 10,
+    "semestre": 8,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-higiene",
+    "nombre": "Higiene y Seguridad",
+    "correlativas": ["II05-inglegal"],
+    "RTF": 10,
+    "semestre": 8,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-planificacion",
+    "nombre": "Planificación y Control de la Producción",
+    "correlativas": ["II05-relaciones"],
+    "RTF": 10,
+    "semestre": 8,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-mantenimiento",
+    "nombre": "Mantenimiento Industrial",
+    "correlativas": ["II05-insttermyelec"],
+    "RTF": 10,
+    "semestre": 8,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-ingles2",
+    "nombre": "Idioma Inglés II",
+    "correlativas": ["II05-modingles"],
+    "RTF": 3,
+    "semestre": 8,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-formulacion",
+    "nombre": "Formulación y Evaluación de Proyectos Industriales",
+    "correlativas": ["II05-costos"],
+    "RTF": 10,
+    "semestre": 9,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-gestionambiental",
+    "nombre": "Gestión Ambiental",
+    "correlativas": ["II05-higiene"],
+    "RTF": 5,
+    "semestre": 9,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-gestempresa",
+    "nombre": "Gestión de la Empresa",
+    "correlativas": ["II05-costos"],
+    "RTF": 7,
+    "semestre": 9,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-logistica",
+    "nombre": "Logística",
+    "correlativas": ["II05-planificacion"],
+    "RTF": 7,
+    "semestre": 9,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-servicios",
+    "nombre": "Gestión de Servicios",
+    "correlativas": ["II05-mercadotecnia"],
+    "RTF": 3,
+    "semestre": 9,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-opt-optativa1",
+    "nombre": "Optativa I",
+    "correlativas": [],
+    "RTF": 3,
+    "semestre": 10,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-optativa2",
+    "nombre": "Optativa II",
+    "correlativas": [],
+    "RTF": 3,
+    "semestre": 10,
+    "programa_url": ""
+  },
+
+  {
+    "codigo": "II05-pps",
+    "nombre": "Práctica Profesional Supervisada",
+    "correlativas": [],
+    "RTF": 21,
+    "semestre": 10,
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-proyectoint",
+    "nombre": "Proyecto Integrador",
+    "correlativas": [],
+    "RTF": 10,
+    "semestre": 10,
+    "programa_url": ""
+  },
+
+
+  {
+    "codigo": "II05-opt-emprendedorismo",
+    "nombre": "Emprendedorismo Tecnológico",
+    "correlativas": [],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-finanzasempresas",
+    "nombre": "Finanzas de Empresas",
+    "correlativas": ["II05-costos"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-portugues",
+    "nombre": "Módulo de Portugués",
+    "correlativas": [],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-controlprocesos",
+    "nombre": "Control de Procesos Industriales",
+    "correlativas": ["II05-calidad"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-simulacion",
+    "nombre": "Simulación",
+    "correlativas": ["II05-io1"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-calidad2",
+    "nombre": "Gestión de la Calidad II",
+    "correlativas": ["II05-calidad"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-sig",
+    "nombre": "Sistemas de Información Geográfica",
+    "correlativas": ["II05-repasistida", "II05-io1"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-gestionproyectos",
+    "nombre": "Gestión de Proyectos",
+    "correlativas": [],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-sistemasinteligentes",
+    "nombre": "Sistemas Inteligentes",
+    "correlativas": ["II05-informatica"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-informaticaindustrial",
+    "nombre": "Informática Industrial",
+    "correlativas": ["II05-planificacion"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-metodosnum2",
+    "nombre": "Métodos Numéricos II",
+    "correlativas": ["II05-informatica", "II05-metodosnum"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-comercioext",
+    "nombre": "Comercio Exterior",
+    "correlativas": ["II05-relaciones"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  },
+  {
+    "codigo": "II05-opt-politicaeco",
+    "nombre": "Política Económica",
+    "correlativas": ["II05-economia", "II05-mercadotecnia"],
+    "RTF": 3,
+    "tipo": "optativa",
+    "programa_url": ""
+  }
+  
+]
