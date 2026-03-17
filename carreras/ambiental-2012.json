@@ -1,1 +1,397 @@
-[]
+[
+	{
+		"codigo": "IAMB12-ambuniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-quimicaingreso",
+		"nombre": "Química",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-quimicagral",
+		"nombre": "Química General",
+		"correlativas": ["IAMB12-quimicaingreso"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IAMB12-ambuniv"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-intromat",
+		"nombre": "Introducción a la Matemática",
+		"correlativas": ["IAMB12-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-repgrafica",
+		"nombre": "Representación Gráfica",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-quimicaorg",
+		"nombre": "Química Orgánica",
+		"correlativas": ["IAMB12-quimicagral"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-am1",
+		"nombre": "Análisis Matemático I",
+		"correlativas": ["IAMB12-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-f1",
+		"nombre": "Física I",
+		"correlativas": ["IAMB12-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IAMB12-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-repasistida",
+		"nombre": "Representación Asistida",
+		"correlativas": ["IAMB12-repgrafica"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-introbiologia",
+		"nombre": "Introducción a la Biología",
+		"correlativas": ["IAMB12-quimicaingreso"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-am2",
+		"nombre": "Análisis Matemático II",
+		"correlativas": ["IAMB12-am1", "IAMB12-algebra"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-f2",
+		"nombre": "Física II",
+		"correlativas": ["IAMB12-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-estatica",
+		"nombre": "Estática",
+		"correlativas": ["IAMB12-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-metodosnum",
+		"nombre": "Métodos Numéricos",
+		"correlativas": ["IAMB12-am1"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-topografia1",
+		"nombre": "Topografía I",
+		"correlativas": ["IAMB12-f1", "IAMB12-repgrafica"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-geotecnia1",
+		"nombre": "Geotecnia I",
+		"correlativas": ["IAMB12-f1"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-termoquim",
+		"nombre": "Termodinámica Química",
+		"correlativas": ["IAMB12-quimicaorg", "IAMB12-f2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-microbio",
+		"nombre": "Microbiología Ambiental",
+		"correlativas": ["IAMB12-quimicaorg", "IAMB12-introbiologia"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-informatica",
+		"nombre": "Informática",
+		"correlativas": ["IAMB12-mat"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IAMB12-am1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-mecestr1",
+		"nombre": "Mecánica de las Estructuras I",
+		"correlativas": ["IAMB12-am1", "IAMB12-estatica"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-topografia2",
+		"nombre": "Topografía II",
+		"correlativas": ["IAMB12-topografia1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-geotecnia2",
+		"nombre": "Geotecnia II",
+		"correlativas": ["IAMB12-estatica", "IAMB12-geotecnia1"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-fluidos",
+		"nombre": "Mecánica de los Fluidos",
+		"correlativas": ["IAMB12-f1", "IAMB12-am2"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-qfprocesos",
+		"nombre": "Química y Física de los Procesos Ambientales",
+		"correlativas": ["IAMB12-termoquim"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-economia",
+		"nombre": "Economía",
+		"correlativas": ["IAMB12-introing", "IAMB12-intromat"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-hidrologia",
+		"nombre": "Hidrología y Procesos Hidráulicos",
+		"correlativas": ["IAMB12-geotecnia1", "IAMB12-fluidos"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-ingamb1",
+		"nombre": "Ingeniería Ambiental I",
+		"correlativas": ["IAMB12-fluidos", "IAMB12-microbio"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-ecologia",
+		"nombre": "Ecología (Ingeniería)",
+		"correlativas": ["IAMB12-microbio"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-geomorf1",
+		"nombre": "Geomorfología 1era. Parte",
+		"correlativas": ["IAMB12-geotecnia1", "IAMB12-topografia2"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-hormigon",
+		"nombre": "Hormigón Armado y Pretensado",
+		"correlativas": ["IAMB12-mecestr1"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-hys",
+		"nombre": "Higiene y Seguridad en el Trabajo",
+		"correlativas": ["IAMB12-qfprocesos"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-ingamb2",
+		"nombre": "Ingeniería Ambiental II",
+		"correlativas": ["IAMB12-hidrologia", "IAMB12-ingamb1"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-geomorf2",
+		"nombre": "Geomorfología 2da. Parte",
+		"correlativas": ["IAMB12-geotecnia1", "IAMB12-topografia2"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-ingsanitaria",
+		"nombre": "Ingeniería Sanitaria",
+		"correlativas": ["IAMB12-ingamb1"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-pdov",
+		"nombre": "Proyecto, Dirección de Obras y Valuaciones",
+		"correlativas": ["IAMB12-economia"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-gestionamb",
+		"nombre": "Gestión Ambiental",
+		"correlativas": ["IAMB12-ingamb1", "IAMB12-qfprocesos"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-tas",
+		"nombre": "Tecnología, Ambiente y Sociedad",
+		"correlativas": ["IAMB12-ingamb1"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-legetica",
+		"nombre": "Legislación y Ética Profesional",
+		"correlativas": ["IAMB12-ingamb1"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-obrashid",
+		"nombre": "Obras Hidráulicas",
+		"correlativas": ["IAMB12-geotecnia2", "IAMB12-hidrologia"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-cartosuelos",
+		"nombre": "Cartografía y Conservación de Suelos",
+		"correlativas": ["IAMB12-geotecnia2", "IAMB12-topografia2"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-ingamb3",
+		"nombre": "Ingeniería Ambiental III",
+		"correlativas": ["IAMB12-ingamb1", "IAMB12-geotecnia2"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAMB12-practica",
+		"nombre": "Práctica Supervisada",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAMB12-opt-portugues",
+		"nombre": "Módulo de Portugués",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	}
+]
