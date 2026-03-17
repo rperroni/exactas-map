@@ -390,17 +390,25 @@
     "codigo": "II05-pps",
     "nombre": "Práctica Profesional Supervisada",
     "correlativas": [],
+    "condiciones": {
+      "tipo": "minAprobadas",
+      "cantidad": 32
+    },
     "RTF": 21,
     "semestre": 10,
-    "programa_url": ""
+    "programa_url": "https://fcefyn.unc.edu.ar/documents/2980/6432_practica_profesional_supervisada_05_P7Gi2yY.pdf"
   },
   {
     "codigo": "II05-proyectoint",
     "nombre": "Proyecto Integrador",
     "correlativas": [],
+    "condiciones": {
+      "tipo": "minAprobadas",
+      "cantidad": 32
+    },
     "RTF": 10,
     "semestre": 10,
-    "programa_url": ""
+    "programa_url": "https://fcefyn.unc.edu.ar/documents/2979/6431_proyecto_integrador_05_pM9yJBp.pdf"
   },
 
 
