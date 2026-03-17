@@ -1,1 +1,421 @@
-[]
+[
+	{
+		"codigo": "IC05-ambuniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/ambientacion-universitaria/"
+	},
+	{
+		"codigo": "IC05-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/matematica/"
+	},
+	{
+		"codigo": "IC05-fisicaing",
+		"nombre": "Física",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/fisica/"
+	},
+
+	{
+		"codigo": "IC05-intromat",
+		"nombre": "Introducción a la Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/introduccion-a-la-matematica-1/"
+	},
+	{
+		"codigo": "IC05-informatica",
+		"nombre": "Informática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/informatica-1/"
+	},
+	{
+		"codigo": "IC05-repgraf1",
+		"nombre": "Representación Gráfica I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/representacion-grafica-i/"
+	},
+	{
+		"codigo": "IC05-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/introduccion-a-la-ingenieria-1/"
+	},
+
+	{
+		"codigo": "IC05-am1",
+		"nombre": "Análisis Matemático I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-i-1/"
+	},
+	{
+		"codigo": "IC05-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/algebra-lineal-1/"
+	},
+	{
+		"codigo": "IC05-f1",
+		"nombre": "Física I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-i-3/"
+	},
+	{
+		"codigo": "IC05-quimaplic",
+		"nombre": "Química Aplicada",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/quimica-aplicada-1/"
+	},
+	{
+		"codigo": "IC05-repasist",
+		"nombre": "Representación Asistida",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/representacion-asistida-1/"
+	},
+
+	{
+		"codigo": "IC05-am2",
+		"nombre": "Análisis Matemático II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-ii-1/"
+	},
+	{
+		"codigo": "IC05-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/probabilidad-y-estadistica/"
+	},
+	{
+		"codigo": "IC05-economia",
+		"nombre": "Economía",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/economia-1/"
+	},
+	{
+		"codigo": "IC05-estatica",
+		"nombre": "Estática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/estatica-1/"
+	},
+	{
+		"codigo": "IC05-topo1",
+		"nombre": "Topografía I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/topografia-i-1/"
+	},
+
+	{
+		"codigo": "IC05-f2",
+		"nombre": "Física II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-ii-2/"
+	},
+	{
+		"codigo": "IC05-geotec1",
+		"nombre": "Geotecnia I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/geotecnia-i/"
+	},
+	{
+		"codigo": "IC05-mecestr1",
+		"nombre": "Mecánica de las Estructuras I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/mecanica-de-las-estructuras-i-1/"
+	},
+	{
+		"codigo": "IC05-termotecnia",
+		"nombre": "Termotecnia",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/termotecnia-1/"
+	},
+	{
+		"codigo": "IC05-metnum",
+		"nombre": "Métodos Numéricos",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/metodos-numericos/"
+	},
+
+	{
+		"codigo": "IC05-mecanalitica",
+		"nombre": "Mecánica Analítica",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/mecanica-analitica/"
+	},
+	{
+		"codigo": "IC05-tecmatcons",
+		"nombre": "Tecnología de los Materiales de Construcción",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/tecnologia-de-los-materiales-de-construccion-1/"
+	},
+	{
+		"codigo": "IC05-geotec2",
+		"nombre": "Geotecnia II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/geotecnia-ii/"
+	},
+	{
+		"codigo": "IC05-topo2",
+		"nombre": "Topografía II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/topografia-ii/"
+	},
+
+	{
+		"codigo": "IC05-arq1",
+		"nombre": "Arquitectura I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/arquitectura-i-1/"
+	},
+	{
+		"codigo": "IC05-mecfluidos",
+		"nombre": "Mecánica de los Fluidos",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/mecanica-de-los-fluidos/"
+	},
+	{
+		"codigo": "IC05-anaestr",
+		"nombre": "Análisis Estructural",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/analisis-estructural/"
+	},
+	{
+		"codigo": "IC05-transp1",
+		"nombre": "Transporte I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/transporte-i/"
+	},
+	{
+		"codigo": "IC05-ingles",
+		"nombre": "Módulo Idioma Inglés",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/modulo-de-ingles-2/"
+	},
+
+	{
+		"codigo": "IC05-hidrologia",
+		"nombre": "Hidrología y Procesos Hidráulicos",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/hidrologia-y-procesos-hidraulicos/"
+	},
+	{
+		"codigo": "IC05-mecestr2",
+		"nombre": "Mecánica de las Estructuras II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/mecanica-de-las-estructuras-ii/"
+	},
+	{
+		"codigo": "IC05-instedif1",
+		"nombre": "Instalaciones en Edificios I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/instalaciones-en-edificios-i-1/"
+	},
+	{
+		"codigo": "IC05-arq2",
+		"nombre": "Arquitectura II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/arquitectura-ii-1/"
+	},
+
+	{
+		"codigo": "IC05-instedif2",
+		"nombre": "Instalaciones en Edificios II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/instalaciones-en-edificios-ii-1/"
+	},
+	{
+		"codigo": "IC05-hormigon",
+		"nombre": "Hormigón Armado y Pretensado",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/hormigon-armado-y-pretensado-1/"
+	},
+	{
+		"codigo": "IC05-legetica",
+		"nombre": "Legislación y Ética Profesional",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/legislacion-etica-y-profesional-1/"
+	},
+	{
+		"codigo": "IC05-estmetmadera",
+		"nombre": "Estructuras Metálicas y de Madera",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/estructuras-metalicas-y-de-madera/"
+	},
+	{
+		"codigo": "IC05-transp2",
+		"nombre": "Transporte II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/transporte-ii/"
+	},
+
+	{
+		"codigo": "IC05-geotec3",
+		"nombre": "Geotecnia III",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/geotecnia-iii/"
+	},
+	{
+		"codigo": "IC05-ingsanitaria",
+		"nombre": "Ingeniería Sanitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/ingenieria-sanitaria/"
+	},
+	{
+		"codigo": "IC05-pdov",
+		"nombre": "Proyecto, Dirección de Obras y Valuaciones",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/proyecto-direccion-de-obras-y-valuaciones-1/"
+	},
+	{
+		"codigo": "IC05-transp3",
+		"nombre": "Transporte III",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/transporte-iii/"
+	},
+	{
+		"codigo": "IC05-ingambiental",
+		"nombre": "Ingeniería Ambiental",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/ingenieria-ambiental/"
+	},
+
+	{
+		"codigo": "IC05-disestrhorm",
+		"nombre": "Diseño de Estructuras de Hormigón Armado y Pretensado",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/diseno-de-estructura-de-hormigon-armado-y-pretensado/"
+	},
+	{
+		"codigo": "IC05-planeamiento",
+		"nombre": "Planeamiento y Urbanismo",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/planeamiento-y-urbanismo/"
+	},
+	{
+		"codigo": "IC05-obrashid",
+		"nombre": "Obras Hidráulicas",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/obras-hidraulicas/"
+	},
+	{
+		"codigo": "IC05-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/higiene-y-seguridad-5033/"
+	},
+	{
+		"codigo": "IC05-practica",
+		"nombre": "Práctica Supervisada",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-civil/practica-supervisada/"
+	},
+
+	{
+		"codigo": "IC05-opt-portugues",
+		"nombre": "Módulo Idioma Portugués",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	}
+]

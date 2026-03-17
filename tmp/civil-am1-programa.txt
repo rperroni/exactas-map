@@ -1,0 +1,77 @@
+PROGRAMA ANALITICO
+CONTENIDOS TEMATICOS
+Unidad 1. Variación de funciones de R
+
+
+R
+
+Máximos y mínimos locales: definición y teorema del extremo local en
+un punto interior del dominio. Condición necesaria de extremo local.
+Puntos críticos. Determinación de extremos locales. Condición suficiente:
+criterios de la derivada primera y de la derivada segunda.
+Determinación de extremos absolutos de funciones. Concavidad y
+convexidad. Puntos de inflexión: definición y condición necesaria y
+suficiente de existencia. Asíntotas lineales a curvas planas. Estudio
+completo de una función dada en forma explícita. Aplicaciones.
+Unidad 2. Integración de funciones. Primitivas. Métodos generales de
+integración indefinida
+Función
+primitiva.
+Definición
+y
+ejemplos.
+Integral
+indefinida.
+Propiedades de la integral indefinida. Métodos de integración.
+Inmediata, por descomposición, por partes, por sustitución directa y por
+sustitución inversa. Integración de funciones algebraicas racionales (raíces
+reales simples y múltiples, y raíces complejas simples). Integración de
+funciones irracionales monomias. Integración de funciones racionales de
+seno y coseno.
+Unidad 3. Integral definida. Aplicaciones geométricas y físicas
+Integral definida: definición. Condición necesaria y suficiente de
+existencia. Propiedades básicas de la integral definida. Teorema
+fundamental del cálculo integral. Regla de Barrow. Teorema del Valor Medio
+del Cálculo Integral. Aplicaciones geométricas y físicas de la integral
+definida. Integrales impropias: definición y cálculo.
+Unidad 4. Sucesiones y Series
+Sucesiones numéricas. Definición y gráfica. Convergencia de sucesiones.
+Sucesiones monótonas. Puntos de acumulación de una sucesión. Sucesión
+de Cauchy. Series numéricas:
+definiciones.
+Álgebra
+de
+series.
+Condiciones de convergencia. Serie geométrica: definición y estudio
+de la convergencia. Series de Direchlet. Convergencia absoluta y
+condicional. Definiciones. Series de términos positivos y no negativos:
+criterios de comparación I y II, criterio de la Integral de Cauchy, criterios
+del cociente de D’Alembert y de la raíz de Cauchy. Convergencia
+condicional de series de términos positivos y negativos. Criterio de
+Leibnitz. Series de funciones. Series de potencias. Radio e intervalo de
+convergencia de una serie de potencias. Cálculo del radio de convergencia.
+Función representada por una serie de potencias. Desarrollo de una función
+por una serie de potencias. Serie de Taylor. Aplicaciones.
+
+BIBLIOGRAFIA
+
+
+Azpilicueta, J., et al. Análisis Matemático I. Teoría, práctica y
+aplicaciones. Ed. Universitas. Córdoba. Argentina. 2000.
+
+Bartle, R. y Shebert, D. Introducción al Análisis Matemático de una
+variable. Ed. Limusa. 2da. Edición. México. 1994.
+ Haaser, N., La Salle, J. y Sullivan, J. Análisis Matemático I. Vol. 1 y 2. Ed.
+Trillas. 1978.
+
+
+Stewart, J. Cálculo. Trascendentes tempranas. Ed. Thomson. 3ra.
+Edición. 1999.  Thomas, G. Cálculo de una variable. Ed. Addison Wesley
+Longman. 1998.
+ Sadosky-Guber. Elementos de Cálculo Diferencial e Integral. Ed. Alsina.
+1977.
+ Pérez López, C. Matemática informatizada con Matlab. Ed. Rama. 1996.  Anaya Multimedia. Manual de Matcad 8. Ed. 1999.
+ Adams, R. Cálculo.
+
+
+
