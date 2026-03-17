@@ -1,1 +1,621 @@
-[]
+[
+	{
+		"codigo": "IE05-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/ambientacion-universitaria/"
+	},
+	{
+		"codigo": "IE05-fisicaing",
+		"nombre": "Física",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/fisica/"
+	},
+	{
+		"codigo": "IE05-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/matematica/"
+	},
+
+	{
+		"codigo": "IE05-quimaplic",
+		"nombre": "Química Aplicada",
+		"correlativas": ["IE05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/quimica-aplicada-1/"
+	},
+	{
+		"codigo": "IE05-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IE05-AmbUniv"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/introduccion-a-la-ingenieria-1/"
+	},
+	{
+		"codigo": "IE05-repgraf",
+		"nombre": "Representación gráfica",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/representacion-grafica-4/"
+	},
+	{
+		"codigo": "IE05-intromat",
+		"nombre": "Introducción a la Matemática",
+		"correlativas": ["IE05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/introduccion-a-la-matematica-1/"
+	},
+
+	{
+		"codigo": "IE05-am1",
+		"nombre": "Análisis Matemático I",
+		"correlativas": ["IE05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-i-1/"
+	},
+	{
+		"codigo": "IE05-tallerlab",
+		"nombre": "Taller y laboratorio",
+		"correlativas": ["IE05-mat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/taller-y-laboratorio/"
+	},
+	{
+		"codigo": "IE05-f1",
+		"nombre": "Física I",
+		"correlativas": ["IE05-fisicaing", "IE05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-i-3/"
+	},
+	{
+		"codigo": "IE05-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IE05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/algebra-lineal-1/"
+	},
+	{
+		"codigo": "IE05-informatica",
+		"nombre": "Informática",
+		"correlativas": ["IE05-mat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/informatica-1/"
+	},
+
+	{
+		"codigo": "IE05-f2",
+		"nombre": "Física II",
+		"correlativas": ["IE05-am1", "IE05-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-ii-2/"
+	},
+	{
+		"codigo": "IE05-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IE05-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/probabilidad-y-estadistica/"
+	},
+	{
+		"codigo": "IE05-metnum",
+		"nombre": "Métodos Numéricos",
+		"correlativas": ["IE05-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/metodos-numericos/"
+	},
+	{
+		"codigo": "IE05-infav",
+		"nombre": "Informática Avanzada",
+		"correlativas": ["IE05-informatica"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/informatica-avanzada/"
+	},
+	{
+		"codigo": "IE05-am2",
+		"nombre": "Análisis Matemático II",
+		"correlativas": ["IE05-am1", "IE05-algebra"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-ii-1/"
+	},
+
+	{
+		"codigo": "IE05-f3",
+		"nombre": "Fisica III",
+		"correlativas": ["IE05-f1", "IE05-quimaplic", "IE05-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/fisica-iii/"
+	},
+	{
+		"codigo": "IE05-senalesysistemas",
+		"nombre": "Teoría de las señales y sistemas lineales",
+		"correlativas": ["IE05-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/teoria-de-las-senales-y-sistemas-lineales/"
+	},
+	{
+		"codigo": "IE05-electfisica",
+		"nombre": "Electrónica Física",
+		"correlativas": ["IE05-f2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-fisica/"
+	},
+	{
+		"codigo": "IE05-am3",
+		"nombre": "Análisis matemático III",
+		"correlativas": ["IE05-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/analisis-matematico-iii-4/"
+	},
+
+	{
+		"codigo": "IE05-edig1",
+		"nombre": "Electrónica digital I",
+		"correlativas": ["IE05-tallerlab"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-digital-i/"
+	},
+	{
+		"codigo": "IE05-tecelec",
+		"nombre": "Tecnología electrónica",
+		"correlativas": ["IE05-electfisica", "IE05-f2"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/tecnologia-electronica/"
+	},
+	{
+		"codigo": "IE05-economia",
+		"nombre": "Economía",
+		"correlativas": ["IE05-intromat"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/economia-1/"
+	},
+	{
+		"codigo": "IE05-teoredes",
+		"nombre": "Teoría de redes",
+		"correlativas": ["IE05-f2", "IE05-senalesysistemas"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/teoria-de-redes/"
+	},
+
+	{
+		"codigo": "IE05-teocom",
+		"nombre": "Teoría de las comunicaciones",
+		"correlativas": ["IE05-teoredes"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/teoria-de-las-comunicaciones/"
+	},
+	{
+		"codigo": "IE05-modingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/modulo-de-ingles-2/"
+	},
+	{
+		"codigo": "IE05-siscontrol1",
+		"nombre": "Sistemas de control I",
+		"correlativas": ["IE05-am3", "IE05-teoredes"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/sistemas-de-control-i/"
+	},
+	{
+		"codigo": "IE05-instmed",
+		"nombre": "Instrumental y Mediciones Electrónicas",
+		"correlativas": ["IE05-teoredes", "IE05-tecelec"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/instrumental-y-mediciones-electronicas/"
+	},
+	{
+		"codigo": "IE05-eanalog1",
+		"nombre": "Electrónica Analógica I",
+		"correlativas": ["IE05-electfisica", "IE05-teoredes"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-analogica-i/"
+	},
+
+	{
+		"codigo": "IE05-comptrad",
+		"nombre": "Comprensión y Traducción de idioma inglés",
+		"correlativas": ["IE05-modingles"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/comprension-y-traduccion-de-idioma-ingles/"
+	},
+	{
+		"codigo": "IE05-eanalog2",
+		"nombre": "Electrónica analógica II",
+		"correlativas": ["IE05-instmed", "IE05-eanalog1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-analogica-ii/"
+	},
+	{
+		"codigo": "IE05-electrotecnia",
+		"nombre": "Electrotecnia",
+		"correlativas": ["IE05-teoredes"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electrotecnia/electrotecnia/"
+	},
+	{
+		"codigo": "IE05-siscontrol2",
+		"nombre": "Sistemas de control II",
+		"correlativas": ["IE05-siscontrol1", "IE05-metnum"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/sistemas-de-control-ii/"
+	},
+	{
+		"codigo": "IE05-edig2",
+		"nombre": "Electrónica digital II",
+		"correlativas": ["IE05-informatica", "IE05-edig1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-digital-ii/"
+	},
+
+	{
+		"codigo": "IE05-campoelect",
+		"nombre": "Teoría del campo electromagnético",
+		"correlativas": ["IE05-am3", "IE05-teoredes"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/teoria-del-campo-electromagnetico/"
+	},
+	{
+		"codigo": "IE05-practica",
+		"nombre": "Práctica supervisada",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-electronica/practica-supervisada-3/"
+	},
+	{
+		"codigo": "IE05-instelec",
+		"nombre": "Instalaciones Eléctricas",
+		"correlativas": ["IE05-electrotecnia"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electrotecnia/instalaciones-electricas-1/"
+	},
+	{
+		"codigo": "IE05-edig3",
+		"nombre": "Electrónica digital III",
+		"correlativas": ["IE05-edig2", "IE05-comptrad"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-digital-iii/"
+	},
+	{
+		"codigo": "IE05-sintesis",
+		"nombre": "Síntesis de redes activas",
+		"correlativas": ["IE05-eanalog2", "IE05-comptrad"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/sintesis-de-redes-activas/"
+	},
+
+	{
+		"codigo": "IE05-eindustrial",
+		"nombre": "Electrónica industrial",
+		"correlativas": ["IE05-siscontrol1", "IE05-sintesis"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-industrial/"
+	},
+	{
+		"codigo": "IE05-siscomp",
+		"nombre": "Sistemas de computación",
+		"correlativas": ["IE05-edig3"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/sistemas-de-computacion/"
+	},
+	{
+		"codigo": "IE05-eanalog3",
+		"nombre": "Electrónica analógica III",
+		"correlativas": ["IE05-sintesis", "IE05-teocom"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/electronica-analogica-iii/"
+	},
+
+	{
+		"codigo": "IE05-seghig",
+		"nombre": "Seguridad e higiene industrial y ambiental",
+		"correlativas": ["IE05-f3"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/seguridad-e-higiene-industrial-y-ambiental-1/"
+	},
+	{
+		"codigo": "IE05-gestionorg",
+		"nombre": "Gestión de organizaciones industriales",
+		"correlativas": ["IE05-economia"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/gestion-de-organizaciones-industriales-1/"
+	},
+	{
+		"codigo": "IE05-projint",
+		"nombre": "Proyecto integrador",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/proyecto-integrador-6/"
+	},
+	{
+		"codigo": "IE05-opt1",
+		"nombre": "Optativa I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt2",
+		"nombre": "Optativa II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IE05-opt-radios",
+		"nombre": "Radios Cognitivas y Definidas por Software",
+		"correlativas": ["IE05-opt-comdig", "IE05-opt-arqcomp"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-emprendedorismo",
+		"nombre": "Emprendedorismo tecnológico",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/bioingenieria/4022-emprendedorismo-tecnologico/"
+	},
+	{
+		"codigo": "IE05-opt-gestionproy",
+		"nombre": "Gestión de Proyectos",
+		"correlativas": ["IE05-economia"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-medicina",
+		"nombre": "Medicina Nuclear",
+		"correlativas": ["IE05-instmed", "IE05-f3"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/bioingenieria/10-07256-medicina-nuclear/"
+	},
+	{
+		"codigo": "IE05-opt-instbio",
+		"nombre": "Instrumentación Biomédica",
+		"correlativas": ["IE05-edig2", "IE05-eanalog1", "IE05-opt-transductores"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/bioingenieria/10-07255-instrumentacion-biomedica/"
+	},
+	{
+		"codigo": "IE05-opt-imagenes",
+		"nombre": "Imágenes en Medicina",
+		"correlativas": ["IE05-opt-instbio"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/bioingenieria/10-07254-imagenes-en-medicina/"
+	},
+	{
+		"codigo": "IE05-opt-coptimo",
+		"nombre": "Control Óptimo Avanzado",
+		"correlativas": ["IE05-siscontrol1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-07253-control-optimo-avanzado/"
+	},
+	{
+		"codigo": "IE05-opt-cestoc",
+		"nombre": "Análisis y Control de Sistemas Estocásticos",
+		"correlativas": ["IE05-siscontrol2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-07252-analisis-y-control-de-sistemas-estocasticos/"
+	},
+	{
+		"codigo": "IE05-opt-robotica",
+		"nombre": "Robótica y Animatrónica",
+		"correlativas": ["IE05-siscontrol1", "IE05-siscomp"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/7251-robotica-y-animatronica/"
+	},
+	{
+		"codigo": "IE05-opt-pds",
+		"nombre": "Procesamiento Digital de Señales",
+		"correlativas": ["IE05-senalesysistemas", "IE05-edig2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/7250-procesamiento-digital-de-senales/"
+	},
+	{
+		"codigo": "IE05-opt-fuzzy",
+		"nombre": "Fundamentos Teóricos de Sistemas, Modelización y Control Fuzzy",
+		"correlativas": ["IE05-siscontrol2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-ia",
+		"nombre": "Inteligencia Artificial",
+		"correlativas": ["IE05-siscomp"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/7247-inteligencia-artificial/"
+	},
+	{
+		"codigo": "IE05-opt-arqcomp",
+		"nombre": "Arquitectura de Computadoras",
+		"correlativas": ["IE05-siscomp"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/arquitectura-de-computadoras/"
+	},
+	{
+		"codigo": "IE05-opt-so",
+		"nombre": "Sistemas Operativos",
+		"correlativas": ["IE05-siscomp"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/10-07245-sistemas-operativos/"
+	},
+	{
+		"codigo": "IE05-opt-redes",
+		"nombre": "Redes de Computadoras",
+		"correlativas": ["IE05-teocom"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/10-07244-redes-de-computadoras/"
+	},
+	{
+		"codigo": "IE05-opt-comdatos",
+		"nombre": "Comunicaciones de Datos",
+		"correlativas": ["IE05-siscomp"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/10-07243-comunicaciones-de-datos/"
+	},
+	{
+		"codigo": "IE05-opt-antenas",
+		"nombre": "Antenas y Propagación de Ondas",
+		"correlativas": ["IE05-campoelect"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-07242-antenas-y-propagacion-de-ondas/"
+	},
+	{
+		"codigo": "IE05-opt-comtel",
+		"nombre": "Sistemas de Comunicaciones Telefónicas",
+		"correlativas": ["IE05-teocom"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/10-07241-sistemas-de-comunicaciones-telefonicas/"
+	},
+	{
+		"codigo": "IE05-opt-comdig",
+		"nombre": "Comunicaciones Digitales",
+		"correlativas": ["IE05-teocom"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-radiocom",
+		"nombre": "Sistemas de Radiocomunicación",
+		"correlativas": ["IE05-teocom"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-07239-sistemas-de-radiocomunicacion/"
+	},
+	{
+		"codigo": "IE05-opt-cproc",
+		"nombre": "Control de Procesos Industriales",
+		"correlativas": ["IE05-siscontrol2", "IE05-eindustrial"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-0-7238-control-de-procesos-industriales/"
+	},
+	{
+		"codigo": "IE05-opt-eindav",
+		"nombre": "Electrónica Industrial Avanzada",
+		"correlativas": ["IE05-siscontrol2", "IE05-eindustrial"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-07237-electronica-industrial-avanzada/"
+	},
+	{
+		"codigo": "IE05-opt-cindav",
+		"nombre": "Control Industrial Avanzado",
+		"correlativas": ["IE05-siscontrol2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/10-07236-control-industrial-avanzado/"
+	},
+	{
+		"codigo": "IE05-opt-pracclin",
+		"nombre": "Practica en Ingenieria Clinica",
+		"correlativas": ["IE05-opt-bio1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-transductores",
+		"nombre": "Transductores y Sensores",
+		"correlativas": ["IE05-sintesis"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-bio2",
+		"nombre": "Bioingenieria II",
+		"correlativas": ["IE05-opt-bio1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-bio1",
+		"nombre": "Bioingenieria I",
+		"correlativas": ["IE05-sintesis"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE05-opt-portugues",
+		"nombre": "Modulo de Portugues",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	}
+]

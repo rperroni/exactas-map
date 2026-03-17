@@ -97,6 +97,7 @@ Esta app usa Firebase cargado por script (CDN) y Firestore como base de datos. N
 - Completar correlativas y/o `RTF` faltantes de `civil-2005` (archivo `carreras/civil-2005.json`).
 - Completar los `RTF` de `civil-2025` (archivo `carreras/civil-2025.json`).
 - Completar correlativas y `RTF` de `constructor-1997` (archivo `carreras/constructor-1997.json`).
+- Completar los `RTF` de `electronica-2005` (archivo `carreras/electronica-2005.json`).
 ---
 
 ## Cómo contribuir
