@@ -95,6 +95,7 @@ Esta app usa Firebase cargado por script (CDN) y Firestore como base de datos. N
 - Completar los `RTF` de `ambiental-2025` (archivo `carreras/ambiental-2025.json`).
 - Completar correlativas de Cs Biológicas.
 - Completar correlativas y/o `RTF` faltantes de `civil-2005` (archivo `carreras/civil-2005.json`).
+- Completar los `RTF` de `civil-2025` (archivo `carreras/civil-2025.json`).
 ---
 
 ## Cómo contribuir
