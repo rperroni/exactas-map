@@ -1,0 +1,114 @@
+Ingeniería en Computación
+
+
+        Plan de Correlatividades
+
+  Escuela de Ingeniería en Computación
+‭|‬
+
+
+
+
+  ‭ abla‬ ‭6:‬ ‭Correlatividades‬ ‭correspondientes‬ ‭al‬ ‭Plan‬ ‭2025‬ ‭de‬
+  T
+  ‭Ingeniería en Computación.‬
+
+      ‭AÑO‬ ‭SEMESTRE‬                     ‭ASIGNATURA‬                                  ‭CORRELATIVA/S‬
+                           ‭Ambientación Universitaria‬                ‭-----‬
+      ‭CINEU‬    ‭CINEU‬   ‭Física y Química‬                          ‭—---‬
+                           ‭Matemática‬                                ‭—---‬
+                           ‭Fundamentos de Programación‬               ‭Matemática‬
+                                                                       ‭Ambientación Universitaria‬
+                           ‭Taller y Laboratorio‬
+                    ‭1‬                                                ‭Matemática‬
+                           ‭Análisis Matemático 1‬                     ‭Matemática‬
+                           ‭Estructuras Discretas‬                     ‭Matemática‬
+        ‭1‬                                                            ‭Estructuras Discretas‬
+                           ‭Algoritmos y Estructuras de Datos‬
+                                                                       ‭Fundamentos de Programación‬
+                           ‭Álgebra Lineal‬                            ‭Matemática‬
+                    ‭2‬
+                                                                       ‭Física y Química‬
+                           ‭Física 1‬
+                                                                       ‭Análisis Matemático 1‬
+                           ‭Módulo de Inglés‬                          ‭5 asignaturas‬
+                           ‭Programación Avanzada‬                     ‭Algoritmos y Estructuras de Datos‬
+                                                                       ‭Taller y Laboratorio‬
+                           ‭Electrónica Digital 1‬                     ‭Estructuras Discretas‬
+                                                                       ‭Fundamentos de Programación‬
+                    ‭3‬
+                                                                       ‭Física 1‬
+                           ‭Física 2‬
+                                                                       ‭Álgebra Lineal‬
+        ‭2‬                                                            ‭Análisis Matemático 1‬
+                           ‭Análisis Matemático 2‬
+                                                                       ‭Álgebra Lineal‬
+                           ‭Electrónica Digital 2‬                     ‭Electrónica Digital 1‬
+                                                                       ‭Taller y Laboratorio‬
+                           ‭Electrónica‬
+                    ‭4‬                                                ‭Física 2‬
+                           ‭Análisis Matemático 3‬                     ‭Análisis Matemático 2‬
+                           ‭Probabilidad y Estadística‬                ‭Análisis Matemático 1‬
+                           ‭Bases de Datos‬                            ‭Algoritmos y Estructuras de Datos‬
+                                                                       ‭Programación Avanzada‬
+                           ‭Ingeniería de Software y Hardware‬
+                                                                       ‭Electrónica Digital 2‬
+                    ‭5‬                                                ‭Programación Avanzada‬
+                           ‭Electrónica Digital 3‬
+                                                                       ‭Electrónica Digital 2‬
+        ‭3‬
+                                                                       ‭Análisis Matemático 3‬
+                           ‭Señales y Sistemas‬
+                                                                       ‭Física 2‬
+                           ‭Sistemas de Control 1‬                     ‭Señales y Sistemas‬
+                    ‭6‬    ‭Programación Concurrente y Paralela‬ ‭Programación Avanzada‬
+
+                                                                                 IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                                 página 11 de 22
+‭|‬
+
+
+
+
+                           ‭Redes de Computadoras‬                     ‭Electrónica Digital 2‬
+                           ‭Procesamiento de Señales‬                  ‭Señales y Sistemas‬
+                           ‭ alidad de Software y‬
+                           C
+                                                                       ‭Ingeniería de Software y Hardware‬
+                           ‭Hardware-Software‬
+                    ‭7‬    ‭Sistemas Operativos‬                       ‭Programación Concurrente y Paralela‬
+                           ‭Sistemas Embebidos‬                        ‭Electrónica Digital 3‬
+                           ‭Inteligencia Artificial‬                   ‭Ingeniería de Software y Hardware‬
+        ‭4‬
+                           ‭Seguridad informática‬                     ‭Calidad de Software y Hardware-Software‬
+                                                                       ‭Redes de Computadores‬
+                           ‭Sistemas Distribuidos‬
+                    ‭8‬                                                ‭Sistemas Operativos‬
+                           ‭Arquitectura de Computadoras‬              ‭Sistemas Operativos‬
+                           ‭Sistemas de Control 2‬                     ‭Sistemas de Control 1‬
+                           ‭Sistemas Ciberfísicos‬                     ‭Sistemas de Control 2‬
+                           ‭Sistemas Informáticos‬                     ‭Seguridad informática‬
+                    ‭9‬
+                           ‭Selectiva 1‬                               ‭Según Selectiva‬
+                           ‭Selectiva 2‬                               ‭Según Selectiva‬
+        ‭5‬
+                           ‭Ingeniería Económica y Legal‬              ‭Ingeniería de Software y Hardware‬
+                           ‭Higiene y Seguridad‬                       ‭Calidad de Software y Hardware-Software‬
+                   ‭10‬
+                                                                       ‭ deudar, como máximo, una cantidad de‬
+                                                                       A
+                           ‭Práctica Profesional Integradora‬
+                                                                       ‭materias equivalente a 50 RTF‬
+
+
+
+
+                                                                            IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                            página 12 de 22
+

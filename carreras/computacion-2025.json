@@ -1,1 +1,356 @@
-[]
+[
+	{
+		"codigo": "ICOM25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 1,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04050-ambientacion-universitaria/"
+	},
+	{
+		"codigo": "ICOM25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04052-fisica-y-quimica/"
+	},
+	{
+		"codigo": "ICOM25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04051-matematica/"
+	},
+
+	{
+		"codigo": "ICOM25-fundprog",
+		"nombre": "Fundamentos de Programación",
+		"correlativas": ["ICOM25-mat"],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09800-fundamentos-de-programacion/"
+	},
+	{
+		"codigo": "ICOM25-tallerylab",
+		"nombre": "Taller y Laboratorio",
+		"correlativas": ["ICOM25-AmbUniv", "ICOM25-mat"],
+		"RTF": 6,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04058-taller-y-laboratorio/"
+	},
+	{
+		"codigo": "ICOM25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["ICOM25-mat"],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04053-analisis-matematico-1/"
+	},
+	{
+		"codigo": "ICOM25-estdiscretas",
+		"nombre": "Estructuras discretas",
+		"correlativas": ["ICOM25-mat"],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09801-estructuras-discretas/"
+	},
+
+	{
+		"codigo": "ICOM25-aed",
+		"nombre": "Algoritmos y Estructuras de Datos",
+		"correlativas": ["ICOM25-estdiscretas", "ICOM25-fundprog"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09802-algoritmos-y-estructuras-de-datos/"
+	},
+	{
+		"codigo": "ICOM25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["ICOM25-mat"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04059-algebra-lineal/"
+	},
+	{
+		"codigo": "ICOM25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["ICOM25-fyq", "ICOM25-am1"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04060-fisica-1/"
+	},
+	{
+		"codigo": "ICOM25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 5
+		},
+		"RTF": 3,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04066-modulo-de-ingles/"
+	},
+
+	{
+		"codigo": "ICOM25-progavan",
+		"nombre": "Programación Avanzada",
+		"correlativas": ["ICOM25-aed"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09803-programacion-avanzada/"
+	},
+	{
+		"codigo": "ICOM25-ed1",
+		"nombre": "Electrónica Digital 1",
+		"correlativas": ["ICOM25-tallerylab", "ICOM25-estdiscretas", "ICOM25-fundprog"],
+		"RTF": 10,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04068-electronica-digital-1/"
+	},
+	{
+		"codigo": "ICOM25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["ICOM25-f1", "ICOM25-algebra"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04067-fisica-2/"
+	},
+	{
+		"codigo": "ICOM25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["ICOM25-am1", "ICOM25-algebra"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04063-analisis-matematico-2/"
+	},
+
+	{
+		"codigo": "ICOM25-ed2",
+		"nombre": "Electrónica Digital 2",
+		"correlativas": ["ICOM25-ed1"],
+		"RTF": 10,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04071-electronica-digital-2/"
+	},
+	{
+		"codigo": "ICOM25-electronica",
+		"nombre": "Electrónica",
+		"correlativas": ["ICOM25-tallerylab", "ICOM25-f2"],
+		"RTF": 6,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04074-electronica/"
+	},
+	{
+		"codigo": "ICOM25-am3",
+		"nombre": "Análisis Matemático 3",
+		"correlativas": ["ICOM25-am2"],
+		"RTF": 7,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04070-analisis-matematico-3/"
+	},
+	{
+		"codigo": "ICOM25-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["ICOM25-am1"],
+		"RTF": 5,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04062-probabilidad-y-estadistica/"
+	},
+
+	{
+		"codigo": "ICOM25-bd",
+		"nombre": "Bases de Datos",
+		"correlativas": ["ICOM25-aed"],
+		"RTF": 7,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09804-bases-de-datos/"
+	},
+	{
+		"codigo": "ICOM25-ingsw-hw",
+		"nombre": "Ingeniería de Software y Hardware",
+		"correlativas": ["ICOM25-progavan", "ICOM25-ed2"],
+		"RTF": 8,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09805-ingenieria-de-software-y-hardware/"
+	},
+	{
+		"codigo": "ICOM25-ed3",
+		"nombre": "Electrónica Digital 3",
+		"correlativas": ["ICOM25-ed2"],
+		"RTF": 8,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04075-electronica-digital-3/"
+	},
+	{
+		"codigo": "ICOM25-sys",
+		"nombre": "Señales y Sistemas",
+		"correlativas": ["ICOM25-am3", "ICOM25-f2"],
+		"RTF": 8,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04076-senales-y-sistemas/"
+	},
+
+	{
+		"codigo": "ICOM25-sc1",
+		"nombre": "Sistemas de Control 1",
+		"correlativas": ["ICOM25-sys"],
+		"RTF": 8,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04081-sistemas-de-control-1/"
+	},
+	{
+		"codigo": "ICOM25-pcp",
+		"nombre": "Programación Concurrente y Paralela",
+		"correlativas": ["ICOM25-progavan"],
+		"RTF": 8,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09806-programacion-concurrente-y-paralela/"
+	},
+	{
+		"codigo": "ICOM25-redes",
+		"nombre": "Redes de Computadoras",
+		"correlativas": ["ICOM25-ed2"],
+		"RTF": 9,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09807-redes-de-computadoras/"
+	},
+	{
+		"codigo": "ICOM25-procsen",
+		"nombre": "Procesamiento de Señales",
+		"correlativas": ["ICOM25-sys"],
+		"RTF": 10,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09808-procesamiento-de-senales/"
+	},
+
+	{
+		"codigo": "ICOM25-calidad",
+		"nombre": "Calidad de Software y Hardware-Software",
+		"correlativas": ["ICOM25-ingsw-hw"],
+		"RTF": 6,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09809-calidad-de-software-y-hardware-software/"
+	},
+	{
+		"codigo": "ICOM25-so",
+		"nombre": "Sistemas Operativos",
+		"correlativas": ["ICOM25-pcp"],
+		"RTF": 8,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09810-sistemas-operativos/"
+	},
+	{
+		"codigo": "ICOM25-embebidos",
+		"nombre": "Sistemas Embebidos",
+		"correlativas": ["ICOM25-ed3"],
+		"RTF": 8,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09811-sistemas-embebidos/"
+	},
+	{
+		"codigo": "ICOM25-ia",
+		"nombre": "Inteligencia Artificial",
+		"correlativas": ["ICOM25-ingsw-hw"],
+		"RTF": 8,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09812-inteligencia-artificial/"
+	},
+
+	{
+		"codigo": "ICOM25-seginfo",
+		"nombre": "Seguridad informática",
+		"correlativas": ["ICOM25-calidad", "ICOM25-redes"],
+		"RTF": 8,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09813-seguridad-informatica/"
+	},
+	{
+		"codigo": "ICOM25-sdist",
+		"nombre": "Sistemas Distribuidos",
+		"correlativas": ["ICOM25-so"],
+		"RTF": 10,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09814-sistemas-distribuidos/"
+	},
+	{
+		"codigo": "ICOM25-arqcomp",
+		"nombre": "Arquitectura de Computadoras",
+		"correlativas": ["ICOM25-so"],
+		"RTF": 9,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09815-arquitectura-de-computadoras/"
+	},
+	{
+		"codigo": "ICOM25-sc2",
+		"nombre": "Sistemas de Control 2",
+		"correlativas": ["ICOM25-sc1"],
+		"RTF": 10,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04082-sistemas-de-control-2/"
+	},
+
+	{
+		"codigo": "ICOM25-ciberfis",
+		"nombre": "Sistemas Ciberfísicos",
+		"correlativas": ["ICOM25-sc2"],
+		"RTF": 8,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09816-sistemas-ciberfisicos/"
+	},
+	{
+		"codigo": "ICOM25-sisinf",
+		"nombre": "Sistemas Informáticos",
+		"correlativas": ["ICOM25-seginfo"],
+		"RTF": 8,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09817-sistemas-informaticos/"
+	},
+	{
+		"codigo": "ICOM25-selectiva1",
+		"nombre": "Selectiva 1",
+		"correlativas": [],
+		"RTF": 6,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "ICOM25-selectiva2",
+		"nombre": "Selectiva 2",
+		"correlativas": [],
+		"RTF": 6,
+		"semestre": 9,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "ICOM25-ingeconleg",
+		"nombre": "Ingeniería Económica y Legal",
+		"correlativas": ["ICOM25-ingsw-hw"],
+		"RTF": 6,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-04064-ingenieria-economica-y-legal/"
+	},
+	{
+		"codigo": "ICOM25-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": ["ICOM25-calidad"],
+		"RTF": 7,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/departamento-de-produccion-gestion-y-medioambiente/10-04078-higiene-y-seguridad/"
+	},
+	{
+		"codigo": "ICOM25-PPI",
+		"nombre": "Práctica Profesional Integradora",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "maxRtfAdeudados",
+			"cantidad": 50
+		},
+		"RTF": 9,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/ingenieria-computacion/10-09820-practica-profesional-integradora/"
+	}
+]
