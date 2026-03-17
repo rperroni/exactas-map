@@ -99,6 +99,7 @@ Esta app usa Firebase cargado por script (CDN) y Firestore como base de datos. N
 - Completar correlativas y `RTF` de `constructor-1997` (archivo `carreras/constructor-1997.json`).
 - Completar los `RTF` de `electronica-2005` (archivo `carreras/electronica-2005.json`).
 - Completar los `RTF` de `electronica-2025` (archivo `carreras/electronica-2025.json`).
+- Terminar de cargar los planes que siguen vacíos: `electromecanica-2005.json`, `electromecanica-2025.json`, `geologicas-2023.json`, `mecanica-2005.json`, `mecanica-2025.json`, `prof-cs-bio-1990.json`, `quimica-2005.json`, `quimica-2025.json`, `tme-1997.json`, `tuaqi-2023.json`, `tusd-2023.json`.
 ---
 
 ## Cómo contribuir
