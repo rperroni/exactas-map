@@ -1,0 +1,265 @@
+Programa de:
+
+Bioestadística II
+UNIVERSIDAD NACIONAL DE CÓRDOBA
+Facultad de Ciencias Exactas, Físicas y Naturales
+_
+República Argentina
+Carrera: Ciencias Biológicas
+Escuela: Biología
+Departamento: Matemática
+
+Código:
+Plan: 261-2015
+Carga Horaria: 85
+Semestre: cuarto
+Carácter Obligatoria
+
+Créditos: 8,5
+Año: Segundo
+
+Objetivos:
+1 Brindar al alumno un marco básico de Teoría estadística, asi como el nexo teórico-práctico adecuado para la aplicación de la
+metodología correspondiente.
+2. Analizar distintos métodos de inferencia estadística aplicados a diferentes áreas de las Ciencias Biológicas.
+3. Favorecer la comprensión de la mecánica de las herramientas estadísticas utilizadas,
+4. Establecer cnterios de aplicación de distintas metodologías de acuerdo a las distintas disciplinas biológicas y acordes a la problemática
+de cada subdisciplina.
+Programa Sintético
+1. Conceptos básicos
+2. Introducción
+3. Diseño completamente aleatonzado a un factor
+4. Diseño aleatonzado a un factor con bloques
+5. Diseños factoriales
+6. Diseño a efectos aleatorios y mixtos
+7. Regresión
+8. Análisis de la Covarianza
+9. Análisis Multivariado de la Varianza
+10. Análisis Multivariados de Clasificación y Ordenación
+11 Modelos Lineales Generalizados
+Programa Analitico de foja: 2 a foja: 3
+Programa Combinado de Examen (si corresponde) de foja: a foja:
+Bibliografía de foja: 4 a foja: 4
+Correlativas Obligatorias: Bioestadística
+Correlativas Aconsejadas
+Rige: 2015
+Aprobado H.C.D.: Res.:
+Modificado/Anulado/Sust H.C.D. Res.:
+Fecha:
+Fecha:
+El Secretario Académico de la Facultad de Ciencias Exactas Físicas y Naturales (UNC) certifica que el programa está
+aprobado por el (los) números y fecha(s) que anteceden, Córdoba, /
+/
+Carece de validez sin la certificación de la Secretaría Académica:
+
+,
+
+H
+
+PROGRAMA ANALÍTICO
+LINEAMIENTOS GENERALES
+La Asignatura Bíoestadística II está ubicada en el primer semestre de cuarto año. El estudiante que llega a ésta ha
+cursado las materias Estadística y Biometría, Fisiología Animal y Fisiología Vegetal. Estos son los dos anclajes que
+se utilizan para el dictado de una manera muy aplicada.
+
+METODOLOGÍA DE ENSEÑANZA
+El dictado de los teórico-prácticos se inspira en la Enseñanza basada en resolución de problemas- El estudiante
+desde la primera clase elige un "problema tipo" de cuatro disponibles y a medida que va desarrollándose la
+asignatura él va incorporando modelos más complejos a esta situación. Comenzando por un modelo nulo donde
+sólo un valor esperado es el predictivo de una variable, va pasando a modelos donde sus variables independientes
+son cualitativas, cuantitativas, o ambas. Para terminar se introduce a los análisis mulíivariados y a los modelos
+lineales generalizados, donde se posibilita modelar otras variables respuestas que no poseen distribución normal y
+pertenecen a la familia de las exponenciales.
+EVALUACIÓN
+Los estudiantes son evaluados de las siguientes maneras;
+Pruebas parciales de evaluación; Se toman tres evaluaciones parciales y un trabajo final. La primera de ellas es
+sobre las primeras dos unidades, que son repaso de los contenidos de Bioestadística I, es de carácter teórico. Las
+dos siguientes pruebas son de carácter teórico práctico. Para la aprobación se considera un porcentaje de
+resolución de los temas del 40%, que corresponde a la nota 4 (cuatro).
+El parcial 1 posee una recuperación propia dos semanas después de tomado el parcial. Al finalizar el período de
+clases se realiza una evaluación de recuperación de uno de los dos parciales (parcial 2 ó parcial 3), para los
+alumnos que no hayan aprobado. En este parcial recuperatorio se tomarán sólo contenidos prácticos. El trabajo
+final consta de la entrega y exposición de un proyecto grupal de aplicación práctica, basado en el método científico.
+Las condiciones en las que se encuadrarán los estudiantes son tres;
+Promoción; Tiene derecho a la promoción los alumnos que cumplan con las siguientes condiciones propias de esta
+asignatura, además de las generales del plan de estudios y del régimen vigente:
+Tener aprobados los tres parciales y el trabajo final con un promedio igual o mayor a 7 (siete)
+Tener al menos el 80% de asistencia a clases teóricas-prácticas.
+Regular; Tiene derecho a la regularidad los alumnos que cumplan con las siguientes condiciones propias de esta
+asignatura, además de las generales del plan de estudios y del régimen vigente;
+Tener aprobados los cuatro parciales con una nota igual o mayor a 4 (cuatro). Con la posibilidad de un recuperatorio
+para el parcial 1 y uno para los parciales 2 y 3.
+Tener al menos el 80% de asistencia a clases teóricas-prácticas
+Libres; Los estudiantes que no posean las condiciones mínimas para la condición regular quedarán como libres.
+Examen Final; Los alumnos que no hubieran podido lograr la promoción pueden aprobar la materia en el examen
+final en los turnos y fechas que establece la Facultad.
+Para esta instancia se establecen dos categorías que se corresponden con grados de dificultad diferenciados en el
+examen práctico:
+Alumnos Regulares: Realizarán dos ejercicios prácticos, los que deberán aprobar con un 60% de los contenidos.
+Alumnos Libres: Realizarán tres ejercicios prácticos, los que deberán aprobar con un 60% de los contenidos.
+
+Una vez aprobado el examen práctico tomarán de un bolillero tres bolillas correspondientes a las unidades del
+programa de la asignatura. El Docente seleccionará un tema de cada una de las unidades. Después de un tiempo
+de 10 minutos de preparación, el estudiante desarrollará los tres temas seleccionados frente al tribunal examinador.
+
+•
+
+'*'
+lI
+
+CONTENIDOS TEMÁTICOS
+Unidad 1. Conceptos básicos
+La ciencia, construcción de teorías y modelos. Objetivos e hipótesis en la investigación biológica. Datos experimentales y
+observacíonales.
+Preguntas biológicas.
+Conversión de Hipótesis en Hipótesis Estadísticas. Hipótesis Nula y Alternativa.
+Predicciones. Supuestos estadísticos y biológicos.
+El diseño de experimentos. Principios; aleatorización, repetición, y control local.
+Unidad experimental u observacional. Factores y niveles del factor. Variable respuesta y variables independientes.
+
+Unidad 2. Introducción
+Estimación por intervalos para diferentes parámetros. Pruebas de Hipótesis. Errores. Pruebas para la media y la varianza
+poblacional. Pruebas para la diferencia de medias y el cociente de varianzas. Valor p.
+Unidad 3. Diseño completamente aleatorizado a un factor
+
+El modelo del Análisis de la varianza (Anova) a efectos fijos. Hipótesis. Supuestos. Suma de cuadrados, Cuadrados
+Medios, Esperanza y valor p. Contrastes, Comparaciones múltiples. Conclusiones.
+Verificación del modelo: Supuestos. Transformaciones.
+Análisis de la Varianza No Paramétrico; Test de Kruskal-Wallis.
+Unidad 4. Diseño aleatorizado a un factor con bloques
+Las restricciones a la aleatorización. El efecto bloque como representante de un gradiente, Modelo, hipótesis, supuestos.
+Comparaciones múltiples. Conclusiones.
+Análisis de la Varianza No Paramétrico con Bloques: Test de Friedman.
+Unidad 5. Diseños factoriales
+Diseño a dos factores con interacción. Modelo, hipótesis, supuestos. Suma de cuadrados, Cuadrados Medios y
+Esperanza. Comparaciones múltiples. Conclusiones.
+Modelos anidados.
+Unidad 6. Diseño a efectos aleatorios y mixtos
+Modelo. Hipótesis. Suma de cuadrados, Cuadrados Medios, Esperanza. Diseños que incluyen seudorréplicas.
+Unidad 7. Regresión
+Modelo de la regresión lineal simple. Método de los mínimos cuadrados. Hipótesis Supuestos. Verificación de los
+supuestos. Ajuste. R2.
+Regresiones múltiples. Conceptos. Hipótesis Supuestos. Verificación de los supuestos. Ajuste. R2.
+Método de stepwise. Variables categóricas. Transformaciones.
+Introducción a Regresiones no lineales.
+Unidad 8. Análisis de la Covarianza
+Hipótesis. Modelo del AnCova. Supuestos. Comparaciones de pendientes de regresión.
+Unidad 9. Análisis Multivariado de la Varianza
+
+Modelo de Manova. Supuestos. Hipótesis. Lambda de Wilks. T2 de Hotelling. Conceptos de Análisis multivariado de la
+Covarianza (Mancova).
+Unidad 10. Análisis Multivariados de Clasificación y Ordenación
+Clasificación: Objetivos. Medidas de similitud y distancia. Dendrogramas. Ordenación: Objetivos. La combinación lineal
+de variables. Análisis de componentes principales (ACP). Biplot. Análisis de Correspondencia.
+Unidad 11. Modelos Lineales Generalizados.
+Modelos. Función de distribución. Variable dependiente. Predictor lineal. Variables independientes. Función de Enlace.
+Estimaciones por método de máxima verosimilitud.
+
+.
+
+¿A - \\
+
+DISTRIBUCIÓN DE LA CARGA HORARIA
+ACTIVIDAD
+
+HORAS
+
+TEÓRICA
+
+35
+
+FORMACIÓN PRACTICA:
+
+50
+
+85
+
+TOTAL DE LA CARGA HORARIA
+
+DEDICADAS POR EL ALUMNO FUERA DE CLASE
+ACTIVIDAD
+PREPARACIÓN TEÓRICA
+
+HORAS
+
+30
+55
+85
+
+PREPARACIÓN PRACTICA
+TOTAL DE LA CARGA HORARIA
+
+BIBLIOGRAFÍA
+•
+
+•
+•
+
+INFOSTAT. 2012. InfoStat, versión 2. Manual del Usuario. Grupo InfoStat, FCA, Universidad Nacional de Córdoba.
+(Disponible en: www.irtfostat.com.ar)
+KUEHL, R. 2001. Diseño de Experimentos. Principios estadísticos para el diseño y análisis de investigaciones, Ed.
+Thomson Leaming. México. 666 pp.
+LISON, L. 1976. Estadística aplicada a la Biología experimental, planificación de experiencias y análisis de
+resultados. Eudeba 357pp
+MANGEAUD, A. 2004. La aplicación de Técnicas de Ordenación Multivariadas en la Entomología. Rev. Soc.
+Entomol. Argent. v.63 (3-4): 1-10 (Disponible en: http://www.scielo.org.ar/scielo.php?script-sci__arttext¿ipid=S037356802004000200001)
+MONTGOMERY, M. C. 1991. Diseño y Análisis de Experimentos, Grupo Editorial Iberoamericana
+TABACHNICK, B. & L. FIDELL 1996. Using multivariate statistics. HarperCollíns College Publíshers. New York. 380
+
+•
+
+pp.
+ZAR, J. 1996. Biostatistical analysis. Prentice-Hall. New Jersey. 718 pp.
+
+•
+•
+•
+
+Bibliografía complementaria
+• AFIFI, A. & V. CLARK. 1996. Computeraded multivariate analysís. Chapman & Hall. Boca Ratón. 455 pp.
+• DIGBY, P. & R. KEMPTON. 1991. Multivariate analysís of ecological communities. Chapman & Hall. London, 206 pp.
+•
+
+HAIR, J., R. ANDERSON, R. TATHAM & W. BLACK. 1995. Multivariate data analysis with readings. PrenticeHall.
+
+•
+
+New Jersey.
+JOHNSON, R. & D. WICHERN. 1998. Applied multivariate staiistical analysis. Prentice-Hall. New Jersey. 816 pp.
+JONGMAN, R., C. TER BRAAK & 0. VAN TONGEREN. 1995. Data analysis in community and landscape ecology.
+Cambridge Univ. Press. Cambridge.
+KUEHL, R. 2001. Diseño de Experimentos. Principios estadísticos para el diseño y análisis de investigaciones. Ed.
+Thomson Learning. México. 666 pp.
+MANLY, B. 1986. Multivariate statistical methods. Chapman & Hall. London. 159 pp.
+MASÓN, R.; GUNST, R. & J. HESS. 1989. Síatistical design and Analysis of Experiments. With applications to
+engineering and Science. Ed. John Wíley & Sons. New York. 692 pp.
+MEAD, R.; CURNOW, R. & A. HASTED. 1993. Statistical Methods in Agriculture and Experimental Bíology. Ed.
+
+•
+•
+
+Chapman & Hall. London. 415 pp.
+SCHEFFE.H. 1959. The analysis of varíance. Ed. John WileyS Sons. New York. 477 pp.
+SCHEINER, S. & J. GUREVICH. 1993. Desígn and analysis of Ecological Experiments. Chapman & Hall. New York.
+
+•
+•
+•
+•
+•
+
+445 pp.
+
+Prof. Ing. DA7JIEL LAGO
+
+- ROBERTO E. TERZARIOL
+
+Forehod (fe Ciento ExWffJ. FWOE y IWwrfa
+UNIVERSIDAD NACIONAL DE
+
+FooiHod dJCieiitios £<nilos FÍSKOS y Natiimles
+UnnUidod Nocional it CónJrto
+
+DECANO
+
+

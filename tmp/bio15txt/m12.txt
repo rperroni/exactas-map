@@ -1,0 +1,229 @@
+Programa de:
+
+Matemática II
+UNIVERSIDAD NACIONAL DE CÓRDOBA
+Facultad de Ciencias Exactas, Físicas y Naturales
+República Argentina
+Código:
+Carrera: Ciencias Biológicas
+Escuela: Biología
+Departamento: Matemática
+
+Plan: 261-2015
+Carga Horaria 70
+Semestre: Segundo
+Carácter: Obligatoria
+
+Créditos: 7
+Año: Primero
+
+Objetivos:
+1. Concientizar al alumno de la necesidad de la Matemática para el desarrollo de las Ciencias Biológica
+2. Asimilar conceptos básicos de sucesiones y series.
+3. Adquirir destreza en el manejo de números complejos, matrices y resolución de sistemas de ecuaciones.
+4. Adquirir conocimientos básicos de álgebra lineal y sus aplicaciones a la Biología,
+Programa Sintético:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Números complejos.
+Series y desarrollos finitos.
+Ecuaciones diferenciales ordinarias
+Algebra de matrices.
+Sistemas de ecuaciones.
+Aplicaciones lineales
+Sistemas Dinámicos
+
+Programa Analítico: de foja 2 a foja 5
+Programa Combinado de Examen (si corresponde): de foja
+
+a foja
+
+Bibliografía: de foja 5 a foja 5
+Correlativas Obligatorias:
+
+Matemática
+
+Correlativas Aconsejadas:
+Rige: 2015
+Aprobado Resol. HCD
+
+Sustituye al aprobado por Res.:
+
+Fecha:
+
+Fecha:
+
+El Secretario Académico de la Facultad de Ciencias Exactas, Físicas y Naturales (UNC) certifica que el programa está
+
+aprobado por el (los) número(s) y fecha(s) que anteceden. Córdoba,
+Carece de validez sin la certificación de la Secretaría Académica:
+
+/
+
+/
+
+PROGRAMA ANALÍTICO
+LINEAMIENTOS GENERALES
+Esta asignatura obligatoria se ubica en el segundo semestre de primer año de Ciencias Biológicas y Profesorado en
+Ciencias Biológicas. En ella se desarrollan contenidos que serán de utilidad en asignaturas correlativas tales como
+Física II, Bioestadistica I y II y Matemática III, asi como en asignaturas netamente biológicas que emplean cada vez con
+más frecuencia herramientas matemáticas.Se pretende que el alumno desarrolle la habilidad suficiente para plantear y
+resolver problemas, mediante los métodos proporcionados por la teoría estudiada en la asignatura, y visualice como
+ésta se aplica a la Biología.
+METODOLOGÍA DE ENSEÑANZA
+La carga horaria de la asignatura es de 4 horas semanales durante todo el semestre, con una clase teórica de 2 horas y
+untrabajo práctico de 2 hs. La asignatura se desarrolla mediante clases áulicas en las que se abordan los contenidos
+teóricos y se realiza la práctica de resolución de problemas de los temas del programa, Se resuelven ejercicios y se
+plantean otros que quedan a cargo de los alumnos con el objetivo de enfrentarlos con dificultades que les permitan la
+comprensión y la aplicación a situaciones propias de la Biología. Se dispone de un Manual Teórico-Práctico y que se
+facilita a los alumnos mediante el aula virtual de Asignatura. El mismo contempla ejercicios (en orden de complejidad
+creciente) y problemas, que corresponden a los temas del programa, los que serán resueltos en los trabajos prácticos
+con la asistencia del docente.
+EVALUACIÓN
+Requisitos que debe cumplir el alumno:
+a) 80% de asistencia a las clases teóricas y prácticas.
+b) Aprobar dos parciales teórico-prácticos con promedio mínimo de 7 puntos, que corresponde a: Teórico mínimo 60%,
+Práctico: mínimo 60%, Global Mínimo 65%. Es posible recuperar un parcial (por ausencia o baja nota), la nota de la
+recuperación reemplaza a la del parcial aplazado.
+c} Aprobar un coloquio integrador al finalizar el curso.
+d) Aprobar los dos parciales prácticos con un promedio mínimo de 7 puntos y la parte teórica con un mínimo de 4.
+Ningún parcial, en su parte práctica debe tener menos de 7 puntos, siendo posible recuperar un parcial.
+e) Aprobar dos parciales teórico-prácticos con promedio mínimo de 4 puntos, que corresponde a: Teórico: mínimo
+40%, Práctico: mínimo 40puntos, siendo posible recuperar un parcial.
+El alumno que cumpla con los requisitos:
+(a) (b) y (c) resulta PROMOCIONADO, es decir aprueba la materia sin rendir examen final, sólo debe inscribirse en una
+mesa de examen a fin de firmar la libreta de TP que certifique tal aprobación. Esta condición se mantendrá durante un
+año, transcurrido el cual quedan en condición REGULAR por un año más.
+(a) y (d) resulta REGULAR CON PROMOCIÓN DE PRÁCTICO. Para aprobar la materia debe aprobar el examen final
+teórico (el que es eliminatorio), en los turnos usuales de examen de la Facultad, quedando eximidos de rendir eí examen
+práctico. El alumno queda habilitado para cursar las asignaturas correlativas. Esta condición se mantendrá durante un
+año, transcurrido el cual quedan en condición REGULAR por un año más.
+(a) y (e)
+resulta REGULAR. Para aprobar la materia debe aprobar el examen final, en los turnos usuales de examen
+de la Facultad. Éste consistirá en una prueba escrita, con carácter eliminatorio, de resolución de ejercicios (normalmente
+tres). De aprobarlo, luego deberá rendir oral el examen Teórico, también eliminatorio. El alumno queda habilitado para
+cursar las asignaturas correlativas. Esta condición se mantendrá durante dos años, transcurrido el cual quedan en
+condición LIBRE.
+El alumno que no cumpla al menos con los requisitos (a) y (e), queda en condición de LIBRE. Para aprobar la materia
+debe aprobar el examen final en los turnos usuales de examen de la Facultad. Éste consistirá en una prueba escrita,
+con carácter elimínatorio, de resolución de ejercicios (normalmente cinco). De aprobarlo, luego deberá rendir oral el
+examen Teórico, también eliminatorio. El alumno libre no está habilitado para cursar las asignaturas correlativas.
+CONTENIDOS TEMÁTICOS
+Unidad 1: Números Complejos.
+
+Definiciones. Representación gráfica. Operaciones en forma binómica. Forma Trigonométrica o Polar. Operaciones en
+forma polar: Producto, cociente, potenciación. Fórmula de DeMoivre. Radicación de Números complejos. Ecuaciones
+con raíces complejas.
+
+Unidad 2: Sucesiones y Seríes.
+Sucesiones Numéricas. Forma explícita y forma recursiva. Ecuación Recursiva lineal de primer orden. Ecuación
+Exponencial Discreta. Ecuación Logística Discreta. Forma canónica. Limite. Comportamiento a largo plazo. Puntos fijos o
+Equilibrios. Criterio de Estabilidad local. Desarrollos finitos. Serie Geométrica. Serie a Términos Positivos. Criterios de
+comparación: Criterio de D'Alembert o del cociente. Criterio de Cauchy o de la raíz. Series de potencias. Radio de
+Convergencia de una señe de Potencias Desarrollo de funciones en Series de potencias. Series de Taylor y Mac Laurín.
+Desarrollo en señe de las funciones exponencial, seno y coseno. Forma exponencial de un número complejo. Fórmulas
+de Euler. Funciones Periódicas.
+Umdad3: Ecuaciones Diferencíales Ordinarias.
+Ecuaciones diferenciales de primer orden a variables separables. Ecuaciones diferenciales homogéneas de grado cero.
+Ecuaciones diferencíales lineales de primer orden, homogéneas y no homogéneas. Ecuaciones de crecimiento
+exponencial y logistico. Procesos de crecimiento e inmigración. Propagación de infecciones. Modelo de Von Bertalanffy.
+Equilibrios y Estabilidad en Ecuaciones Diferenciales Ordinarias. Aplicaciones a la Biología: Metapoblaciones y efecto
+Altee.
+Unidad 4: Matrices y Determinantes.
+ConjuntosR"1*1, Rlx;iy R"!Xn.Matrices cuadradas. Determinantes, Cofactores. Producto Vectorial o Cruz
+Geometría de los determinantes. Área y volumen. Operaciones con matrices: adición y Producto por escalar.
+Multiplicación de matrices. Potencia. Trasposición. Matriz reducida. Operaciones Elementales de filas. Reducción por
+filas. Rango. Matrices elementales. Matriz inversa. Matriz de Cofactores y Matriz Adjunta.
+Unidad 5: Sistemas de Ecuaciones Lineales.
+Ecuaciones Lineales. Ecuaciones de la recta y del plano: vectorial, formas normal y general. Sistemas de ecuaciones.
+Representación matñcial. Solución de Sistemas de m Ecuaciones lineales con n incógnitas. Teorema de RouchéFrobenius. Interpretación Geométrica de Sistemas de Ecuaciones Lineales y sus Soluciones. Sistemas de Ecuaciones
+en los cuales se considera a los Coeficientes como Incógnitas. Ajuste de una Recta a un Conjunto de Datos.Cónicas:
+Ecuaciones de circunferencias, parábolas, elipses e hipérbolas. Ecuaciones de segundo grado.
+Unidad 6:Espacios Vectoriales
+Espacios vectoriales. Subespacios. Combinación lineal. Vectores linealmente independientes. Generador y subespacio
+generado. Bases y dimensión.
+Unidad?: Aplicaciones Lineales
+Transformaciones lineales. Matriz de aplicación. Aplicaciones geométricas. Núcleo de una aplicación lineal. Espacios
+con producto interno. Mínimos cuadrados. Valores y vectores propios. Semejanza y Díagonalización. Matrices
+ortoganales. Diagonalización Ortogonal. Matrices Simétricas, Descomposición espectral.
+Unidad 8: Sistemas Dinámicos
+Sistemas de ecuaciones recursivas de primer orden. Matrices de proyección de población. Cadenas de Markov.
+Modelos de Interacción. Ecuaciones recursivas de orden mayor a 1, su expresión como sistema de ecuaciones
+recursivas de primer orden. La sucesión de Fibonacci. Sistemas de ecuaciones diferenciales ordinarias. Método de
+valores y vectores propios. Modelos de Interacción. Estabilidad en Sistemas de Ecuaciones Diferenciales. Ecuaciones
+diferenciales lineales de orden n a coeficientes constantes, homogénea y general. Método de Variación de parámetros.
+Uso del Wronskiano.
+ACTIVIDADES PRACTICAS DE LABORATORIO
+
+No contempla
+DISTRIBUCIÓN DE LA CARGA HORARIA
+
+ACTIVIDAD
+
+HORAS
+
+TEÓRICA
+
+35
+
+FORMACIÓN PRACTICA:
+
+35
+
+TOTAL DE LA CARGA HORARIA
+
+.^••••^•r^.v
+:>í.<\
+"• • ;i'«c:V-i "^A
+ÍA^
+|5í' :^
+r*V
+
+-^f^1
+
+70
+
+DEDICADAS POR EL ALUMNO FUERA DE CLASE
+HORAS
+
+ACTIVIDAD
+PREPARACIÓN TEÓRICA
+PREPARACIÓN PRACTICA
+
+10
+30
+TOTAL DE LA CARGA HORARIA
+
+40
+
+BIBLIOGRAFÍA
+
+Gigena, S, Vera de Payer, E, Molina, F. y Ludueña Almeida, F. Matemática I para Ciencias Naturales. Ed.
+Universitas. Córdoba. 2011.
+Stewart, ¿.Cálculo, de una variable. Trascendentes tempranas. 6° Ed. CengageLearning. México. 2008.
+Poole, Q.ÁIgebra Lineal. Una Introducción Moderna. 2Ü Ed. Thompson. México. 2006.
+Purcell, E. y Varberg, D.Cá/cu/o con Geomeíría Analítica. Prentice Hall. México. 1992.
+Antón, H. Introducción al Álgebra Lineal, Limusa, Moriega Eds. México. 1999.
+Strang, GÁlgebra Lineal y sus aplicaciones. 4° Ed. Thompson. México. 2007.
+Batschelet, E.Maíemáí/cas Básicos para Biocientificos. Springer-Verlag. Ed. En español: Dossat S.A. Madrid.
+
+1978.
+Hadeler, K. P.Maíemáf/cas para Biólogos. Ed. Reverte. Barcelona. 1982,.
+
+Prof. Ing. DANIEL LAGO
+SECRETARIO ÍEHFUI
+
+Fonhnd de Gaitia-; Ejortoi fiar» j Ndwalet
+UNIVERSIDAD NACIONAL DE CÓRDOBA
+
+ROBERTO E. TERZARlOl
+DECANO
+FoaiHad di t-WcÍQi liWto Hucui y Haluiolss
+
+

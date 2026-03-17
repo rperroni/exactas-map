@@ -1,0 +1,337 @@
+Programa de:
+
+Física I
+
+s»
+**4i
+
+UNIVERSIDAD NACIONAL
+DE CÓRDOBA
+^
+
+Facultad de Ciencias Exactas. Físicas y Naturales
+República Argentina
+Código
+Carrera: Ciencias Biológicas
+Escuela. Biología
+Departamento' Física
+
+Plan: 261-2075
+Carga Horaria 70
+Semestre Segundo
+Carácter Obligatoria
+
+Créditos 7
+Año: Primero
+
+Objetivos: Al terminar el curso el estudiante.
+Reconocerá la necesidad de manejar conceptos físicos para interpretar estructuras y procesos biológicos en general y
+
+relacionados al medio ambiente en particular.
+Se habrá familiarizado con la forma de trabajar del hombre de ciencia a través de la utilización del método científico en el
+desarrollo de las prácticas experimentales.
+Podrá comprender los principios físicos de funcionamiento de diferentes equipos y técnicas que utilizará durante su vida
+
+profesional.
+
+Programa Sintético
+Unidad N° 1: Introducción al estudio de la física y mediciones en el laboratorio
+Unidad N° 2: Estática
+Unidad N° 3: Cinemática
+Unidad N° 4: Dinámica
+
+Unidad N° 5: Rotaciones
+Unidad N° 6: Hidrostática y tensión superficial. Presión atmosférica
+
+Unidad N° 7: Fluidos en Movimiento. Hidrodinámica y viscosidad. Vientos
+Unidad N° 8: Propiedades físicas de los materiales
+Unidad N° 9: Ondas y Sonido
+
+Programa Analítico: de foja 4 a foja 5
+Programa Combinado de Examen (si corresponde): de foja
+Bibliografía: de foja 5 a foja 5
+Correlativas Obligatorias:
+
+a foja
+
+Matemática
+
+Correlativas Aconsejadas:
+Rige: 2015
+Aprobado HCD
+Fecha:
+
+Sustituye al aprobado por HCD Res.: 223/2001 - 927/2007
+Fecha:
+
+El Secretario Académico de la Facultad de Ciencias Exactas, Físicas y Naturales (UNC) certifica que el programa está
+aprobado por el (los) número(s) y fecha(s) que anteceden. Córdoba,
+/
+/
+Carece de validez sin la certificación de la Secretaría Académica.
+
+LINEAMIENTOS GENERALES
+
+Física I se dicta en el segundo cuatrimestre, luego del cursado de Matemática I (correlativa de Física I) y se encuentra
+dentro del conjunto de asignaturas del ciclo básico.
+El desarrollo de la mecánica ocupa una buena parte de los primeros capítulos y luego se abordan, continuando con la visión
+mecanicista del mundo, las propiedades de la materia: hidrostática, tensión superficial, hidrodinámica, viscosidad y
+elasticidad. Finalmente, se abordan ¡deas básicas relacionadas con las ondas y el sonido.
+Previo al desarrollo de la mecánica, se intenta en un primer capítulo reflexionar sobre cómo trabaja el hombre de ciencia y
+luego es abordada la problemática de las mediciones en el laboratorio, que incluye la teoría de propagación de las
+incertezas y el análisis estadístico de los resultados. Este modo de trabajar las mediciones en el laboratorio, es retomado en
+todas las unidades siguientes.
+Desde lo conceptual se desarrolla una Física comparable con aquellas abordadas en el ciclo básico de las distintas carreras
+de ciencias y/o ingeniería, con una formalización matemática que opera con una manipulación sencilla del cálculo
+diferencial, en razón de la formación recibida en matemática I por los alumnos.
+Desde el punto de vista metodológico, se intenta motivar a los alumnos desde las distintas acciones didácticas que se
+desarrollan (teoría, práctica de problemas y prácticas experimentales) con permanentes aplicaciones de la Física en la
+Biología y Ciencias del Ambiente. Por otro lado, se trabaja el perfil de la carrera (investigación en Biología y evaluación de
+situaciones ambientales) con el desarrollo de problemas abiertos, experimentaciones sobre temas problemas de la biología,
+evaluaciones a libro abierto sobre la base de resolución de problemas y elaboración de Informes de las prácticas
+experimentales" con estructura semejante a la de una publicación científica.
+
+METODOLOGÍA DE ENSEÑANZA
+
+Clases teóricas
+Se desarrolla una clase semanal con una duración de una hora y medía. En estas clases se abordará los principales temas
+del programa, recurriendo a la exposición, diálogo y presentación de experimentos para favorecer la participación de los
+alumnos.
+Clases teórico-prácticas (resolución de problemas)
+Se desarrollan en dos clases por semana de una hora y media de duración. Para esta actividad y la siguiente (resolución
+de problemas y trabajos prácticos de laboratorio) los alumnos trabajan en comisiones de no más de treinta y cinco alumnos.
+En ellas se presentan y discuten temas complementarios a los abordados en clases teóricas y se resuelven problemas y
+ejercicios de aplicación.
+Clases prácticas (trabajos prácticos de laboratorio)
+Son de aproximadamente una hora y media de duración y se llevan a cabo en aquellas semanas en las cuáles los alumnos
+tienen una sola clase práctica de resolución de problemas. Se han previsto aproximadamente seis para todo el curso. Estas
+experiencias están dirigidas a desarrollar habilidades prácticas, aplicar teoría de errores, y aprender a presentar resultados
+científicos.
+Clases de consulta
+
+La cátedra pondrá a disposición de los alumnos clases de consultas semanales. Cada docente propone un horario de
+consultas de una hora de duración cada semana, abierto a todos los alumnos de la materia.
+
+EVALUACIÓN
+
+EXÁMENES PARCIALES (Resolución 203 • H.C.D. - 2003)
+Se tomarán durante el curso 3 (tres) exámenes parciales para adquirir la condición de regularidad y/o promoción. En lo
+
+exámenes parciales se plantearán situaciones problemáticas sobre las que se harán tres tipos de preguntas:
+relacionadas con los enfoques que se presentan en clases teóricas; b) vinculadas con cálculos numéricos y aplicación de
+fórmulas; c) relacionadas con las prácticas de laboratorio.
+Los exámenes parciales, serán del tipo "a libro abierto". Se permitirá el uso de cualquier tipo de material esc
+alumno podrá tener acceso solamente a su material. En ningún caso se permitirá durante el examen, compartir material
+escrito
+
+SISTEMA DE PROMOCIÓN
+Para promocionar la materia el alumno deberá cumplir los siguientes requisitos:
+Acreditar la condición de alumno regular.
+Asistir por lo menos al 80% de las clases teóricas.
+Sumar entre los 3 (tres) exámenes parciales 21 (veintiuno) o más puntos.
+La nota final de la materia resultará del promedio de las notas obtenidas en los exámenes parciales.
+El plazo de vigencia de la promoción será de 1 (un) año a partir de la fecha que conste en su libreta de alumno. Quién no se
+presente dentro de ese plazo, perderá la promoción, quedando en condición de alumno regular.
+EXAMEN RECUPERATORIO
+Se otorgará un solo examen recuperatorio que abarcará los mismos temas del programa incluidos en el examen parcial a
+recuperar y se tomará al finalizar el dictado de la materia.
+Quienes podrán recuperar un examen parcial:
+Alumnos que hayan reprobado (nota menor a 4) o inasistido a un examen parcial.
+Alumnos que habiendo aprobado los 3 (tres) exámenes parciales, decidan recuperar uno de ellos para mejorar su
+nota final y promocionar. En este caso sólo podrán recuperar aquel examen parcial con menor calificación. En
+caso de igualdad de notas entre los exámenes parciales, el alumno podrá elegir cual de estos parciales recuperar.
+
+Aquel alumno que hubiera reprobado o inasistido a 1 (un) parcial, no pierde la posibilidad de promocionar la materia,
+siempre y cuando apruebe el recuperatorio,
+La nota obtenida en el recuperatorio, reemplazará indefectiblemente a la nota del examen parcial recuperado o a la
+inasistencia. Para establecer la calificación final se procederá de acuerdo al punto
+COLOQUIO INTEGRADOR
+Aquellos alumnos que acrediten la condición de Alumno Regular y que sumen entre los 3 (tres) exámenes parciales 18
+(dieciocho), 19 (diecinueve) ó 20 (veinte) puntos, podrán acceder a un coloquio integrador.
+El alumno que haya recuperado un examen parcial NO podrá acceder al coloquio integrador.
+El coloquio integrador se tomará en la misma fecha del primer turno de examen siguiente a la finalización del dictado de la
+materia.
+
+En caso de aprobar este coloquio, el alumno promoverá la asignatura con una calificación de 7 (siete) puntos.
+En caso de reprobar el coloquio integrador, el alumno mantendrá la condición de alumno regular alcanzada.
+
+EXÁMENES FINALES
+Alumnos regulares
+Serán escritos, del tipo a libro abierto. En estos exámenes se plantearán situaciones problemáticas sobre las que se harán
+tres tipos de preguntas: a) relacionadas con los enfoques que se presentan en clases teóricas; b) vinculadas con cálculos
+numéricos y aplicación de fórmulas; c) relacionadas con las prácticas de laboratorio.
+En total se plantearán 15 (quince) preguntas y la duración del examen final será de 2 (dos) horas. Las situaciones
+problemáticas planteadas, serán similares a las propuestas en los exámenes parciales. Las situaciones físicas que se
+proponen, pueden involucrar cualquier tema del programa, y el programa a considerar para el examen, será el vigente al
+momento del último curso en el cual se desarrolló la materia. En aquellos casos en que el tribunal lo considere conveniente,
+pasarán a un examen oral tipo coloquio.
+Alumnos libres
+Consistirán en un examen escrito, similar al desarrollado por los alumnos regulares. Quienes aprueben el mismo, tendrán
+que desarrollar posteriormente un Trabajo Práctico de Laboratorio correspondiente a la asignatura, a elección del Tribunal.
+(Para este desarrollo no se permitirá utilizar material de consulta). En aquellos casos en que el tribunal lo considere
+conveniente, pasarán a un examen oral tipo coloquio.
+MUESTRA DE EXÁMENES PARCIALES Y FINALES
+Al término de los exámenes, los docentes de la cátedra pondrán a disposición de los alumnos el resultado de las
+evaluaciones, con el propósito de que los alumnos se informen al respecto.
+PROGRAMA ANALÍTICO
+Unidad 1. Introducción al estudio de la física y Las mediciones en el Laboratorio
+1.1. Los orígenes de la física. Física clásica y moderna.
+
+1.1. La Física: su relación con otras ciencias. El método científico. La física y la biología. Interpretación física de ejemplos
+biológicos.
+1.2. Cantidades, magnitudes y unidades. Patrones de referencia.
+1.3. El SI y el SÍMELA. Unidades fundamentales y derivadas.
+1.4. Prefijos y notación científica. Formación de múltiplos y submúltiplos. Ordenes de magnitud.
+1.5. El laboratorio. El proceso de medición. Sistemas objeto, de medición y de comparación. Técnica de medición.
+
+1.6. La calidad de una medición. Errores sistemáticos y accidentales. Incertezas: absoluta, relativa y porcentual. Apreciación
+y estimación. Cifras significativas.
+1.7. La estimación previa de las incertezas. Medidas directas e indirectas.
+1.8. Análisis estadístico de los resultados. Histogramas. Valor medio. Error medio cuadrática de las lecturas. Error medio
+cuadrático del promedio. El resultado de una medición. Representaciones gráficas.
+1.9. Trabajo práctico de laboratorio.
+Unidad 2. Estática
+2.1. Vectores. Clasificación. Operaciones con vectores.
+
+2.2. Primera condición de equilibrio. Aplicaciones utilizando el método gráfico y el método analítico (de las componentes).
+2.3. Fuerzas que equilibran el sistema.
+2.4. Momento de una fuerza. Definición.
+2.5. Segunda condición de equilibrio. Aplicaciones sencillas.
+2.6. Momento que equilibra el sistema.
+2.7. Trabajo práctico de laboratorio.
+Unidad 3. Cinemática
+3.1. Movimiento rectilíneo. Velocidad media e instantánea. Aceleración media e instantánea.
+3.2. Movimiento rectilíneo uniforme (MRU). Funciones posición y velocidad. Repre-sentaciones gráficas.
+3.3. Movimiento rectilíneo uniformemente variado (MRUV). Funciones posición y velocidad. Caída libre. Tiro vertical.
+Representaciones gráficas.
+3.4. Introducción al movimiento en dos dimensiones.
+
+3.5. Tiro oblicuo.
+3.6. Trabajo práctico de laboratorio.
+Unidad 4. Dinámica
+
+4.1. Las leyes de Newton. Fuerzas: de fricción, a distancia, normal, elásticas.
+4.2. Impulso y cantidad de movimiento. Principio de conservación.
+4.3. Trabajo y energía. Energía cinética
+4.4. Energía potencial. Principio de conservación de la energía mecánica
+4.5. Trabajo práctico de laboratorio.
+Unidad 5. Rotaciones
+5.1. Cinemática de rotaciones. Definición de radián. Velocidad angular media e instantánea. Aceleración angular media e
+
+instantánea.
+5.2. Movimientos circulares: uniforme y uniformemente variado. Aceleración centrípeta.
+5.3. Relación entre velocidad lineal y angular.
+5.4. Dinámica de rotaciones. Las Leyes de Newton. Momento de inercia. Cantidad de movimiento angular.
+5.5. Analogía entre las expresiones de la dinámica de traslaciones y la dinámica de rotaciones.
+5.6. Fuerza de Coriolis y su aplicación a vientos, fenómenos atmosféricos y corrientes marinas. Efectos del calentamiento
+global en los vientos
+5.7. Trabajo práctico de laboratorio.
+Unidad 6. Hidrostática y Tensión Superficial
+6.1. Densidad y presión. Definiciones. Peso especifico.
+6.2. Ecuación fundamental de la hidrostática. Pascal. Tubos comunicantes. Prensa hidráulica. Manómetros. Características
+de la presión atmosférica.
+6.3. Principio de Arqulmedes. Empuje. Circulación natural del aire.
+6.4. Tensión superficial. Ángulo de contacto y capilarídad. Presiones negativas.
+
+6.5. Trabajo práctico de laboratorio,
+Unidad 7. Fluidos en movimiento: Hidrodinámica y Viscosidad
+7.1. La ecuación de continuidad. Caudal. Régimen: estacionario y turbulento.
+7.2. Teorema de Bernoulli. Consecuencias estáticas y dinámicas. Torricelli, Pascal, presiones debido a vientos tangenciales,
+
+etc.
+7.3. Viscosidad. Gradiente de velocidad. La viscosidad del aire,
+Unidad 8. Propiedades Físicas de los Materiales
+8.1. Ley de Hooke. Deformación elástica y plástica. Módulo de elasticidad. Módulo de torsión.
+8.2. Su aplicación a resortes. Constante elástica. Energía potencial.
+
+8.3. Introducción al movimiento armónico simple.
+
+Unidad 9. Ondas y Sonido
+9.1. Movimiento armónico simple. Funciones posición, velocidad y aceleración.
+
+Amplitud, periodo y frecuencia.
+
+9.2. Movimiento ondulatorio. Función de onda. Representaciones gráficas en sistemas de ejes (t,y), y (x,y).
+9.3. Tipos de onda: longitudinales y transversales, mecánicas y electromagnéticas. Frecuencia, periodo, longitud de onda y
+
+velocidad de propagación.
+9.4. Interferencia. Onda estacionaria. Resonancia.
+9.5. Energía. Intensidad. Potencia. Polarización.
+9.6. Naturaleza y velocidad del sonido. La velocidad del sonido en distintos medios. Características de las ondas sonoras.
+Tono, timbre e intensidad.
+
+9.7. Ondas sonoras estacionarias. Instrumentos musicales.
+9.8. Espectro de frecuencias. Sonidos audibles. Ultrasonidos.
+9.9. Efecto Doppler.
+
+9.10. Emisión y recepción de sonidos en los seres vivos.
+9.11. Trabajo práctico de laboratorio.
+
+PROGRAMA DE TRABAJOS PRÁCTICOS
+T.P. de L N° 1: EL MÉTODO CIENTÍFICO - PÉNDULO
+T.P. de L. N° 2: LA ACELERACIÓN EN UN PLAN9 INCLINADO
+T.P. de L. N° 3: CONSERVACIÓN DE LA ENERGÍA
+
+T.P. de L. N° 4: DETERMINACIÓN DE DENSIDAD (Balanza de Jolly)
+T.P. de L. N° 5: DETERMINACIÓN DEL COEFICIENTE DE TENSIÓN SUPERFICIAL.
+T.P. de L. N° 5: DETERMINACIÓN DEL COEFICIENTE DE VISCOSIDAD DE UN LÍQUIDO.
+
+DISTRIBUCIÓN DE LA CARGA HORARIA
+ACTIVIDAD
+
+HORAS
+
+TEÓRICA
+
+24
+
+FORMACIÓN PRACTICA:
+
+46
+70
+
+TOTAL DE LA CARGA HORARIA
+
+DEDICADAS POR EL ALUMNO FUERA DE CLASE
+HORAS
+
+ACTIVIDAD
+PREPARACIÓN TEÓRICA
+PREPARACIÓN PRACTICA
+|
+
+TOTAL DE LA CARGA HORARIA
+
+45
+68
+113
+
+BIBLIOGRAFÍA
+• BAIRD, D.c.,1991. Experimentación. Editorial Prentice-Hall Hispanoamericana S.A. México.
+• BAKER, J.J.W. y ALLEN, G.E., 1970. Biología e Investigación Científica. Editorial Fondo Educativo Interamericano, S.A.
+Estados Unidos de América.
+• CROMER, A.H., 1978. Física para las Ciencias de la Vida. Editorial Reverte S.A. Barcelona, España.
+• GRÜNFELD, V. 1991. El caballo esférico. Editorial Lugar Científico. Bs. As., Argentina.
+• HECHT, E, 1999. física. Álgebra y Trigonometría. Internacional Thomson Editores. México. 1146 páginas.
+• HEWITT, P.. 1995. Física Conceptual. Editorial Addison-Wesley Iberoamericana. Estados Unidos.
+• Jou, D., LLEBOT, J.E. y GARCÍA, C.P., 1995. física para las Ciencias de la Vida. Editorial Me Graw Hill. Madrid, España.
+• KANE, J.W. y STERNHEIM, M.M., 1982. Física. Editorial Reverte S.A. Barcelona, España.
+• MACÜONALD, S.G.G. y BURNS, D.M., 1978. física para las Ciencias de la Vida y de la Salud. Editorial Fondo Educativo
+Interamericano, S.A. Estados Unidos de América.
+
+• MAIZTEGUI, A.P. y GLEISER, R., 1985. Introducción a ¡as Mediciones en el Laboratorio. Editorial Kapelusz. Buenos Aires,
+Argentina.
+• CAPUANO, . Y MARTÍN, J., 2005. El calentamiento global de la Tierra. Un ejemplo de equilibrio dinámico. Cordobensis. ~
+Gobierno de Córdoba. Ministerio de Educación. ISBN 987-22457-2-X. Páginas: 30.
+
+Prof. Ing. DTTNItL* LAGO
+SECí£U!ll(í GENEÍU
+Fnbnd de Gados bodas, fciras y BfTwTJes
+
+UNIVERSIDAD NACIONAL DE tOUHA
+
+Proi.fa. ROBERTO E. TERZARIOL
+MOHO
+hmitíu dt tiendo íimUi FÍÍKIB y Naluialw
+
+
