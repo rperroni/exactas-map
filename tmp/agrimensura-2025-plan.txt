@@ -1,0 +1,2471 @@
+                               Universidad Nacional de Córdoba
+                            1983/2023 - 40 AÑOS DE DEMOCRACIA
+
+                                Resolución H. Consejo Directivo
+
+Número: RHCD-2023-692-E-UNC-DEC#FCEFYN
+
+                                                                         CORDOBA, CORDOBA
+                                                                   Lunes 18 de Septiembre de 2023
+
+Referencia: EX-2022-00983072--UNC-ME#FCEFYN
+
+
+V I S T O:
+
+
+
+El presente expediente por el cual la Escuela de AGRIMENSURA solicita aprobar Plan de
+Estudios de la Carrera de INGENIERÍA EN AGRIMENSURA; y
+
+
+
+CONSIDERANDO:
+
+
+
+Que cuenta con el Visto Bueno de la Secretaría Académica Área Ingeniería;
+
+
+
+Lo aconsejado por la Comisión de ENSEÑANZA;
+
+
+
+                           EL H. CONSEJO DIRECTIVO DE LA
+
+             FACULTAD DE CIENCIAS EXACTAS, FÍSICAS Y NATURALES
+
+                                       R E S U E L V E:
+
+
+
+Art. 1º).- Aprobar el Plan de Estudios de la Carrera de INGENIERÍA EN AGRIMENSURA,
+que como ANEXO I forma parte de la presente Resolución.
+
+
+
+Art. 2°).- Elevar las presentes actuaciones al H. Consejo Superior para su consideración.
+Art. 3°).- Dese al Registro de Resoluciones, comuníquese a Secretaría Académica Área
+Ingeniería, al Área Apoyo Administrativo a la Función Docente, a Oficialía, a la Escuela de
+Agrimensura y gírense las presentes actuaciones a la Secretaría General de la Universidad
+Nacional de Córdoba para la prosecución del trámite.
+
+DADA EN LA SALA DE SESIONES DEL H. CONSEJO DIRECTIVO, EN LA CIUDAD DE
+CÓRDOBA, A LOS OCHO DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL
+VEINTITRÉS.
+
+
+
+
+NB/Mbl
+
+
+Digitally signed by RUIZ CATURELLI Miguel Esteban                      Digitally signed by RECABARREN Pablo Genaro Antonio
+Date: 2023.09.15 14:05:03 ART                                          Date: 2023.09.18 08:29:09 ART
+Location: Ciudad de Córdoba                                            Location: Ciudad de Córdoba
+Miguel Ruiz Caturelli                                                  Pablo Recabarren
+Secretario General                                                     Decano
+Secretaría General Facultad de Ciencias Exactas, Físicas y Naturales   Decanato Facultad de Ciencias Exactas Físicas y Naturales
+Universidad Nacional de Córdoba                                        Universidad Nacional de Córdoba
+
+
+
+
+                                                                                                             Digitally signed by GDE UNC
+                                                                                                             DN: cn=GDE UNC, c=AR, o=Universidad
+                                                                                                             Nacional de Cordoba, ou=Prosecretaria de
+                                                                                                             Informatica, serialNumber=CUIT 30546670623
+                                                                                                             Date: 2023.09.18 08:29:11 -03'00'
+Ingeniería en Agrimensura
+          Plan de estudios
+
+Escuela de Ingeniería en Agrimensura
+
+
+
+
+              Noviembre 2022
+
+
+                               IF-2023-00691129-UNC-EA#FCEFYN
+
+
+                               página 1 de 45
+                                               Índice
+
+1. Diseño Curricular                                                                              4
+  1.1 Plan de Estudios                                                                            4
+     1.1.A Información general                                                                    4
+     1.1.B Alcances del Título y Actividades Reservadas                                           5
+           Alcances del Título                                                                    5
+           Actividades Reservadas                                                                 6
+     1.1.C Antecedentes y Fundamentación                                                          7
+            Antecedentes                                                                          7
+            Fundamentación                                                                        9
+     1.1.D Objetivos de la carrera y perfil de egreso                                            10
+            Objetivos de la carrera                                                              10
+            Propósitos del Cambio del Plan de Estudios:                                          11
+            Perfil de egreso                                                                     12
+            Competencias                                                                         13
+            Objetivos de Desarrollo Sostenible (ODS)                                             13
+     1.1.E Organización del plan de estudios.                                                    14
+            Estructura curricular del plan de estudios                                           14
+            Descripción de la estructura curricular                                              16
+     1.1.F Contenidos Mínimos                                                                    18
+     1.1.G Condiciones de ingreso, requisitos de cursado, permanencia y egreso.                  23
+            Condiciones de ingreso                                                               23
+     1.1.H Instancias de seguimiento del plan de estudios.                                       24
+     1.1.I Aspectos metodológicos.                                                               25
+            Enfoque Metodológico                                                                 25
+            Pautas de evaluación                                                                 25
+            Instancias de Articulación                                                           25
+            Tratamiento de los contenidos curriculares básicos:                                  26
+     1.1.J Otros aspectos.                                                                       26
+            Régimen de cursado de las asignaturas                                                26
+            Modalidad de cursado de las asignaturas                                              26
+            Programa Compromiso Social Estudiantil                                               26
+  1.2 Sistema de correlatividades y plan de transición                                           26
+     1.2.A Plan de transición                                                                    26
+     1.2.B Sistema de correlatividades                                                           27
+     1.2.C Sistema Nacional de Reconocimiento Académico                                          27
+  1.3 Factibilidad Económica                                                                     27
+2. SIED                                                                                          27
+
+
+
+
+                                                                                                  2
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 2 de 45
+3. Anexos                                                                                        28
+  3.1 Anexo I: Competencias genéricas.                                                           28
+       Competencias Tecnológicas                                                                 28
+       Competencias sociales, políticas, actitudinales                                           28
+  3.2 Anexo II: Matriz de tributación de competencias genéricas                                  29
+  3.3 Anexo III: Competencias específicas                                                        30
+  3.4 Anexo IV: Competencias específicas desagregadas                                            31
+  3.5 Anexo V: Matriz de tributación de competencias específicas                                 34
+  3.6 Anexo VI: Horas por bloque curricular                                                      35
+      Detalle de tributación a los bloques curriculares por asignatura                           35
+  3.7 Anexo VII: Intensidad de la actividad práctica                                             37
+  3.8 Anexo VIII: Descriptores del conocimiento                                                  39
+  3.9 Anexo IX: Matriz de tributación de ejes y enunciados multidimensionales y
+       transversales                                                                             42
+  3.10 Anexo X: Bibliografía                                                                     44
+
+
+
+
+                                                                                                  3
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 3 de 45
+1. Diseño Curricular
+
+ 1.1 Plan de Estudios
+
+     1.1.A Información general
+
+                                         Información General
+
+Nombre de la Carrera                Ingeniería en Agrimensura
+
+Tipo de presentación                Modificación de plan de         Nº y fecha de Resolución
+                                    estudios                        HCS que aprueba el PE
+                                                                    vigente:
+                                                                    676-HCS-2016, 20/06/2014
+
+                                                                    Nº y fecha de Resolución de
+                                                                    validación nacional que
+                                                                    aprueba el PE vigente:
+                                                                    RESOL-2016-2417-E-APN-
+                                                                    ME, 12/12/2016
+                                                                    RESOL-2021-2003-APN-
+                                                                    ME, 18/06/2021
+
+                                                                    N° y fecha de Resolución de
+                                                                    acreditación:
+                                                                    415/14, 30/06/2014
+
+Facultades que Participan           Facultad de Ciencias Exactas, Físicas y Naturales
+
+Localización de la                  Sede                            FCEFyN
+propuesta
+                                    CPRES                           Centro
+
+Modalidad de la carrera             Presencial
+
+Nivel de Formación                  Grado Art. 43 - Con bachiller
+
+                                    Resolución estándares de        RESOL-2021-1554-APN-ME
+                                    acreditación
+
+Título que otorga                   Ingeniero Agrimensor / Ingeniera Agrimensora
+
+Duración y carga horaria de         Total en años                   Cinco
+la carrera
+                                    Total en horas Reloj            3730
+
+                                    Total RTF                       300
+
+
+                                                                                                  4
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 4 de 45
+      1.1.B Alcances del título y actividades reservadas
+
+Alcances del título
+
+  Para el Título de Ingeniero/a Agrimensor/a, las habilidades sobre la base de actividades
+  profesionales cuyo ejercicio comprometen el interés público, según lo establecido por el
+  Art. 43 de la Ley de Educación Superior Nº 24.521 del 20/07/1995, fueron fijadas por la
+  Resolución Nº 1054/02 (Anexo V-1) y la Resolución 1781/12                    modificatoria de la
+  resolución 850/09 - del Ministerio de Educación, Ciencia y Tecnología de la Nación.
+  Del Anexo V-1 de la RM 1054/02 y de la RM 1781/12 se suprimieron aquellas tareas que
+  pasaron a ser actividades reservadas según la RM 1254/18.
+  Por otro lado, los últimos años la Academia Nacional de Agrimensura Asociación Civil, ha
+  elaborado nuevas habilidades relacionadas sobre todo con los avances tecnológicos, que
+  complementan las habilidades fijas por las resoluciones ministeriales.
+  Estas habilidades y tareas forman los alcances del título de Ingeniero/a Agrimensor/a y son
+  las siguientes:
+         Realizar el reconocimiento, determinación, medición y representación del espacio
+         territorial y sus características.
+         Realizar la determinación, demarcación, comprobación y extinción de los límites
+         territoriales y líneas de rivera.
+         Estudiar, proyectar, registrar, dirigir, ejecutar e inspeccionar: levantamientos
+         territoriales, inmobiliarios y/o parcelarios con fines catastrales y valuatorios masivos.
+         Estudiar, proyectar, registrar, dirigir, ejecutar e inspeccionar: divisiones,
+         subdivisiones en propiedad horizontal, prehorizontalidad, desmembramientos,
+         unificaciones, anexiones, concentraciones y recomposiciones inmobiliarias y
+         parcelarias.
+         Realizar e interpretar levantamientos planialtimétricos, topográficos, hidrográficos y
+         fotogramétricos, con representación geométrica, gráfica y analítica.
+         Realizar interpretaciones morfológicas, estereofotogramétricas y de imágenes
+         aéreas y satelitarias.
+         Estudiar, proyectar, dirigir y ejecutar sistemas geométricos planimétricos y
+         mediciones complementarias para estudio, proyecto y replanteo de obras.
+         Estudiar, proyectar, dirigir y aplicar sistemas trigonométricos y poligonométricos de
+         precisión con fines planialtimétricos.
+         Estudiar, proyectar, dirigir y aplicar sistemas geodésicos de medición y apoyo
+         planialtimétricos.
+         Realizar determinaciones geográficas de precisión destinadas a fijar la posición y la
+         orientación de los sistemas trigonométricos o poligonométricos de puntos aislados.
+         Realizar determinaciones gravimétricas con fines geodésicos.
+         Efectuar levantamientos geodésicos dinámicos, inerciales y satelitales.
+         Estudiar, proyectar, ejecutar y dirigir sistemas de control de posición horizontal y
+         vertical y sistemas de información territorial.
+         Elaborar e interpretar planos, mapas y cartas temáticas, topográficas y catastrales.
+         Determinar el lenguaje cartográfico, símbolos y toponimia.
+
+                                                                                                  5
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 5 de 45
+         Participar en la determinación de la renta potencial media, normar y realizar la
+         delimitación de las zonas territoriales.
+         Participar en la tipificación de unidades económicas zonales e interpretar su
+         aplicación.
+         Participar en la formulación, ejecución y evaluación de planes y programas de
+         ordenamiento territorial.
+         Participar en el proceso de elaboración del Ordenamiento Territorial y su incidencia
+         en el Estado Parcelario.
+         Realizar tasaciones y valuaciones de inmuebles.
+         Realizar arbitrajes, peritajes, tasaciones y valuaciones relacionadas con las
+         mensuras y mediciones topográficas y geodésicas, las representaciones
+         geométricas, gráficas y analíticas y el estado parcelario.
+         Estudiar y analizar los límites de Objetos Territoriales Legales de Derecho Público y
+         Privado a partir de las causas jurídicas originarias.
+         Determinar y medir puntos de referencia terrestres y sus variaciones temporales
+         (velocidades) a través de estaciones continuas o permanentes -complementadas con
+         estaciones pasivas- para el establecimiento de marco terrestre y desarrollar estudios
+         de geodesia geométrica, física y satelital.
+         Diseñar, desarrollar y administrar sistemas de información territorial (SIT).
+         Realizar y participar en el diseño, desarrollo y administración de sistemas de
+         información geográfica (SIG).
+         Planificar y ejecutar levantamientos fotogramétricos tradicionales y con vehículos
+         aéreos no tripulados y elaborar productos finales.
+         Relevar sobre la corteza terrestre con métodos indirectos (fotogrametría y
+         teledetección) y su procesamiento e interpretación para su representación
+         cartográfica y/o modelos planialtimétricos georreferenciados.
+         Aplicar fotogrametría y teledetección satelital o aerotransportada en la producción
+         cartográfica.
+         Controlar la calidad de datos geoespaciales.
+         Participar en el desarrollo de infraestructuras de conocimiento y datos geoespaciales.
+
+Actividades Reservadas
+
+  Las actividades Profesionales Reservadas al Título de Ingeniero/a Agrimensor/a fueron
+  fijadas por Resolución Nº 1254/18 (Anexo XIV) del Ministerio de Educación y son las
+  siguientes:
+
+      1. Determinar y verificar por mensura límites de objetos territoriales legales de derecho
+         público y privado, parcelas y estado parcelario, jurisdicciones políticas y
+         administrativas, bienes públicos, objetos de derechos reales y todo otro objeto legal
+         de expresión territorial con la respectiva georreferenciación y registración catastral.
+      2. Certificar el estado parcelario.
+      3. Diseñar y organizar los catastros territoriales.
+
+
+
+                                                                                                  6
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 6 de 45
+     1.1.C Antecedentes y fundamentación
+
+Antecedentes
+
+  La carrera de Agrimensura se cursa en la Facultad de Ciencias Exactas, Físicas y
+  Naturales de la Universidad Nacional de Córdoba, desde el mismo momento de la creación
+  de esta unidad académica. El entonces Rector de la Universidad Dr. Lucero elevó a
+  consideración del Superior Gobierno, el Reglamento y plan de estudios sancionado, con
+  nota del 4 de febrero de 1878, siendo aprobado por Decreto del 13 de marzo del mismo
+  año. Las asignaturas del plan de estudios, eran las siguientes:
+              Matemática aplicada a la Agrimensura.
+              Teoría de los instrumentos.
+              Ejercicios prácticos de Mensuras y Nivelaciones.
+              Agrimensura Legal.
+              Dibujo Topográfico.
+              Geología.
+              Mecánica y Óptica de la Física experimental.
+  Como se puede observar, se trataba de un programa reducido, pero al menos tenía la
+  virtud de estar orientado específicamente a las necesidades del Agrimensor de la época.
+   El plan de estudios fue modificado en 1879, 1886, 1892, 1900, 1906, 1918, 1922 y en
+  1944 a la carrera de Agrimensor con tres años de duración se le incorpora el Trabajo
+  Práctico Final, reglamentado el 13/11/1963 por resolución del HCD. Las modificaciones
+  posteriores del plan se efectuaron en los años 1948, 1953,1956, 1967, 1975, 1983, 1989,
+  2001 y 2005.
+  De todos ellos, el plan de estudios de 1956 en particular marca un hito en los estudios
+  académicos de la Agrimensura, toda vez que desde ese momento la extensión de la
+  carrera pasa a ser de 5 años. En el mismo sentido, además, se lo reconoce como el primer
+  plan con un currículo producto del estudio y diseño efectuado exclusivamente por
+  profesores Agrimensores de la Facultad de Ciencias Exactas, Físicas y Naturales. También
+  debe considerarse otro hito en la historia de esta unidad académica, la Resolución del
+  H.C.D. del 30/6/1965 que d
+  cada una de las carreras que se cursaban en ella, a fin de proponer el alcance de los títulos
+  otorgados por la mencionada Facultad.
+  Desde la concreción del Primer Congreso Nacional de Agrimensura efectuado en la ciudad
+  de Córdoba en el año 1958 y cuyas deliberaciones tuvieron lugar en la Facultad de
+  Ciencias Exactas, Físicas y Naturales de nuestra Universidad, siempre estuvo presente en
+  el temario de dichos eventos la preocupación de la comunidad de los profesionales
+  agrimensores, por trabajar en vista a mejorar y actualizar la calidad de los planes de
+  estudios de la carrera de Agrimensura.
+  Este interés legítimo de revisar y actualizar permanentemente los planes de estudios de
+  las carreras de Agrimensura de las universidades argentinas obedece a que los problemas
+  territoriales, son idénticamente postergados en todo el país.
+  A partir de la década del 70 se promovieron reuniones nacionales de consulta sobre planes
+  de estudios de Agrimensura, entre los representantes docentes de todas las Escuelas de
+  Agrimensura del país.
+                                                                                                   7
+ Av. Vélez Sársfield 1611 Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                 IF-2023-00691129-UNC-EA#FCEFYN
+                      https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 7 de 45
+ En 1982 el Consejo de Rectores designó una Comisión de Agrimensura y Geodesia
+ integrada por los rectores de las Universidades Nacionales de San Juan, Río Cuarto,
+ Noreste y Tecnológica Nacional. Esta comisión decidió proponer al Consejo de Rectores
+ la constitución de una comisión especial integrada por representantes de todas las
+ Escuelas de Agrimensura de las universidades del país, a fin de analizar los contenidos
+ curriculares vigentes a esa fecha y para que se elevara un proyecto de currículo que
+ satisficiera los contenidos mínimos para los estudios de la Agrimensura en todo el territorio
+ nacional.
+ El resultado del trabajo de dicha comisión especial se tradujo finalmente en la Resolución
+ Ministerial Nº 2069/83 de fecha 09/12/1983. Posteriormente derogada y reemplazada por
+ la Resolución Ministerial Nº432/87 de fecha 28/03/1987
+ Mediante Resolución Nº 32-HCD-1986, se designaron comisiones de planes de estudios
+ para todas las carreras que se cursan en la Facultad. Fruto del trabajo de la comisión del
+ plan de estudios de la carrera de Agrimensura es el Plan 89. El contenido de este plan fue
+ estructurado teniendo en cuenta el currículo y carga horaria que estipulaba en la
+ Resolución Ministerial Nº 2069.
+ Simultáneamente a la puesta en vigencia de los nuevos Planes de Estudios 88/89 para las
+ carreras de Ingeniería y Agrimensura, la Facultad implementó un nuevo Régimen de
+ Enseñanza mediante la Resolución Nº 239-HCD-1987, cuyas innovaciones esenciales
+ fueron:
+           Adopción del régimen semestral.
+           Incorporación de flexibilidad curricular.
+           Asignación de peso relativo a las asignaturas.
+           Estipulación de una carga horaria máxima de 45 horas semanales de estudio para
+           el alumno (22.5 hs. presenciales más 22.5 hs. de preparación y estudio).
+           Cambio de metodología en el proceso de enseñanza.
+ Con la Resolución Ministerial 1054/02 que incorpora a la Agrimensura en la nómina del Art.
+ 43 de la Ley de Enseñanza Superior, fijando los contenidos curriculares básicos, carga
+ horaria mínima, criterios de intensidad de la formación práctica, estándares para la
+ acreditación de la carrera y actividades profesionales reservadas, la carrera de
+
+ El plan de estudios 2005 se efectúa en el marco de dicha resolución y en virtud de las
+ Resoluciones Nº 298-HCD-2004 que establece el régimen de materias comunes, es decir
+ misma denominación, contenido curricular y carga horaria.
+ El 05/08/ 2005 el Consejo Directivo aprueba el nuevo plan de estudios (2005), donde se
+ incorpora la Práctica Profesional Supervisada con una carga horaria de 200 horas. Además
+ el alumno debe aprobar un Trabajo Final, con carga horaria de 300 horas, que tiene por
+ objeto dar una capacitación suplementaria en el área de las Tecnologías Aplicadas, para
+ completar la formación profesional, 200 horas de Práctica Profesional Supervisada (PPS),
+ de acuerdo a los requerimientos de la Resolución 1054/02 y un módulo de idioma Inglés
+ mediante el cual los alumnos adquieran habilidades para la lectura e interpretación de
+ textos en dicho idioma.
+ El plan de estudios 2005, obtiene mediante Resolución Ministerial Nº 2115/07 del
+ 07/12/2007, su reconocimiento y validez nacional. El mismo es evaluado y acreditado por
+
+
+                                                                                                 8
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 8 de 45
+  la Comisión Nacional de Evaluación y Acreditación Universitaria mediante las resoluciones
+  Nº 204/06 y Nº 934/10.
+  La Resolución Ministerial N.º 850/09y su modificatoria la Resolución Ministerial Nº 1781/12
+  son complementarias de la resolución 1054/02 en lo que se refiere a la incorporación de
+  otras actividades profesionales reservadas al Título de Ingeniero Agrimensor.
+  En el 2015 el plan 2005 sufre algunas modificaciones, manteniéndose la estructura y
+  características básicas del plan 2005, para adecuarse a las exigencias establecidas por la
+  Comisión Nacional de Evaluación y Acreditación Universitaria (CONEAU). Dicha
+  adecuación es aprobada por el Consejo Directivo de la Facultad, el Consejo Superior de la
+  Universidad, y elevada a la Comisión la cual mediante resolución CONEAU Nº 415/14
+  acredita el plan de estudio 2005 y su adecuación 2015.
+  Mediante Resolución Ministerial Nº 2417/16, modificada en su anexo II por la Resolución
+  Ministerial Nº 2003/2021, se obtiene su reconocimiento y validez nacional.
+  En el año 2016 se discutió en el Consejo Asesor de Planificación Académica (CAPA) las
+  diferentes alternativas de cambio de planes de estudio en las carreras de la facultad.
+  También en este año el Consejo Interuniversitario Nacional (CIN) en la reunión plenaria Nº
+  158 del 21 de diciembre de 2017, prestó conformidad a la revisión de las actividades
+  reservadas establecidas en la Resolución Ministerial Nº 1054/02, a través de la Resolución
+  CIN CE Nº 1131/16.
+  El tratamiento de los nuevos planes de estudios, con las modificaciones que fueran
+  realizadas en el 2016, se retomó en el 2017 y continuó en el seno de las Escuelas y del
+  CAPA.
+  En el año 2018 el Ministerio de Educación aprueba mediante Resolución Ministerial
+  1254/18 las nuevas actividades reservadas, elaboradas por el CIN según resolución CE
+  1131/16 que reemplazan a las actividades reservadas de la Resolución Ministerial 1054/02.
+
+Fundamentación
+
+  La presente modificación del plan de estudios de la carrera Ingeniería en Agrimensura
+  surge como necesidad frente a las recomendaciones del CONFEDI (Consejo Federal de
+  Decanos de Ingeniería), en cuanto a la implementación de planes de estudios tomando
+  como cimientos el enfoque por competencias y la enseñanza centrada en el aprendizaje
+  del estudiante.
+  Por sí solo, el punto mencionado anteriormente implica un cambio de enfoque en cuanto a
+  la metodología de enseñanza la cual es necesaria plasmar en el nuevo plan de estudios,
+  no obstante, existen otros hechos para los que una revisión completa del plan de estudios
+  es la forma más adecuada de abordar.
+  Entre estos puede mencionarse la modificación de las actividades reservadas al título,
+  realizada por el CIN (Consejo Interuniversitario Nacional), a través de la resolución CE
+  Nº1131/16, aprobadas por resolución ministerial Nº 1254/18, la creación del Sistema
+  Nacional de Reconocimiento Académico (SNRA) de Educación Superior por Resolución
+  Ministerial Nº 1870/16,                                                                de
+
+  Resolución Ministerial Nº 1554/21 de modificación y aprobación los Contenidos
+  Curriculares Básicos, Carga Horaria Mínima, Criterios de Intensidad de la Formación
+
+                                                                                                  9
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 9 de 45
+     Práctica y Estándares para la Acreditación de las carreras de INGENIERÍA EN
+     AGRIMENSURA.
+     Por otra parte, se pretende establecer un ciclo básico común con las demás carreras de
+     ingeniería implementadas por la facultad favoreciendo la movilidad de estudiantes entre
+     carreras.
+     Se considera la modificación del plan de estudios una oportunidad para articular de una
+     manera más eficiente los planes de estudio de carreras afines, como así también con otras
+     de grado y pregrado que pudieran proponerse. Conjuntamente con este plan se plantea la
+     creación de títulos de pregrado articulados para lo cual se requiere implementar
+     modificaciones en la estructura curricular actual.
+     La implementación de un plan basado en competencias implica un cambio de enfoque en
+     la metodología de la enseñanza, por lo que una correcta ejecución requiere un plan
+     concebido en tal sentido.
+     Existe en todos los claustros, una generalizada conformidad con el actual plan de estudios,
+     los resultados obtenidos y la adecuación de los egresados a las necesidades de la
+     sociedad, no siendo éstas causas del cambio propuesto, no obstante, se considera
+     oportuno, revisar la pertinencia de los mimos.
+     Otro de los motivos por los cuales es necesario realizar el cambio del plan de estudios es
+     la necesidad de reformular ciertos aspectos como el tiempo promedio de egreso, que sigue
+     siendo superior al estipulado para la carrera.
+     Concluyendo, el presente plan de estudios, si bien se encuentra basado en una estructura
+     curricular similar a la del plan a discontinuar, la misma ha sido revisada y corregida,
+     evitando el riesgo de caer en una visión simplista que termine en el mejor de los casos, en
+     una tabla que relacione contenidos con competencias y una suma de nuevas actividades
+     a las tradicionalmente realizadas, sin lograr el fin buscado.
+
+         1.1.D Objetivos de la carrera y perfil de egreso
+
+Objetivos de la carrera
+
+                                                                                         profesional, ética,
+                                              1
+                                                  .
+
+     Los objetivos esenciales de la carrera son:
+          Formar profesionales capaces de participar en la organización física y social del
+          medio, aplicando sus conocimientos en beneficio del bien común, en
+          correspondencia con la misión de la Universidad a la que pertenecen.
+          Formar profesionales capaces de desarrollar capacidades creativas, criterios,
+          formación técnica y valores inherentes a la seguridad jurídica de la constitución de la
+          parcela y de los actos territoriales, para resolver la aplicación territorial del derecho,
+          mediante el acto u operación de mensura con su autoridad científico-técnica a fin de
+          que los límites territoriales resulten bien establecidos y la paz social quede
+
+1
+ Plan de Desarrollo 2013-2018. Carrera de Ingeniería en Agrimensura-. Facultad de Ciencias Exactas, Físicas y
+Naturales. Universidad Nacional de Córdoba
+
+                                                                                                          10
+    Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                             IF-2023-00691129-UNC-EA#FCEFYN
+                               https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                       página 10 de 45
+         garantizada, y participar, en la organización del catastro orientado esencialmente a
+         la Publicidad Inmobiliaria, mediante la registración de las mensuras y todo otro acto
+         de levantamiento territorial que describa las cosas y los bienes que son objeto de los
+         derechos territoriales.
+
+Propósitos del Plan de Estudios
+
+         Adecuar la carrera a las nueva Resolución 1554/2021 del Ministerio de Educación y
+         a las recomendaciones del CONFEDI
+         Migrar a un enfoque de enseñanza centrada en el aprendizaje del estudiante y a un
+         enfoque por competencias.
+         Readecuar los contenidos a fin de evitar redundancias, coordinar las actividades
+         entre asignaturas. Revisar pertinencia de los temas respecto del estado del arte y
+         alcances del título.
+         Implementar modificaciones que permitan disminuir el tiempo real de cursado.
+         Articular la carrera con las demás ingenierías permitiendo movilidad entre carreras
+         de ingeniería como con otras titulaciones.
+         Aumentar la matriculación en la carrera Ingeniería en Agrimensura y disminuir la
+         deserción y desgranamiento de los estudiantes.
+         Abastecer al medio de profesionales con una sólida formación y desarrollo de las
+         competencias de egreso.
+
+
+
+Perfil de egreso
+
+  Los documentos emitidos por el CONFEDI                                                  y
+  Libro Rojo del CONFEDI (2018) en los cuales se establecen, como sus títulos lo dicen, las
+  competencias genéricas del ingeniero/a y específicas del ingeniero/a agrimensor/a. Dichas
+  competencias forman parte del perfil del egresado y se adjuntan al presente plan de
+  estudios. Se describe a continuación el perfil del graduado/a deseado por esta unidad
+  académica.
+
+Características generales del/la graduado/a
+
+         Reconoce la realidad social, política, económica y tecnológica del país, de la región.
+         Toma conciencia del impacto social y ambiental de cualquier proyecto de ingeniería
+         de su especialidad.
+         Reconoce los valores fundamentales de la vida en sociedad, conduciendo sus
+         acciones hacia el bienestar general empeñando su trabajo hacia la construcción de
+         una sociedad más justa.
+         Dispone de capacidad e inclinación por el trabajo intelectual sostenido, conducirse
+         con genuina capacidad de razonamiento, espíritu crítico y actitud creativa.
+
+
+
+
+                                                                                                 11
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 11 de 45
+        Estudia, analiza, comprende y resuelve problemas, esto es, dispone de capacidad
+        de análisis para comprender el problema y capacidad de síntesis para aplicar sus
+        conocimientos generales y específicos para resolverlos.
+        Integra grupos de trabajo un o multidisciplinarios, disponiendo de amplitud de criterio,
+        disposición para la discusión de hipótesis y una correcta utilización de la
+        comunicación oral y escrita.
+        Reconoce la necesidad de su actualización permanente, disponer de capacidad de
+        aprender en forma autónoma y enseñar sus conocimientos a personas de igual o
+        menor nivel de formación técnica.
+        Emite juicios éticos frente a las distintas posturas que fundamentan el hacer
+        profesional.
+        Transfiere los resultados de las investigaciones realizadas a situaciones concretas
+        según el área de trabajo.
+        Dirige y/o participa en investigaciones.
+
+Características particulares del/de la graduado/a
+
+  El Ingeniero/a Agrimensor/a se desenvuelve en su vida profesional desarrollando las
+  siguientes capacidades adquiridas en su formación:
+         Resuelve la aplicación territorial del derecho, mediante el acto u operación de
+         mensura con su autoridad científico-técnica a fin de que los límites territoriales
+         resulten bien establecidos y la paz social quede garantizada.
+         Organiza el catastro territorial orientado esencialmente a la publicidad inmobiliaria,
+         mediante la registración de las mensuras y todo otro acto de levantamiento territorial
+         que describa las cosas y los bienes que son objeto de los derechos territoriales de
+         acuerdo a las leyes y normativas vigentes.
+         Diseña, organiza y administra los Sistemas de Información Geográfica y los Sistemas
+         de Información Territorial, bajo principios de desarrollo sustentable, con una visión
+         social del territorio, y respetando el medio ambiente.
+         Determina el relieve topográfico, sus relaciones geométricas con el plano de
+         representación y la medida de todo aquello que defina las dimensiones, posición,
+         forma y perímetro de cualquier parte de la superficie terrestre y de los elementos y
+         construcciones a ella referidos.
+         Elabora y difunde la Cartografía, la que por su metodología gráfica es por excelencia
+         el sistema universalmente más accesible a la interpretación del espacio geográfico.
+         Intervenir en la formulación, ejecución y evaluación de planes y programas de
+         ordenamiento territorial.
+         Desempeña su tarea profesional tanto en forma independiente como en equipo o en
+         relación de dependencia.
+         Participa a través de las múltiples posibilidades de actuación del Ingeniero/a
+         Agrimensor/a en la consecución de Objetivos de Desarrollo Sustentable. (ODS)
+         Desarrolla tareas de investigación y resolver los problemas relacionados con su
+         profesión.
+         Revaloriza la educación continua, como medio para su permanente actualización.
+         Valora adecuadamente la realidad regional.
+                                                                                                 12
+ Av. Vélez Sársfield 1611 Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                 IF-2023-00691129-UNC-EA#FCEFYN
+                      https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 12 de 45
+         Despliega un comportamiento ético acorde a su condición de egresado universitario.
+
+
+
+
+Competencias
+
+  Las competencias de egreso a desarrollar se dividen en:
+       Competencias Genéricas del Ingeniero/a.
+            Competencias Tecnológicas.
+            Competencias políticas, sociales y actitudinales.
+       Competencias Específicas del Ingeniero/a Agrimensor/a.
+
+  Las Competencias Genéricas se encuentran definidas en el Anexo I de este documento y
+  cubren los ejes transversales establecidos en el estándar de acreditación.
+  Cada asignatura será responsable de colaborar con el desarrollo de determinadas
+  competencias genéricas, según se detallan en la matriz del Anexo II.
+  En el programa desarrollado de la materia, la cátedra deberá incorporar un desagregado
+  de estas competencias. Para este fin, se adopta el desagregado propuesto en el
+  documento Acuerdo de Competencias Genéricas, elaborado por el CONFEDI, pudiendo
+  cada cátedra optar por otras. La Escuela recomienda la adopción de esta propuesta.
+  Las Competencias Específicas del Ingeniero/a Agrimensor/a, basadas en las actividades
+  reservadas, cubren los enunciados establecidos en el bloque de Tecnologías Aplicadas del
+  estándar de acreditación y se detallan en el Anexo III.
+  Debido a que es necesario un mayor nivel de desagregación para poder definir cómo
+  colaborarán las asignaturas a su desarrollo, la Escuela ha elaborado un desagregado de
+  estas competencias y se muestran en el Anexo IV.
+  Las asignaturas que colaboran con el desarrollo de cada competencia específica se
+  encuentran definidas en las matrices de tributación del Anexo V: Matriz de tributación de
+  competencias específicas.
+
+Objetivos de Desarrollo Sostenible (ODS)
+
+  El perfil de egreso está alineado con la Agenda 2030, la cual ha definido 17 objetivos del
+  desarrollo sostenible con 169 metas, que fueron aprobadas por 193 estados miembros de
+  las Naciones Unidas y la Universidad Nacional de Córdoba, ha tomado la decisión
+  institucional de contribuir a la divulgación de los ODS y a la elaboración de instrumentos
+  para el seguimiento, verificación, información y comunicación de la integración estratégica
+  de los mismos.
+  El presente plan de estudios colabora de forma directa con el objetivo 4, y a través de las
+  competencias de egreso propuestas, los/las futuros graduados/as colaborarán con los
+  objetivos 6, 7, 8, 11 y 12.
+
+
+
+
+                                                                                                 13
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 13 de 45
+              1.1.E Organización del plan de estudios.
+
+      Estructura curricular del plan de estudios
+
+                                             Estructura del Plan de Estudio
+Facultad: Ciencias Exactas, Físicas y Naturales
+Carrera: Ingeniería en Agrimensura
+Modalidad: Presencial
+                                                                                   Carga
+                                                            Régimen     Carga
+ Nº     Año      Semestre          Espacio Curricular                              horaria   Modalidad     RTF
+                                                           de cursado   horaria
+                                                                                  semanal
+                                                                                             Presencial/
+ 1     CINEU       CINEU      Matemática                                  48        24                      3
+                                                                                             a distancia
+                                                                                             Presencial/
+ 2     CINEU       CINEU      Física y Química                            48        24                      3
+                                                                                             a distancia
+                                                                                             Presencial/
+ 3     CINEU       CINEU      Ambientación Universitaria                  22        5,5                     1
+                                                                                             a distancia
+ 4       1º          1º       Introducción a la Ingeniería Semestral      48         3       Presencial     3
+
+ 5       1º          1º       Análisis Matemático 1        Semestral      96         6       Presencial     7
+
+ 6       1º          1º       Economía                     Semestral      72        4,5      Presencial     5
+                              Agrimensura y Geometría
+ 7       1º          1º                                    Semestral     120        7,5      Presencial     10
+                              Territorial
+ 8       1º          2º       Algebra Lineal               Semestral      96         6       Presencial     7
+
+ 9       1º          2º       Física 1                     Semestral      96         6       Presencial     7
+                              Sistemas de
+10       1º          2º                                    Semestral      96         6       Presencial     7
+                              Representación
+                              Elementos de la
+11       1º          2º                                    Semestral      64         4       Presencial     4,5
+                              Construcción
+12       2º          3º       Análisis Matemático 2        Semestral      96         6       Presencial     7
+
+13       2º          3º       Probabilidad y Estadística   Semestral      72        4,5      Presencial     5
+                              Topografía 1 y Teoría de
+14       2º          3º                                    Semestral     120        7,5      Presencial     12
+                              Errores
+                              Información Rural y
+15       2º          3º                                    Semestral      64         4       Presencial     4,5
+                              Agrológica
+16       2º          4º       Física 2                     Semestral      96         6       Presencial     7
+                              Computación y Cálculo
+17       2º          4º                                    Semestral      96         6       Presencial     7
+                              Numérico
+18       2º          4º       Topografía 2 e Hidrografía   Semestral     120        7,5      Presencial     14
+
+19       2º          4º       Geografía Física             Semestral      64         4       Presencial     4,5
+
+20       3º          5º       Agrimensura Legal 1          Semestral      96         6       Presencial     8
+                              Diseño Cartográfico y
+21       3º          5º                                    Semestral     120        7,5      Presencial     12
+                              Cartografía
+                              Fotointerpretación y
+22       3º          5º                                    Semestral      96         6       Presencial     10
+                              Teledetección
+
+
+                                                                                                           14
+       Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                                IF-2023-00691129-UNC-EA#FCEFYN
+                                  https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                          página 14 de 45
+ 23      3º          5º       Módulo de Inglés            Semestral         48            3     Presencial    3
+
+ 24      3º          6º       Agrimensura Legal 2         Semestral         96            6     Presencial    8
+
+ 25      3º          6º       Geodesia                    Semestral         120           9     Presencial    14
+
+ 26      3º          6º       Fotogrametría               Semestral         96            6     Presencial    10
+                              Organización Industrial y
+ 27      3º          6º                                   Semestral         64            4     Presencial    4,5
+                              Seguridad Laboral
+ 28      4º          7º       Agrimensura Legal 3         Semestral         72          4,5     Presencial    7,5
+
+ 29      4º          7º       Catastro                    Semestral         120         7,5     Presencial    14
+                              Sistemas de Información
+ 30      4º          7º                                   Semestral         120           7,5   Presencial    12
+                              Geográfica
+ 31      4º          7º       Valuaciones 1               Semestral         72          4,5     Presencial    7,5
+                              Georreferenciación y
+ 32      4º          8º                                   Semestral         72          4,5     Presencial    7,5
+                              Límites Territoriales
+ 33      4º          8º       Mensura                     Semestral         120         7,5     Presencial    14
+
+ 34      4º          8º       Valuaciones 2               Semestral         72          7,5     Presencial    7,5
+                              Gestión de Proyectos e
+ 35      4º          8º                                   Semestral         72          4,5     Presencial    5
+                              Impacto Ambiental
+ 36      5º          9º       Ordenamiento Territorial    Semestral         120         7,5     Presencial    12
+                              Estudio y Trazados
+ 37      5º          9º                                   Semestral         120         8,5     Presencial    8
+                              Especiales
+                              Práctica Profesional
+ 38      5º          9º                                   Semestral         200        12,5     Presencial    7
+                              Supervisada
+ 39      5º         10º       Trabajo Final               Semestral         300         20      Presencial    10
+
+
+
+Cuadro resumen horas / RTF
+
+Carga horaria total de la carrera                                       3730 horas reloj
+Total RTF carrera                                                       300 RTF
+Carga horaria excluyendo PPS y Trabajo Final                            3230 horas reloj
+Carga horaria presencial                                                3612 horas reloj
+Carga horaria a distancia (asincrónicas)*                               118 horas reloj
+
+
+        NOTA*: Para el cálculo del total de horas a distancia, las asignaturas que se proponen en ambas
+        modalidades, son computadas como a distancia.
+
+
+
+
+                                                                                                             15
+       Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                                IF-2023-00691129-UNC-EA#FCEFYN
+                                  https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                            página 15 de 45
+El cálculo de RTF por asignatura se realiza empleando la siguiente fórmula de estimación:
+
+      Carga horaria total (CHT) = CHP + K CHP
+      Donde:
+             K=1,25 para el bloque curricular de Ciencias Básicas de la Ingeniería.
+             K=1,5 para Tecnologías Básicas.
+             K=2 para Tecnologías Aplicadas.
+             K=1 para Ciencias y Tecnologías Complementarias.
+             Se aplica redondeo a 0,5
+             Para el cálculo de RTF se emplea: RTF = CHT / 30.
+
+Descripción de la estructura curricular
+  La carrera está organizada en asignaturas. Tres de corta duración correspondientes al
+  Ciclo de Iniciación a los Estudios Universitarios y el resto semestrales en su totalidad,
+  agrupadas en diez semestres.
+  Las asignaturas están divididas en cuatro grandes áreas o bloques: Ciencias Básicas de
+  la Ingeniería, Tecnologías Básicas, Tecnologías Aplicadas y Ciencias y Tecnologías
+  Complementarias.
+  El área de Ciencias Básicas de la Ingeniería está formada por aquellas materias comunes
+  a todas las carreras de Ingeniería de la Facultad de Ciencias Exactas, Físicas y Naturales
+  de la Universidad Nacional de Córdoba. La misma incluye al Ciclo de Introducción a los
+  Estudios Universitarios.
+  Las dos áreas tecnológicas incluyen todos los aspectos relacionados con la Agrimensura
+  Legal, la Geometría Territorial, la Informática Territorial, el Ordenamiento Territorial y sus
+  relaciones con las Ciencias de la Tierra.
+  La última área incluye entre otras, aquellas materias orientadas al manejo de la economía,
+  la información rural y agrológica; la geografía física, el impacto ambiental como así también
+  las relacionadas con los estudios y trazados especiales inherentes al rol del Ingeniero
+  Agrimensor en la obra civil territorial y con las mediciones en el campo de la industria, las
+  que requieren un perfecto dominio de las tolerancias métricas.
+  Las asignaturas específicas del plan de estudios de Ingeniería en Agrimensura, se dividen
+  en dos grandes áreas: la Aplicación Territorial del Derecho y la Geometría Territorial.
+  Esto tiene por finalidad formar un profesional con un perfil totalmente definido y
+  caracterizado por sus conocimientos en áreas propias y específicas que le permiten dar un
+  servicio a la sociedad que pretendemos sea adecuado, eficiente y útil, es decir que cumpla
+  con los valores éticos que sustentan esta profesión universitaria. El perfil profesional del
+  Ingeniero Agrimensor dirigido a contribuir con el orden territorial necesita poseer un
+  sustento en diversas ciencias, que agrupadas, combinadas o individualmente, total o
+  parcialmente enfocadas, se materializan en una lista ordenada pedagógicamente de
+  asignaturas que, a partir de sus contenidos y objetivos, concatenan los conocimientos y
+  cumplen con la base teleológica de la carrera.
+  En el área de la Geometría Territorial, se dictan materias de las áreas tecnologías básicas
+  y aplicadas del plan de estudios de Ingeniería en Agrimensura. Estas asignaturas abarcan
+  cuestiones empíricas que demandan -en forma relevante- la aplicación de técnicas de
+  medición.
+
+                                                                                                 16
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 16 de 45
+ Las asignaturas del área de la Aplicación Territorial del Derecho, tienen por objetivo
+ consolidar la formación jurídica-agrimensural del futuro profesional, y suministrarle
+ conocimientos teóricos y prácticos específicos sobre temas que son propios del ejercicio
+ profesión.
+ La Práctica Profesional Supervisada, (PPS) es una actividad curricular obligatoria en la que
+ el alumno realiza actividades contempladas en las actividades reservadas del título y
+ relacionadas con el medio real de desempeño de la profesión.
+ La misma está reglamentada por la resolución 478-HCS-2010. La Resolución 389 -HCD-
+ 2004 en su Anexo I establece el Régimen General para la realización de la Práctica
+ Profesional Supervisada para los alumnos de la Facultad de Ciencias Exactas, Físicas y
+ Naturales de la Universidad Nacional de Córdoba.
+ Dicha resolución establece que las PPS tendrán una duración no menor a doscientas (200)
+ horas.
+ Los estudiantes que realicen la práctica profesional supervisada, según lo indica la
+ reglamentación, deben hacerlo en el marco de proyectos concretos desarrollados por la
+ institución (UNC), en acuerdos con entidades profesionales, organismos de gobierno
+ municipal, provincial o nacional o bien con empresas pertenecientes a sectores productivos
+ y/o de servicios o en cooperación con ellos, conforme la Resolución Ministerial Nº 1254/18.
+ Apoyados en la reglamentación de la práctica profesional supervisada de la Facultad de
+ Ciencias Exactas Físicas y Naturales de la UNC, se vincula desde la Secretaría de
+ Extensión a profesionales del medio, a organismos de gobierno municipal, provincial o
+ nacional, para que acepten estudiantes, con el fin de concretar la práctica profesional
+ supervisada de los mismos, en tareas relacionadas en forma directa con las actividades
+ reservadas. Estas tareas son acordadas entre la cátedra y los profesionales.
+ Finalmente, se conserva en la estructura curricular el trabajo final de carrera. El objeto de
+ este requisito establecido desde hace 70 años en la carrera de Agrimensura de esta
+ Facultad- es propender a una formación complementaria integradora de los conocimientos
+ involucrados tanto en las áreas básicas como en las de aplicación, mediante la resolución
+ de problemas concretos de la problemática territorial que plantean el desarrollo político,
+ económico y social del país.
+ La caracterización del mismo, es idéntica al de las Tecnologías Aplicadas ya que su
+ ejecución tiende a reforzar inequívocamente el perfil profesional del egresado.
+ El Trabajo Final de Carrera para obtener el título de Ingeniero/a Agrimensor/a, como parte
+ del Plan de Estudio, es una tarea que desarrollan los/las estudiantes que acceden al último
+ semestre (10mo semestre), con la caracterización de asignatura especializada y carga
+ horaria de trescientas (300) horas.
+ Los estudiantes podrán, además, cursar y aprobar asignaturas optativas no obligatorias
+ válidas para todas las carreras de Ingeniería de la Facultad de Ciencias Exactas, Físicas
+ y Naturales de la Universidad Nacional de Córdoba.
+        Emprendedorismo Tecnológico Resolución 689-HCD-2019.
+        Módulo de Portugués Resolución 44-HCD-2021
+        Módulos de Francés, Alemán e Italiano Resolución 44-HCD-2021
+ La modalidad de cursado de las asignaturas es presencial excepto las que poseen ambas
+ modalidades. No obstante, cada espacio curricular puede definir actividades de carácter
+ virtual de manera parcial.
+
+                                                                                                17
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 17 de 45
+     1.1.F Contenidos Mínimos
+                           Contenidos mínimos de los espacios curriculares
+
+    Espacio Curricular                                     Contenidos mínimos
+
+Matemática                         Números Reales y Complejos.
+                                   Polinomios. Relaciones y funciones.
+                                   Ecuaciones de primer y segundo grado.
+                                   Trigonometría.
+
+Física y Química                   Introducción a la Física.
+                                   El Movimiento.
+                                   Dinámica.
+                                   Introducción a la Química.
+                                   Nomenclatura química. Estequiometria.
+
+Ambientación Universitaria         Técnicas de estudio para un aprendizaje comprensivo en la Universidad.
+                                   Las Ciencias, la Tecnología y el conocimiento científico y tecnológico.
+                                   La Universidad Nacional de Córdoba y la Facultad de Ciencias Exactas
+                                   Físicas y Naturales.
+
+Introducción a la Ingeniería       Definiciones de la ingeniería, ámbito y competencias necesarias
+                                   para el ejercicio profesional.
+                                   Historia y prospectiva tecnológica.
+                                   Contextualización.
+                                   Relaciones entre: ingeniería, ciencia, tecnología, sociedad y medio
+                                   ambiente.
+                                   Proyectos y problemas tecnológicos. Innovación, emprendedorismo,
+                                   liderazgo y trabajo en equipo.
+                                   Ética y responsabilidad profesional.
+                                   Carreras de Ingeniería.
+
+Análisis Matemático 1              Funciones Reales de variable real.
+                                   Límite, continuidad y derivadas.
+                                   Variación de funciones. Integral definida.
+                                   Funciones Primitivas-
+                                   Métodos de Integración. Aplicaciones.
+
+Economía                           Objeto y método de la economía y conceptos desde la perspectiva
+                                   ambiental.
+                                   Microeconomía.
+                                   Macroeconomía.
+                                   Ingeniería Económica.
+                                   Elementos de administración de Producción.
+                                   Elementos de Financiación.
+
+Agrimensura y Geometría            Historia de la Agrimensura.
+Territorial                        La Agrimensura y el Territorio.
+                                   Nociones básicas sobre geometría, trigonometría, cosmografía.
+                                   Sistemas de mediciones, mediciones lineales, angulares. Métodos
+                                   sencillos de Medición.
+                                   El Agrimensura y el Derecho.
+                                   Conceptos básicos de derecho. El orden jurídico.
+
+Algebra Lineal                     Sistema de Ecuaciones Lineales.
+
+                                                                                                             18
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                        página 18 de 45
+                                   Matrices.
+                                   Vectores.
+                                   Espacios Vectoriales.
+                                   Aplicaciones Lineales.
+
+Física 1                           Estática.
+                                   Cinemática.
+                                   Dinámica.
+                                   Movimientos Oscilatorios.
+                                   Trabajo y Energía. Gravitación.
+                                   Elasticidad.
+                                   Hidrostática e Hidrodinámica.
+                                   Calor, Termometría y Dilatación.
+                                   Ondas Sonoras Acústica.
+
+Sistemas de Representación         Aspectos Formales.
+                                   Aplicaciones de Geometría básica Primitivas.
+                                   Sistemas de Proyección.
+                                   Edición Capas. Representación de Sólidos Vistas.
+                                   Croquización - Bibliotecas.
+                                   Principios de Acotación.
+                                   Cortes, Secciones y Sombreado.
+                                   El Plano. Introducción al dibujo en 3D Simulación.
+
+Elementos de la Construcción       Tipología de obras y materiales de construcción.
+                                   Construcciones en función de normas de código y uso general.
+                                   Economía de la construcción.
+                                   Costo y depreciación.
+                                   Presupuestos.
+                                   Instalaciones complementarias y de servicios.
+                                   Instalaciones de plantas industriales y rurales.
+
+Análisis Matemático 2              Cónicas. Funciones de             .
+                                   Límites. Continuidad.
+                                   Derivadas Parciales y Direccionales. Función diferencial.
+                                   Funciones de          . Extremos Libres y Ligados. Integral Múltiple.
+                                   Funciones de          . Curvas. Integrales de línea.
+                                   Funciones de            . Superficies. Integrales de Superficie.
+                                   Teoría de Campos vectoriales.
+                                   Ecuaciones. Diferenciales Ordinarias.
+
+Probabilidad y Estadística         Muestreo y tratamiento de datos.
+                                   Cálculo de Probabilidades.
+                                   Toma de decisiones con fundamento estadístico.
+                                   Regresión y correlación.
+                                   Aplicaciones a la ingeniería.
+
+Topografía 1 y Teoría de           Teoría de los Instrumentos- Teoría de Errores de las Mediciones.
+Errores                            Medición de ángulos.
+                                   Medición electrónica de distancias - Estaciones Totales.
+                                   Poligonometría Geométrica como sistema de apoyo.
+                                   Determinación del desnivel con Estación Total Taquimetría electrónica.
+                                   Nociones Generales sobre Sistemas de Referencia, planos y elipsoidales.
+
+Información Rural y Agrológica     Introducción a la Información agrologica y rural.
+                                   El sector agropecuario Generalidades.
+                                   Producción agropecuaria.
+                                   Los recursos naturales.
+                                   El proceso de Producción Agropecuaria.
+                                   Peritaje y valuaciones rurales Generalidades.
+
+                                                                                                           19
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                        página 19 de 45
+Física 2                           Electrostática.
+                                   Magnetostática.
+                                   Propiedades eléctricas y magnéticas de la materia
+                                   Potencial y Corriente Eléctrica.
+                                   Circuitos Eléctricos. Corriente Alterna.
+                                   Campos y Ondas Electromagnéticas.
+                                   Óptica.
+
+Computación y Cálculo              Introducción a la Computación Científica.
+Numérico                           Fundamentos de la Programación. Estructurada.
+                                   Entrada y salida de información.
+                                   Introducción al Cálculo Numérico.
+                                   Resolución numérica de ecuaciones y sistemas de ecuaciones.
+                                   Interpolación y aproximación de funciones.
+                                   Diferenciación e integración numérica.
+                                   Resolución numérica de ecuaciones diferenciales.
+                                   Aplicaciones de las ecuaciones diferenciales y modelado.
+
+Topografía 2 e Hidrografía         Levantamientos y sistemas de apoyos planialtimétricos.
+                                   Levantamientos topográficos superficiales.
+                                   Relevamiento y replanteo como operaciones recíprocas.
+                                   Procesamiento de las observaciones.
+                                   Perfilometría.
+                                   Representación de los levantamientos. Modelo Digital del Terreno.
+                                   Levantamientos Hidrográficos.
+                                   Línea de ribera.
+                                   Nociones de posicionamiento satelital.
+
+Geografía Física                   Introducción a la Geografía Física. Principios básicos.
+                                   Origen y constitución de la Tierra Tipos de rocas.
+                                   Movimientos orogénicos y epirogénicos.
+                                   Erosión Clima.
+                                   Erosión glacial.
+                                   Costas.
+                                   Formación y composición de los suelos Clasificación.
+
+Agrimensura Legal 1                Conducta y relación jurídica.
+                                   Derecho de familia y hereditario.
+                                   Obligaciones.
+                                   Posesión.
+                                   Derechos reales.
+                                   Usucapión.
+
+Diseño Cartográfico y              Introducción al Diseño Cartográfico.
+Cartografía                        Variables Visuales. Signos y Símbolos convencionales.
+                                   Representación Topográfica del Relieve. Mapas Topográficos.
+                                   Introducción a la Cartografía.
+                                   Cartografía Matemática.
+                                   Planes Cartográficos.
+                                   Cartografía Temática.
+                                   Sistemas Cartográficos Digitales.
+
+Fotointerpretación y               Introducción y Principios de la Teledetección.
+Teledetección                      Diferencias entre Fotos Aéreas e Imágenes Satelitales.
+                                   Los sensores remotos y sus plataformas de aplicación.
+                                   Fotografía Aeroespacial.
+                                   Introducción al Procesamiento Digital de Imágenes: restauración y
+                                   rectificación.
+
+
+                                                                                                       20
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                       página 20 de 45
+                                    Procesamiento Digital y procedimientos para el relevamiento de la
+                                    información en una Imagen.
+                                    Interpretación Visual de Imágenes.
+                                    Clasificaciones temáticas.
+                                    Aplicaciones de la Fotointerpretación y Teledetección en Proyectos de
+                                    Agrimensura.
+
+Módulo de Inglés                    Morfología.
+                                    La frase sustantiva.
+                                    La frase verbal.
+                                    Coherencia textual.
+                                    Funciones básicas del discurso científico-técnico.
+
+Agrimensura Legal 2                 Servidumbres de derecho privado.
+                                    Propiedad Horizontal.
+                                    Derechos reales.
+                                    Derecho administrativo.
+                                    La Administración pública.
+                                    Hechos y actos administrativos.
+
+Geodesia                            Introducción a la Geodesia.
+                                    Definición y evolución.
+                                    Superficies de referencia.
+                                    Geometría del elipsoide de revolución.
+                                    Problemas principales de la Geodesia.
+                                    Sistemas y marcos de referencia celestes y terrestres.
+                                    Sistemas de coordenadas en Geodesia.
+                                    Altimetría. Introducción a la geodesia física. Tipos de Alturas.
+                                    Diseño, observación y ajuste de redes geodésicas.
+
+Fotogrametría                       Definiciones Orientaciones.
+                                    Fotogrametría Terrestre y de Objetos cercanos.
+                                    Vuelo Fotogramétrico Planificación Aviones, Drones y Lydar.
+                                    Fotogrametría Digital Softwares.
+                                    Ortoproyección y Aerotringulación.
+                                    Aplicaciones de la Fotogrametría en Proyectos de Agrimensura.
+
+Organización Industrial y           La organización industrial.
+Seguridad Laboral                   Distribución de plantas y materiales.
+                                    Introducción a la seguridad e higiene laboral.
+                                    Instalaciones y protección personal.
+                                    Riesgos y accidentes laborales.
+
+Agrimensura Legal 3                 Dominio público.
+                                    Las Limitaciones administrativas al dominio.
+                                    Derecho procesal.
+                                    Derecho minero.
+                                    Derecho de aguas.
+                                    Ejercicio profesional.
+
+Catastro                            Conceptos básicos, marcos normativos.
+                                    Catastro y políticas públicas, Catastro Multifinalitario.
+                                    Modelo de datos del catastro, OTL unidades de registración catastral y
+                                    SIT.
+                                    El Catastro como registro, estado parcelario y publicidad catastral.
+                                    Régimen de mensuras y control de trabajos de agrimensura.
+
+                                                                                                             21
+Av. Vélez Sársfield 1611      Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                          página 21 de 45
+                                   Cartografía catastral, saneamiento y calidad de datos.
+                                   Actualización y mantenimiento del Catastro.
+                                   Las valuaciones masivas en el Catastro, tributos territoriales.
+                                   Organización y gestión del Catastro Territorial.
+
+Sistemas de Información            Teoría general de sistemas de información.
+Geográfica                         Modelos de datos Conceptos y estructuras de bases de datos.
+                                   Gestión de datos espaciales.
+                                   Implementación y administración de Sistemas de información geográfica.
+                                   Análisis Geográficos Aplicación en resolución de problemáticas
+                                   territoriales.
+                                   Herramientas de visualización y elaboración de cartografía digital
+                                   aplicada.
+                                   Infraestructuras de Datos Espaciales.
+                                   Organización de proyectos.
+
+Valuaciones 1                      Principios de economía aplicados al sector inmobiliario.
+                                   Tipos de inmuebles y caracterización.
+                                   Información necesaria para la determinación de valores inmobiliarios.
+                                   Técnicas de homogeneización de datos.
+                                   Métodos de tasación.
+                                   Marco legal aplicable y normas valuatorias.
+                                   Actuaciones administrativas (pericias, expropiaciones, etc.).
+
+Georreferenciación y Límites       Geodesia espacial - GNSS y posicionamiento satelital.
+Territoriales                      Fuentes de error GNSS. Errores accidentales y sistemáticos.
+                                   Métodos de posicionamiento GNSS.
+                                   Georreferenciación. Conceptos básicos. Diferentes métodos.
+                                   Procedimiento de Georreferenciación. Procesamiento de datos.
+                                   Georreferenciación de límites territoriales. Marco legal.
+                                   Georreferenciación para mensuras rurales.
+
+Mensura                            Mensura definición y clasificación.
+                                   Teoría de límites jurídicos.
+                                   Teoría de la operación de Mensura.
+                                   El estado parcelario y el Catastro.
+                                   Ejecución de la Mensura.
+                                   Efectos jurídicos de la operación de Mensura.
+                                   Documentación de la operación Mensura.
+                                   Rol del Agrimensor.
+
+Valuaciones 2                      Introducción a la economía urbana.
+                                   Observatorios del Mercado Inmobiliario.
+                                   Valuaciones Masivas Automatizadas, diferentes técnicas y abordajes.
+                                   Geoestadística aplicada a la valuación masiva de inmuebles.
+                                   Modelos matemáticos para valuación masiva de inmuebles.
+                                   Calidad de las valuaciones masivas.
+                                   Gestión de las valuaciones inmobiliarias en el Catastro.
+
+Gestión de Proyectos e             Ingeniería de Proyectos.
+Impacto Ambiental                  Introducción al estudio del mercado. Costos y presupuestos.
+                                   Marco ecológico de proyectos de ingeniería.
+                                   Evaluación del impacto ambiental.
+                                   El ordenamiento ambiental de territorio: Normativas.
+
+
+
+                                                                                                           22
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                         página 22 de 45
+ Ordenamiento Territorial           Ordenamiento Territorial, fundamentos, definiciones y relación con otras
+                                    ciencias.
+                                    Derecho Constitucional, Derecho Municipal, Autonomía y Competencia
+                                    Municipal.
+                                    Enfoque Sistémico, Análisis y Diagnóstico del Sistema Territorial.
+                                    Relaciones intermunicipales e interjurisdiccionales y Desarrollo
+                                    Sustentable.
+                                    Introducción a la Planificación, Planificación Territorial. Planificación
+                                    Urbana.
+                                     Formulación de planes y programas de Ordenamiento Territorial.
+                                    Organización y Gestión del Plan.
+
+ Estudios y Trazados                Definiciones - División del dominio y campo de acción.
+ Especiales                         Captura de datos: Instrumental de medición - Clasificación de los
+                                    levantamientos.
+                                    Sistemas de Apoyo - Diseño de Redes y métodos de control - Métodos de
+                                    levantamiento.
+                                    Aplicación de los levantamientos hidrográficos Proceso de la información.
+                                    Los Métodos de Replanteo en Obras de Ingeniería.
+                                    Mediciones posteriores de control en estructuras o Auscultación.
+                                    Mediciones aplicadas en la Industria, Viales, Hidráulicas, Electroductos,
+                                    Agropecuaria, etc.
+
+ Práctica Profesional             La ejecución de una Práctica Profesional, en las siguientes Especialidades
+ Supervisada                      de la Carrera:
+                                           Mensura.
+                                           Valuaciones Catastro - Sistemas de Información Geográficos.
+                                    Ordenamiento Territorial y Planificación Urbana.
+
+ Trabajo Final                      Elección del tema y definición de las bases del Trabajo Final.
+                                    Conceptualización e interrelación de las principales temáticas y
+                                    asignaturas de la carrera.
+                                    Herramientas y metodologías para el desarrollo de Informes Técnicos.
+                                    Desarrollo y evaluación del Trabajo Final.
+                                    Defensa del Trabajo Final.
+
+
+
+1.1.G Condiciones de Ingreso, requisitos de cursado, permanencia y
+egreso.
+
+Condiciones de ingreso
+  Aplican los requisitos establecidos en el Art. 7 Ley de Educación Superior.
+  Para postulantes extranjeros se aplican los requisitos y condiciones de ingreso
+  establecidos por la UNC.
+
+
+Requisitos de cursado y permanencia
+  Las condiciones de permanencia y régimen de estudiante son las establecidas en el
+  régimen de Alumno (Resolución 154/HCD/2002, y sus rectificaciones 907/A/2003,
+  114/HCD/ 2003 y 680/HCD/ 2006) las condiciones de aprobación de cada asignatura son
+  las establecidas por cada cátedra y de acuerdo a la reglamentación vigente.
+
+                                                                                                                23
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                         página 23 de 45
+  Las asignaturas comunes con las de otras carreras ofrecidas en la Facultad de Ciencias
+  Exactas, Físicas y Naturales de la Universidad Nacional de Córdoba pueden aprobarse por
+  equivalencia directa en caso de corresponder.
+  Estudiantes de otras universidades que soliciten pases y equivalencias, podrán
+  reconocerse hasta el máximo de asignaturas permitido por el Art. 92 del Estatuto de la
+  Universidad Nacional de Córdoba o normativa más restrictiva de la Universidad Nacional
+  de Córdoba o la FCEFyN.
+  La Escuela se reserva el derecho de reconocer equivalencias con aquellas asignaturas
+  correspondientes a los bloques curriculares de tecnologías aplicadas en caso de
+  corresponder a fin de asegurar el perfil de egreso deberán ser cursadas y aprobadas en la
+  FCEFyN de la UNC, tanto para pases y equivalencias como para pases a través del SNRA.
+
+Requisitos de egreso
+  Para la obtención del título de grado de Ingeniero Agrimensor / Ingeniera Agrimensora sé
+  requiere aprobar el 100% de las materias obligatorias, dentro de las cuales están incluidas
+  el Ciclo de Introducción a los Estudios Universitarios (CINEU de 118 hs.), el Módulo de
+  idioma inglés (48 hs.), la Práctica Profesional Supervisada (200 hs.) y el Trabajo Final de
+  Carrera 300 hs.) y acreditar como mínimo 300RTF.
+  El alumno deberá cumplir con los requisitos establecidos en la OCHS-4-2016 y su
+  reglamentación RHCS-2-2017, Programa de Compromiso Social Estudiantil
+
+
+Requisitos para la certificación de bachiller
+  Los requisitos para la obtención de la certificación académica de bachiller universitario se
+  encuentran especificados en la Resolución Rectoral 1691 - 2018. Los requisitos
+  particulares para esta carrera se aprobarán por acto administrativo independiente.
+
+      1.1.H Instancias de seguimiento del plan de estudios.
+  Se desarrolla evaluación permanente de la enseñanza a través de instrumentos diseñados
+  para tal fin. En particular, la evaluación de las actividades destinadas a asegurar las
+  Actividades Reservadas (AR) y otros requisitos definidos en los Estándares, se alcanza a
+  través de los procesos de acreditación.
+
+
+      1.1.I Aspectos metodológicos.
+
+Enfoque Metodológico
+  El enfoque metodológico adoptado por la FCEFyN propone para sus nuevos planes de
+  estudio el modelo centrado en el estudiante y el aprendizaje basado en competencias
+  propuesto por CONFEDI, desde un enfoque constructivista.
+  Competencia es desempeñarse con idoneidad integrando distintos saberes y valores en
+  un determinado contexto con el fin de resolver situaciones profesionales.
+
+  referencia al conocimiento teórico (saber conocer), pero en este enfoque se extiende al
+  saber hacer, y saber ser.
+
+
+                                                                                                 24
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 24 de 45
+  El saber hacer se refiere a los conocimientos procedimentales, el manejo de técnicas y
+  procedimientos necesarios para la ejecución de una tarea que en el caso de la ingeniería
+  se trata la resolución de problemas de manera eficiente y sistemática.
+  Por último, el saber ser se refiere a los conocimientos actitudinales, que permiten
+  incorporar las competencias, sociales, éticas y valores al ejercicio profesional.
+  Como puede verse, la sola definición de competencia pone de manifiesto un real cambio
+  en los procesos de enseñanza.
+  La enseñanza tradicional se basa en el dictado de determinados temas siendo la clase
+  magistral el recurso pedagógico por excelencia. Aun las actividades prácticas tienen por
+  objeto reforzar los conocimientos adquiridos.
+  El proceso de aprendizaje por competencias pretende un desarrollo más integral en el cual
+  obviamente es necesario que el estudiante adquiera esos mismos conocimientos, pero
+  debe adquirir también la habilidad de emplearlos adecuadamente para el ejercicio
+  profesional, como así también debe desarrollar la capacidad de aprender por sí mismo.
+  Las actividades plantadas por el docente deben estar dirigidas ya no solo a reforzar
+  conocimientos teóricos sino a desarrollar otras habilidades que pueden, por ejemplo,
+  abarcar desde aprender a emplear la nueva herramienta adquirida a la resolución de un
+  problema típico del ejercicio profesional, manejar correctamente los tiempos para la
+  ejecución del trabajo, hasta poder desenvolverse en un grupo de trabajo.
+  En síntesis, para la implementación de un plan basado en competencias se requiere un
+  cambio en la didáctica, sumando una diversidad de herramientas pedagógicas a las
+  habituales en el aula.
+
+Pautas de evaluación
+  Acorde a la propuesta metodológica Se realiza tanto la evaluación de contenidos
+  conceptuales como actitudinales y procedimentales.
+  Las herramientas de evaluación deberán estar especificadas por las cátedras en los
+  programas analíticos de asignatura y deberán ser acordes a la propuesta metodológica.
+  La escuela propone el empleo de indicadores de desempeño y rúbricas para la evaluación
+  de competencias. Los indicadores de desempeño deben ser obtenidos a partir de las
+  competencias propuestas y sus desagregados.
+  Tanto Indicadores de desempeño, rubricas, metodología de evaluación, criterio de
+  calificación y condiciones de avaluación deben estar detalladas en el programa de la
+  asignatura.
+
+Instancias de Articulación
+  La carrera prevé instancias de articulación horizontal y vertical.
+  La articulación vertical está dada por la relación entre asignaturas correlativas,
+  principalmente por aquellas que forman parte de un mismo eje temático. Los equipos
+  docentes deben coordinar el diseño de sus actividades curriculares, a fin de promover el
+  desarrollo de competencias de manera progresiva.
+  Las instancias de integración horizontal se promueven principalmente entre asignaturas de
+  distintos ejes temáticos, que pueden o no encontrarse en el mismo semestre de la carrera.
+  Las Instancias de articulación horizontal y vertical de la carrera serán propuestas por la
+  Escuela y aprobadas por acto administrativo independiente.
+                                                                                                 25
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 25 de 45
+Tratamiento de los contenidos curriculares básicos
+  Los Contenidos Curriculares Básicos fueron establecidos en la resolución del Ministerio de
+  Educación 2021-1554-APN-ME.
+  En el Anexo I de dicha resolución, se enumeran los descriptores de conocimientos
+  requeridos para el título de Ingeniero Agrimensor. Estos descriptores son cubiertos en los
+  diferentes espacios curriculares en función de sus contenidos. Sus enunciados, no
+  involucran una referencia directa a una disciplina o asignatura del plan de estudios, sino
+  que requieren la articulación de conocimientos y de prácticas y fundamentan el ejercicio
+  profesional.
+  Para cubrir estos enunciados desde el enfoque adoptado por esta unidad académica, se
+  piensan los mismos en términos de competencias, y las distintas asignaturas tienen la
+  responsabilidad de colaborar con el desarrollo de las mismas a lo largo del transcurso de
+  la carrera.
+  Junto a los descriptores del conocimiento correspondientes al bloque de Tecnologías
+  Aplicadas se han incluido enunciados multidimensionales y transversales. Los enunciados
+  asociados a este bloque son cubiertos por las competencias específicas mientras que los
+  ejes transversales son cubiertos por las competencias genéricas.
+
+
+      1.1.J Otros aspectos.
+
+Régimen de cursado de las asignaturas
+  La totalidad de las asignaturas que componen el plan de estudios son de régimen
+  semestral (a excepción de CINEU).
+
+Modalidad de cursado de las asignaturas
+  La modalidad de cursado de las asignaturas es presencial excepto CINEU, el cual tiene
+  modalidad tanto presencial como a distancia. No obstante, cada espacio curricular puede
+  definir actividades en la modalidad a distancia de manera parcial, a condición de que estos
+  no alcancen el 30%.
+
+Programa Compromiso Social Estudiantil
+  Son aplicables los requisitos establecidos en la Ordenanza 04-HCS-2016 y su
+  reglamentación.
+
+
+  1.2 Sistema de correlatividades y plan de transición
+
+      1.2.A Plan de transición
+  Se prevé un plan de transición con la carrera de Ingeniería Agrimensura plan 241-05. Para
+  ello, se ha establecido una tabla de equivalencias directas entre el plan a discontinuar y el
+  nuevo plan, una tabla de materias que no se dictarán en el nuevo plan y una tabla de
+  materias que no se obtienen por equivalencia del plan anterior. Dichas equivalencias se
+  hacen extensivas a asignaturas de planes anteriores de la carrera Ingeniería en
+
+                                                                                                 26
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 26 de 45
+  Agrimensura y de Agrimensura que tengan establecidas equivalencias directas con las
+  asignaturas del plan 241-05.
+  El anexo de equivalencias con el plan anterior es aplicable para los estudiantes del plan
+  241-05 que deseen migrar a la nueva versión, indicando que asignaturas del plan nuevo
+  obtienen por equivalencia, como así también para aquellos que prefieran permanecer en
+  el plan anterior, indicando que asignatura del nuevo plan deben cursar para cumplimentar
+  los espacios curriculares pendientes del plan 241-05.
+  Las asignaturas del plan 241-05 que no guarden equivalencia con las de la nueva
+  propuesta serán dictadas por el término que defina la Facultad.
+  Este diagrama de equivalencias entre el plan en vigencia 2005 y el plan nuevo 2022, tiene
+  por objetivo prever un mecanismo para que los estudiantes del plan anterior terminen su
+  carrera con el plan original o se adapten al nuevo plan. El avance de este nuevo plan no
+  debe perjudicar a los estudiantes que están cursando en forma regular el plan anterior. Por
+  lo que es importante aclarar qué si bien es necesario fomentar el pasaje de estudiantes del
+  plan anterior al nuevo plan, el mismo se irá incorporando año a año.
+
+      1.2.B Sistema de correlatividades
+
+  El plan de correlatividades no se incluye en el presente plan y será aprobado por acto
+  administrativo independiente.
+
+
+      1.2.C Sistema Nacional de Reconocimiento Académico
+  La carrera de grado de Ingeniería electrónica, adopta la definición de trayectos formativos
+  propuesto por el Sistema Nacional de Reconocimiento Académico (SNRA) tanto para
+  pases y movilidades.
+  La definición de los trayectos formativos correspondientes a este plan de estudio será
+  definido y aprobado por acto administrativo independiente.
+
+
+1.3 Factibilidad Económica
+  Al tratarse de una modificación al plan de estudios de una carrera existente no se
+  necesitan recursos adicionales.
+
+
+
+2. SIED
+  Al ser una carrera a desarrollarse exclusivamente en modalidad presencial, no se
+  desarrolla este apartado.
+
+
+
+
+                                                                                                 27
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 27 de 45
+3. Anexos
+
+  3.1 Anexo I: Competencias genéricas.
+El desarrollo de estas competencias, en su conjunto, permite cubrir los descriptores genéricos
+transversales a la carrera, especificados en los estándares de acreditación.
+
+  Competencias tecnológicas
+      CG 1. Competencia para identificar, formular y resolver problemas de ingeniería.
+      CG 2. Competencia para concebir, diseñar y desarrollar proyectos de ingeniería
+      (sistemas, componentes, productos o procesos).
+      CG 3. Competencia para gestionar -planificar, ejecutar y controlar- proyectos de
+      ingeniería (sistemas, componentes, productos o procesos).
+      CG 4. Competencia para utilizar de manera efectiva las técnicas y herramientas de la
+      ingeniería.
+      CG 5. Competencia para contribuir a la generación de desarrollos tecnológicos y/o
+      innovaciones tecnológicas.
+
+
+  Competencias sociales, políticas y actitudinales
+      CG 6. Competencia para desempeñarse de manera efectiva en equipos de trabajo.
+      CG 7. Competencia para comunicarse con efectividad.
+      CG 8. Competencia para actuar con ética, responsabilidad profesional y compromiso
+      social, considerando el impacto económico, social y ambiental de su actividad en el
+      contexto local y global.
+      CG 9. Competencia para aprender en forma continua y autónoma.
+      CG 10. Competencia para actuar con espíritu emprendedor.
+
+
+
+Si bien la asignación de competencias a una determinada asignatura se realiza según se
+encuentran detalladas en este anexo, no obstante, se recomienda a las cátedras tener en
+cuenta el desagregado de las mismas propuestas
+                                                                             competencias
+asignadas y facilitar la elaboración de indicadores de desempeño para las mismas.
+
+
+
+
+                                                                                                 28
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 28 de 45
+ 3.2 Anexo II: Matriz de tributación a competencias genéricas
+
+
+
+
+                                                                                                29
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 29 de 45
+  3.3 Anexo III: Competencias específicas
+A continuación, se indican las competencias específicas para la carrera de Ingeniería en
+Agrimensura de la FCEFyN. Las mimas están basadas las propuestas por CONFEDI (Anexo
+I-2 Ingeniero Agrimensor Libro Rojo del CONFEDI) y fueron elaboradas por el Consejo
+Nacional de Escuelas de Agrimensura (CONEA), red de carreras de Ingeniería en
+Agrimensura.
+En su conjunto, las competencias de este anexo cubren los descriptores transversales
+asociados a las tecnologías aplicadas, establecidos en los estándares.
+
+Competencias Específicas
+
+  CE1.1. Competencia para determinar y verificar por mensura, límites de objetos territoriales
+  legales de derecho público y privado, parcelas y estado parcelario.
+  CE1.2. Competencia para determinar y verificar por mensura límites de jurisdicciones
+  políticas y administrativas, bienes públicos, objetos de derechos reales y todo otro objeto
+  legal de expresión territorial.
+  CE1.3. Competencia para realizar la georreferenciación de los objetos territoriales
+  determinados por Mensura y su Registración Catastral.
+  CE2.1. Competencia para certificar el Estado Parcelario.
+  CE3.1. Competencia para diseñar y organizar los catastros territoriales.
+
+
+
+
+                                                                                                 30
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 30 de 45
+  3.4 Anexo IV: Competencias específicas desagregadas
+Desagregados propuestos:
+
+Con el fin de lograr una mejor comprensión y desarrollo de las competencias específicas
+descritas, se implementa un desagregado de las mismas, agrupadas según su relación con
+las competencias específicas del Libro Rojo de CONFEDI.
+Éstas fueron elaboradas por la Escuela de Ingeniería en Agrimensura de la UNC partir de los
+enunciados multidimensionales y transversales, asociados a las Tecnologías Aplicadas,
+incluidos en los estándares de acreditación para la carrera de Ingeniería en Agrimensura
+(RESOL-2021-1554-APN-ME), y teniendo presente las dos grandes áreas temáticas de la
+carrera la Aplicación Territorial del Derecho y la Geometría Territorial
+Para una mejor organización, este desagregado se codifica con cifras y letras separadas por
+puntos (CEX.X.Y.x.x), donde las dos primeras cifras (X.X) indican la competencia específica
+del Libro Rojo del CONFEDI, a la cual se relacionan, las letras (Y) el primer desagregado y
+las cifras (x.x) indican el desagregado detallado de esa misma competencia.
+
+  CE1.1. Competencia para determinar y verificar por mensura, límites de objetos territoriales
+  legales de derecho público y privado, parcelas y estado parcelario.
+
+      CE1.1. A Determinar por mensura, límites de objetos territoriales legales, de derecho público y
+      privado., parcelas y estado parcelario.
+          CE1.1.A.1. Reconocer al derecho como generador de hechos jurídicos y territoriales.
+          CE1.1.A.2. Realizar el reconocimiento, y medición del espacio territorial y sus características.
+          CE1.1.A.3. Realizar estudio de antecedentes jurídicos, catastrales y registrales con fines de
+          mensura, catastro y estado parcelario.
+          CE1.1.A.4. Estudiar, analizar, interpretar los errores de las mediciones planaltiimétricas, en
+          función de las causas que los originaron.
+          CE1.1.A.5. Realizar levantamientos planialtimétricos, topográficos, hidrográficos y
+          fotogramétricos con representación geométrica gráfica y analítica.
+          CE1.1.A.6. Realizar la determinación y demarcación, de inmuebles y parcelas y sus
+          afectaciones.
+
+      CE1.1.B Verificar por mensura, los límites de objetos territoriales legales, de derecho público y
+      privado, parcelas y estado parcelario.
+          CE1.1.B.1 Estudiar y analizar los límites de objetos territoriales legales de derecho público y
+          privado a partir de las causas jurídicas originarias.
+          CE1.1,B.2. Verificar el instrumental de medición y aplicar las metodologías adecuadas para
+          eliminar la influencia de los errores en las mediciones planialtimétricas.
+          CE1.1.B.3 Proyectar, dirigir y aplicar sistemas trigonométricos y poligonométricos con fines
+          planialtimétricos.
+          CE1.1.B.4. Realizar arbitrajes, peritajes, tasaciones y valuaciones relacionadas con las
+          mensuras y mediciones topográficas las representaciones geométricas, gráficas y analíticas
+          y el estado parcelario.
+          CE1.1.B.5. Planificar, proyectar e inspeccionar levantamientos fotogramétricos tradicionales
+          y con vehículos aéreos no tripulados.
+          CE1.1.B.6. Realizar la comprobación y extinción de los límites territoriales, de inmuebles y
+          parcelas y sus afectaciones.
+
+                                                                                                       31
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                    página 31 de 45
+ CE1.2. Competencia para determinar y verificar por mensura límites de jurisdicciones
+ políticas y administrativas, bienes públicos, objetos de derechos reales y todo otro objeto
+ legal de expresión territorial.
+
+     CE1.2.A. Determinar por mensura límites de jurisdicciones políticas y administrativas, bienes
+     públicos, objetos de derechos reales y todo otro objeto legal de expresión territorial.
+        CE1.2.A.1. Comprender la organización de la administración del estado social de derecho y
+        su relación con la actividad de mensura, catastro y publicidad de derechos sobre inmuebles.
+        CE1.2.A.2. Realizar la determinación de jurisdicciones políticas y administrativas; de hechos
+        territoriales existentes y de actos posesorios; y de muros y cercos divisorios y medianeros.
+        CE1.2.A.3. Realizar la demarcación y comprobación de jurisdicciones políticas y
+        administrativas; y hechos territoriales existentes y de actos posesorios.
+        CE1.2.A.4. Evaluar los diferentes aspectos de los impactos ambientales con el fin de asesorar
+        y planificar obras.
+
+ CE1.3. Competencia para realizar la georreferenciación de los objetos territoriales
+ determinados por Mensura y su Registración Catastral.
+
+     CE1.3.A. Georreferenciar los objetos territoriales determinados por mensura.
+       CE1.3.A.1. Comprender la importancia de la ubicación de manera unívoca de objetos
+       territoriales legales, de estudiar y aplicar diferentes técnicas de georreferenciación.
+       C1.3.A.2. Determinar y medir puntos de referencia terrestres y sus variaciones temporales
+       (velocidades) a través de estaciones continuas o permanentes -complementadas con
+       estaciones pasivas- para el establecimiento de marco terrestre.
+       CE1.3.A.3. Proyectar, ejecutar y dirigir sistemas de control de posición horizontal y vertical y
+       sistemas de información territorial
+
+     CE1.3.B. Registrar en el catastro los objetos territoriales determinados por mensura.
+       CE1.3.B.1. Comprender la importancia de la publicidad registral en relación a la mensura, el
+       catastro y el estado parcelario.
+       CE1.3.B.2 Estudiar, proyectar, registrar, :levantamientos territoriales, inmobiliarios y/o
+       parcelarios con fines catastrales.
+       CE1.3.B.3. Comprender los efectos y alcances de hechos y actos administrativos en relación
+       a la mensura, el catastro y la publicidad de los derechos sobre inmuebles.
+
+ CE2.1. Competencia para certificar el estado parcelario.
+
+     CE2.1.A Certificar el estado parcelario.
+       CE2.1.A.1. Ejecutar la aplicación del derecho real de propiedad en relación a la mensura, el
+       catastro, el estado parcelario y la publicidad registral.
+       CE2.1.A.2. Participar en el proceso de elaboración del ordenamiento territorial y su incidencia
+       en el estado parcelario.
+
+ CE3.1.Competencia para diseñar y organizar los catastros territoriales.
+
+     CE3.1.A. Diseñar catastros territoriales
+       CE3.1.A.1. Diseñar, desarrollar y administrar sistemas de información geográfica (SIG) y
+       sistemas información territorial (SIT)
+
+
+                                                                                                    32
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 32 de 45
+        CE3.1.A.2. Aplicar y combinar las técnicas adecuadas para generar documentos gráficos:
+        planos, cartas, mapas
+        CE3.1.A.3. Elaborar e interpretar planos, mapas y cartas temáticas, topográficas y
+        catastrales.
+        CE3.1.A.4. Aplicar fotogrametría y teledetección satelital o aerotransportada en la producción
+        cartográfica.
+
+     CE3.1.B. Organizar los catastros territoriales.
+       CE3.1.B.1. Proyectar, registrar, dirigir, ejecutar e inspeccionar: levantamientos territoriales,
+       inmobiliarios y/o parcelarios con fines catastrales y valuatorios masivos.
+       CE3.1.B.2. Participar en la formulación, ejecución y evaluación de planes y programas de
+       ordenamiento territorial.
+       C3.1.B.3. Realizar tasaciones y valuaciones de inmuebles.
+       C3.1.B.4. Participar en la determinación de la renta potencial media, normar, realizar la
+       delimitación de las zonas territoriales, tipificación de unidades económicas zonales e
+       interpretar su aplicación.
+
+
+
+
+                                                                                                    33
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 33 de 45
+      3.5 Anexo V: Matriz de tributación a las competencias
+      específicas
+
+ Nº              Asignaturas                                                                            Competencias Específicas
+
+                                                                    CE1.1.                               CE1.2.                CE1.3.           CE2.1.                    C3.1.
+
+                                                     CE1.1.A.                    CE1.1.B.               CE1.2.A.       CE1.3.A.     CE1.3.B.    CE2.1.A.       CE3.1.A.           CE3.1.B.
+
+
+
+
+ 1 Matemática
+ 2 Física y Química
+ 3 Ambientación Universitaria
+ 4 Introducción a la Ingeniería
+ 5 Análisis Matemático 1
+ 6    Economía
+ 7 Agrimensura y Geometría Territorial      A   A         M
+ 8 Algebra Lineal
+ 9 Física 1
+ 10 Sistemas de Representación
+ 11 Elementos de la Construcción                                                                                                        M                                              M
+ 12 Análisis Matemático 2
+ 13 Probabilidad y Estadística
+ 14 Topografía 1 y Teoría de Errores                      A     A   M        A    A
+ 15 Información Rural y Agrológica                                                                                 A                                                                   M     M
+ 16 Física 2
+ 17 Computación y Cálculo Numérico
+ 18 Topografía 2 e Hidrografía                                  A            A    A                      M   M
+ 19 Geografía Física                            M         M                                                        A
+ 20 Agrimensura Legal 1                     A         A                 A                           A
+ 21 Diseño Cartográfico y Cartografía                                                                                                                           A   A     A
+ 22 Fotointerpretación y Teledetección          M                                           M                                                                   A   A     A
+ 23 Módulo de Inglés
+ 24 Agrimensura Legal 2                     A         A                 A                           A
+ 25 Geodesia                                                    A                 A                                        A   A
+ 26 Fotogrametría                                                                           A   A                                                                         A
+      Organización Industrial y Seguridad
+ 27                                                                                                                A
+      Laboral
+ 28 Agrimensura Legal 3                               A                 A                           A                               A       A
+ 29 Catastro                                                                          A             A                               A   A        A   A     A                  A
+ 30 Sistemas de Información Geográfica                                                                                 A                                        A         A   A    A
+ 31 Valuaciones 1                                                                     A                                                                                       A        A     A
+    Georreferenciaci/on y Límites
+ 32                                                                 A                           A                      A   A   A
+    Territoriales
+ 33 Mensura                                 A   A     A             A   A                       A        A   A                                   A   A
+ 34 Valuaciones 2                                                                     A                                                                                       A        A     A
+    Gestión de Proyectos e Impacto
+ 35                                                                                                                A                    M            M                             A
+    Ambiental
+ 36 Ordenamiento Territorial                                                                                                                         A     A    A                  A         A
+ 37 Estudio y Trazados Especiales                         A                  A              A                      A           A
+ 38 Práctica Profesional Supervisada        A   A     A   A     A   A   A    A    A   A     A   A   A    A   A     A   A   A   A    A   A   A    A   A     A    A   A     A   A    A   A     A
+ 39 Trabajo Final                           A   A     A   A     A   A   A    A    A   A     A   A   A    A   A     A   A   A   A    A   A   A    A   A     A    A   A     A   A    A   A     A
+Asignaturas que aportan
+
+
+      Nivel de aporte                       A Alto        M Medio       B Bajo
+
+
+
+
+                                                                                                                                                                                           34
+          Av. Vélez Sársfield 1611                      Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                                                    IF-2023-00691129-UNC-EA#FCEFYN
+                                                      https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                                                                                  página 34 de 45
+  3.6 Anexo VI: Horas por bloque curricular
+
+El anexo II de la resolución-2021-1554-APN-ME del Ministerio de Educación de la Nación
+establece una duración mínima de la carrera de 5 años, carga horaria mínima de 3600 horas
+presenciales y la carga horaria mínima por bloque curricular.
+En el siguiente cuadro se muestran las horas mínimas requeridas y las horas propuestas en
+el nuevo plan.
+
+                                                        cargas         cargas
+                         Bloques curriculares          horarias     horarias en el
+                                                       mínimas       nuevo plan
+                   TOTAL horas presenciales             3600            3730
+                   Ciencias Básicas de la Ingeniería     710             840
+                   Tecnologías Básicas                   545             604
+                   Tecnologías Aplicadas                 545            1648
+                   Ciencias y Tecnologías
+                                                         365             638
+                   Complementarias
+
+
+
+Detalle de la distribución de la carga horaria a los bloques curriculares por
+asignatura
+  El enfoque adoptado hace que muchos saberes y competencias sean desarrollados, no en
+  una determinada asignatura, sino de manera transversal a la carrera, distribuidos en
+  varios espacios curriculares. Es por ello que muchas asignaturas desarrollan contenidos
+  correspondientes a más de un bloque curricular.
+  Se hace notar que los enunciados multidimensionales y transversales, cubiertos por el
+  desarrollo de las competencias genéricas, se incluyen según los estándares dentro del
+  bloque de las tecnologías complementarias.
+  Con lo antedicho se asume que todos los espacios curriculares tributan al bloque de
+  Tecnologías Complementarias de dos formas: mediante la inclusión de contenidos no
+  disciplinares como así también mediante las actividades que promueven el desarrollo de
+  las mismas. Debido a que este aporte no implica necesariamente una disminución
+  significativa al realizado al bloque curricular al que pertenece la materia, debe entenderse
+  que las horas declaradas para el bloque de tecnologías complementarias son mínimas, a fin
+  de asegurar el cumplimiento de los estándares. Para simplificar la lectura, se emplean los
+  siguientes acrónimos:
+  CB: Ciencias Básicas
+  TB: Tecnologías Básicas
+  TA: Tecnologías Aplicadas
+  CTC: Ciencias y Tecnologías Complementarias
+  Cada asignatura pertenece a un determinado Bloque Curricular, siendo asignada al que la
+  materia colabora con mayor preponderancia.
+
+  Se hace notar que los enunciados multidimensionales y transversales, cubiertos por el
+  desarrollo de las competencias genéricas, se incluyen según los estándares dentro del
+  bloque de las tecnologías complementarias.
+                                                                                                 35
+ Av. Vélez Sársfield 1611 Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                 IF-2023-00691129-UNC-EA#FCEFYN
+                      https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 35 de 45
+                                                          Cargas
+ Nº    Semestre               Espacio curricular                               Bloques
+                                                         horarias
+                                                                    CB       TB       TA     CTC
+ 1        CINEU    Matemática                              48       48
+ 2        CINEU    Física y Química                        48       48
+ 3        CINEU    Ambientación Universitaria              22                                22
+ 4          1º     Introducción a la Ingeniería            48                                48
+ 5          1º     Análisis Matemático 1                   96       96
+ 6          1º      Economía                               72                                72
+ 7          1º     Agrimensura y Geometría Territorial     120               120
+ 8          2º     Algebra Lineal                          96       96
+ 9          2º     Física 1                                 96      96
+ 10         2º     Sistemas de Representación               96      96
+ 11         2º     Elementos de la Construcción             64                               64
+ 12         3º     Análisis Matemático 2                    96      96
+ 13         3º     Probabilidad y Estadística               72      72
+ 14         3º     Topografía 1 y Teoría de Errores        120               120
+ 15         3º     Información Rural y Agrológica           64                               64
+ 16         4º     Física 2                                 96      96
+ 17         4º     Computación y Cálculo Numérico          96       96
+ 18         4º     Topografía 2 e Hidrografía              120               20       100
+ 19         4º     Geografía Física                        64                                64
+ 20         5º     Agrimensura Legal 1                     96                96
+ 21         5º     Diseño Cartográfico y Cartografía       120               120
+ 22         5º     Fotointerpretación y Teledetección      96                          96
+ 23         5º     Módulo de Inglés                        48                                48
+ 24         6º     Agrimensura Legal 2                     96                96
+ 25         6º     Geodesia                                120               20       100
+ 26         6º     Fotogrametría                           96                          96
+                   Organización Industrial y Seguridad
+ 27         6º                                              64                               64
+                   Laboral
+ 28         7º     Agrimensura Legal 3                      72               12        60
+ 29         7º     Catastro                                120                        120
+                   Sistemas de Información
+ 30         7º                                             120                        120
+                   Geográfica
+ 31         7º     Valuaciones 1                            72                         72
+                   Georreferenciación y Límites
+ 32         8º                                              72                         72
+                   Territoriales
+ 33         8º     Mensura                                 120                        120
+ 34         8º     Valuaciones 2                           72                          72
+                   Gestión de Proyectos e Impacto
+ 35         8º                                              72                               72
+                   Ambiental
+ 36         9º     Ordenamiento Territorial                120                        120
+ 37         9º     Estudio y Trazados Especiales           120                               120
+ 38         9º     Práctica Profesional Supervisada        200                        200
+ 39         10º    Trabajo Final                           300                        300
+Total de horas                                            3730      840      604      1648   638
+
+
+
+
+                                                                                                   36
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                    página 36 de 45
+   3.7 Anexo VII: Intensidad de la actividad práctica
+El anexo III de la resolución-2021-1554-APN-ME del Ministerio de Educación de la Nación
+establece un mínimo de 750 horas de formación práctica.
+Se detalla a continuación los principales aportes de los distintos espacios curriculares a la
+formación práctica.
+Si bien la mayoría de los espacios curriculares emplean una importante parte de su tiempo a
+la realización de prácticos, resolución de ejercicios, actividades de laboratorio o similares, la
+siguiente tabla se limita a contabilizar aquellas actividades que estrictamente están orientadas
+a desarrollar en el ingeniero las competencias necesarias para el cumplimiento de las
+Actividades Reservadas en el contexto descrito del ejercicio profesional.
+Se adopta este criterio en concordancia con lo propuesto en el anexo III de los estándares, a
+fin de asegurar el cumplimiento del mínimo establecido aún con la interpretación más
+restrictiva en cuanto a qué tipo de actividades son consideradas a este fin.
+Por ello, las horas de formación práctica declaradas a continuación pueden considerarse
+mínimas, pudiendo los distintos espacios curriculares declarar valores mayores aun cuando
+no sean computados para este fin.
+
+     Intensidad de Formación Práctica
+     Facultad: Ciencias Exactas, Físicas y Naturales
+     Carrera: Ingeniería en Agrimensura
+                                                                                               Carga
+                                   Bloque                                          Carga     horaria de
+         Nº        Semestre                           Espacio curricular
+                                  curricular                                       horaria   formación
+                                                                                              práctica
+         1          CINEU           CB         Matemática                            48
+         2          CINEU           CB         Física y Química                      48
+         3          CINEU           CB         Ambientación Universitaria            22
+         4            1º            CTC        Introducción a la Ingeniería          48
+         5            1º            CB         Análisis Matemático 1                 96
+         6            1º            CTC         Economía                             72
+                                               Agrimensura y Geometría
+         7            1º             TB                                              120        40
+                                               Territorial
+          8           2º            CB         Algebra Lineal                         96
+          9           2º            CB         Física 1                               96
+         10           2º            CB         Sistemas de Representación             96         6
+         11           2º            CTC        Elementos de la Construcción           64         6
+         12           3º            CB         Análisis Matemático 2                  96
+         13           3º            CB         Probabilidad y Estadística             72
+         14           3º             TB        Topografía 1 y Teoría de Errores      120        60
+         15           3º            CTC        Información Rural y Agrológica         64         6
+         16           4º            CB         Física 2                               96
+                                               Computación y Cálculo
+         17           4º             CB                                              96
+                                               Numérico
+         18           4º             TA        Topografía 2 e Hidrografía            120        60
+         19           4º            CTC        Geografía Física                       64         6
+         20           5º             TB        Agrimensura Legal 1                    96        20
+                                               Diseño Cartográfico y
+         21           5º             TB                                              120        40
+                                               Cartografía
+                                               Fotointerpretación y
+         22           5º             TA                                              96         30
+                                               Teledetección
+         23           5º            CTC        Módulo de Inglés                      48
+
+                                                                                                          37
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                           página 37 de 45
+        24           6º            TB      Agrimensura Legal 2                   96       20
+        25           6º            TA      Geodesia                              120      60
+        26           6º            TA      Fotogrametría                         96       30
+                                           Organización Industrial y
+        27           6º            CTC                                           64
+                                           Seguridad Laboral
+        28           7º            TA      Agrimensura Legal 3                   72       30
+        29           7º            TA      Catastro                              120      60
+                                           Sistemas de Información
+        30           7º            TA                                            120      60
+                                           Geográfica
+        31           7º            TA      Valuaciones 1                         72       30
+                                           Georreferenciación y Límites
+        32           8º            TA                                            72       30
+                                           Territoriales
+        33           8º            TA      Mensura                               120      60
+        34           8º            TA      Valuaciones 2                         72       30
+                                           Gestión de Proyectos e Impacto
+        35           8º            CTC                                           72       8
+                                           Ambiental
+        36           9º            TA      Ordenamiento Territorial              120      60
+       37             9º            CTC    Estudio y Trazados Especiales        120       30
+       38             9º             TA    Práctica Profesional Supervisada     200      200
+       39            10º             TA    Trabajo Final                        300      300
+    Carga horaria total de la carrera                                           3730
+    Horas de formación práctica                                                          1282
+
+
+
+
+                                                                                                38
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                       página 38 de 45
+  3.8 Anexo VIII: Descriptores del conocimiento
+El anexo I de la resolución 2021-1554-APN-ME del Ministerio de Educación de la Nación
+establece los descriptores del conocimiento requeridos para el Título.
+Las siguientes tablas muestran dichos descriptores y las asignaturas que aportan a los
+mismos.
+
+
+      Bloque
+                   Descriptores de conocimiento          Asignaturas que aportan al descriptor
+     curricular
+                   Electricidad                          Física 2
+                   Electromagnetismo                     Física 2
+                   Magnetismo                            Física 2
+                   Mecánica                              Física 1
+                   Óptica                                Física 2
+                                                         Análisis Matemático 1
+     Ciencias    Geometría Analítica
+                                                         Algebra Lineal
+    Básicas de
+                 Cálculo Diferencial e Integral          Análisis Matemático 2
+   la Ingeniería
+                   Ecuaciones Diferenciales              Análisis Matemático 2
+                   Algebra Lineal                        Algebra Lineal
+                   Fundamentos de Programación de
+                                                         Computación y Cálculo Numérico
+                   Sistemas Informáticos
+                   Sistemas de Representación Gráfica    Sistemas de Representación
+                   Probabilidad y Estadística            Probabilidad y Estadística
+
+
+
+
+      Bloque
+                   Descriptores de conocimiento          Asignaturas que aportan al descriptor
+     curricular
+                    Cartografía                          Diseño Cartográfico y Cartografía
+                                                         Agrimensura, y Geometría Territorial
+                   Derecho                               Agrimensura Legal 1
+                                                         Agrimensura Legal 2
+   Tecnologías
+               Dibujo Topográfico y Cartográfico         Diseño Cartográfico y Cartografía
+     Básicas
+                   Sistemas de información               Topografía 1 y Teoría de Errores
+                                                         Agrimensura y Geometría Territorial
+                   Sistemas de Medición Topográficos
+                                                          Topografía 1 y Teoría de Errores
+                   Teoría de Errores                     Topografía 1 y Teoría de Errores
+
+
+
+
+                                                                                                 39
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                    página 39 de 45
+     Bloque
+                   Descriptores de conocimiento            Asignaturas que aportan al descriptor
+    curricular
+                   Agrimensura Legal                       Agrimensura Legal 3
+                                                           Sistemas de Información Geográfica
+                   Cartografía Aplicada
+                                                           Ordenamiento Territorial
+                   Catastro Territorial                    Catastro
+                   Fotogrametría                           Fotogrametría
+                   Fotointerpretación y Teledetección      Fotointerpretación y Teledetección
+                                                           Geodesia
+  Tecnologías Geodesia
+                                                           Georreferenciación y Límites Territoriales
+   Aplicadas Mensura                                       Mensura
+                   Ordenamiento Territorial                Ordenamiento Territorial
+                                                           Catastro
+                   Sistemas de Información Territorial
+                                                           Sistemas de Información Geográfica
+                   Topografía Aplicada                     Topografía 2 e Hidrografía
+                                                           Valuaciones 1
+                   Valuaciones
+                                                           Valuaciones 2
+
+
+
+                           Descriptores de
+  Bloque curricular                                        Asignaturas que aportan al descriptor
+                           conocimiento
+                           Conceptos de Economía para
+                                                           Economía
+                           ingeniería
+                           Elementos de Edificios          Elementos de la Construcción
+                           Estudio y Trazado Especiales    Estudio y Trazado Especiales
+                           Formulación y Evaluación de
+                                                           Gestión de Proyectos e Impacto Ambiental
+                           Proyectos
+                           Geografía Física y
+                                                           Geografía Física
+                           Geomorfología
+     Ciencias y
+                           Gestión Ambiental               Gestión de Proyectos e Impacto Ambiental
+    Tecnologías
+                           Seguridad del Trabajo y
+  Complementarias                                          Organización Industrial y Seguridad Laboral
+                           Ambiental.
+                           Información Rural y Agrología   Información Rural y Agrológica
+                           Introducción a la Ingeniería    Introducción a la Ingeniería
+                           Organización Industrial         Organización Industrial y Seguridad Laboral
+                           Planeamiento y Urbanismo        Gestión de Proyectos e Impacto Ambiental
+                           Fundamentos para la compresión
+                           de una lengua extranjera       Módulo de Inglés
+                           (preferentemente inglés)
+
+
+
+
+                                                                                                         40
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                      página 40 de 45
+                   Determinación y verificación por
+                   mensura, límites de objetos
+                   territoriales legales de derecho público
+                                                              Competencias Específicas del Título
+                   y privado, parcelas y estado
+                   parcelario.                                de Ingeniero Agrimensor
+  Enunciados       Determinación y verificación por           ANEXO IV
+ Transversales     mensura, límites de jurisdicciones
+  asociados a      políticas, y administrativas, bienes   El enfoque adoptado hace que los enunciados
+      las          públicos, objetos de derechos reales y sean desarrollados no en una determinada
+                   todo otro objeto legal de expresión    asignatura, sino de manera transversal a todas
+  Tecnologías
+                   territorial.                           las asignaturas del bloque de las Tecnologías
+   Aplicadas
+                   Georreferenciación de los objetos      Aplicadas, y a todos los bloques curriculares de
+                   territoriales determinados por Mensura la carrera, siendo varias asignaturas las
+                   y su Registración Catastral.           responsables de colaborar con su desarrollo.
+                   Diseño y organización de los catastros
+                   territoriales.
+
+
+
+                   Identificación, formulación y resolución
+                   de problemas de Ingeniería en
+                   Agrimensura.
+                Concepción, desarrollo y diseño de
+                proyectos de Ingeniería en
+                Agrimensura.
+                Gestión, planificación, ejecución y
+                control de proyectos de Ingeniería en
+                Agrimensura.
+                Utilización de Técnicas y herramientas
+                de aplicación en la Ingeniería en             Competencias Genéricas
+       Ejes     Agrimensura.                                  ANEXO I
+  Transversales Generación de desarrollos
+       a los    tecnológicos y/o innovaciones                 El enfoque adoptado hace que los enunciados
+    diferentes  tecnológicas.                                 sean desarrollados no en una determinada
+     bloques    Fundamentos para el desempeño en              asignatura, sino de manera transversal a todos
+                equipos de trabajo.                           los bloques curriculares de la carrera, siendo
+                Fundamentos para una comunicación             varias asignaturas las responsables de
+                efectiva.                                     colaborar con su desarrollo.
+                Fundamentos para una actuación ética
+                y responsable.
+                Fundamentos para evaluar y actuar en
+                relación con el impacto social de su
+                actividad profesional en el contexto
+                global y local.
+                Fundamentos para el aprendizaje
+                continuo.
+                Fundamentos para el desarrollo de
+                una actitud profesional emprendedora.
+
+
+
+
+                                                                                                               41
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                         página 41 de 45
+   3.9 Anexo IX: Matriz de tributación de ejes y enunciados
+   multidimensionales y transversales
+Como se menciona en el anexo IX, los Descriptores Transversales y Enunciados
+Transversales a las Tecnologías Aplicadas son cubiertos, en su conjunto, por el conjunto de
+las competencias genéricas y específicas adoptadas.
+Debido a que no existe una correlación directa entre la redacción de dichas competencias y
+los descriptores enunciados en la resolución RESOL-2021-1554-APN-ME, se elabora la
+siguiente matriz de tributación a los fines de sintetizar el aporte de cada espacio curricular a
+los descriptores, basada en las matrices de tributación de competencias.
+
+
+     1. Determinación y verificación por mensura, límites de objetos territoriales legales de derecho
+         público y privado, parcelas y estado parcelario.
+     2. Determinación y verificación por mensura, límites de jurisdicciones políticas, y
+         administrativas, bienes públicos, objetos de derechos reales y todo otro objeto legal de
+         expresión territorial.
+     3. Georreferenciación de los objetos territoriales determinados por Mensura y su Registración
+         Catastral.
+     4. Diseño y organización de los catastros territoriales.
+     5. Identificación, formulación y resolución de problemas de Ingeniería en Agrimensura.
+     6. Concepción, desarrollo y diseño de proyectos de Ingeniería en Agrimensura.
+     7. Gestión, planificación, ejecución y control de proyectos de Ingeniería en Agrimensura.
+     8. Utilización de técnicas y herramientas de aplicación en la Ingeniería en Agrimensura.
+     9. Generación de desarrollos tecnológicos y/o innovaciones tecnológicas
+     10. Desempeño en equipos de trabajo.
+     11. Comunicación efectiva.
+     12. Actuación profesional ética y responsable.
+     13. Evaluación y actuación en relación con el impacto social de su actividad profesional en el
+         contexto global y local.
+     14. Aprendizaje continuo.
+     15. Desarrollo de una actitud profesional emprendedora.
+
+
+
+
+                                                                                                  42
+ Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                          IF-2023-00691129-UNC-EA#FCEFYN
+                            https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 42 de 45
+ Nº                   Asignaturas                             Ejes y enunciados multidimensionales y transversales
+
+
+                                             1     2    3     4      5      6    7     8     9     10    11    12    13   14   15
+
+  1   Matemática                                                     A                 A                                  M
+  2   Física y Química                                               A                 A                                  M
+  3   Ambientación Universitaria                                                                         M                M
+  4   Introducción a la Ingeniería
+  5   Análisis Matemático 1                                          A                 A
+  6   Economía                                                       B                 B                       B     B         B
+  7   Agrimensura y Geometría Territorial    M                       A                                   A     M     M    A
+  8   Algebra Lineal                                                 A                 A                                  A
+  9   Física 1                                                       A                 A                                  A
+ 10   Sistemas de Representación                                                       A                 A
+ 11   Elementos de la Construcción                            M      A           A                             A     A
+ 12   Análisis Matemático 2                                          A                 A
+ 13   Probabilidad y Estadística                                     A                 A                                  M
+ 14   Topografía 1 y Teoría de Errores       M     M    A            A                 A           A           M     M
+ 15   Información Rural y Agrológica                          M             A                A                 A     A         A
+ 16   Física 2                                                       A                 A                                  M
+ 17   Computación y Cálculo Numérico                                                                     M                M
+ 18   Topografía 2 e Hidrografía             M     M    A            A      A          A           A
+ 19   Geografía Física                                        M      A                 A                       A     A
+ 20   Agrimensura Legal 1                    M     M                                                     A     A     A    A
+ 21   Diseño Cartográfico y Cartografía                 M     A      A      A    A                             A     A
+ 22   Fotointerpretación y Teledetección     M     M                 A      A                                  A
+ 23   Módulo de Inglés                                                                                   A                M
+ 24   Agrimensura Legal 2                    M     M                                                     A     A     A    A
+ 25   Geodesia                               M     M    A                   A    A     A           A
+ 26   Fotogrametría                          A     A    A            A      A          A     M
+      Organización Industrial y Seguridad
+ 27                                                           A                  A           A                                 M
+      Laboral
+ 28   Agrimensura Legal 3                    A     A                                                     A     A     A    A
+ 29   Catastro                                          A     A                  A     A                 A                A
+ 30   Sistemas de Información Geográfica                A     A      A           A     A     M                 A
+ 31   Valuaciones 1                                           A                  A                       A     A     A
+      Georreferenciación y Límites
+ 32                                          M     M    A     A      A                 A                       A     A
+      Territoriales
+ 33   Mensura                                A     A    A                        A     A                       A     A
+ 34   Valuaciones 2                                           A                  A                       A     A     A    A
+      Gestión de Proyectos e Impacto
+ 35                                                           A            A           A                       A     A         A
+      Ambiental
+ 36   Ordenamiento Territorial               M     M          A                                    A     A     A     A
+ 37   Estudio y Trazados Especiales                     A     M             A    A                                             A
+ 38   Práctica Profesional Supervisada       A     A    A     A      A      A                      A     A     A     A    A
+ 39   Trabajo Final                          A     A    A     A      A      A    A     A     A     A     A     A     A    A    A
+
+Asignaturas que aportan                     14    13    12    15     21    10    11   21     5     6     14    20    18   17   6
+
+
+      Nivel de aporte                        A   Alto   M    Medio   B    Bajo
+
+
+
+
+                                                                                                                               43
+ Av. Vélez Sársfield 1611              Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                                   IF-2023-00691129-UNC-EA#FCEFYN
+                                     https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                                       página 43 de 45
+ 3.10 Anexo X: Bibliografía
+      Comisión Nacional de Acreditación y Evaluación Universitaria - CONEAU 2014).
+      Resolución N°415/14,
+      de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad Nacional de
+      Córdoba
+      Consejo Federal de Decanos de Ingeniería - CONFEDI (2014). Competencias en
+
+      Ingeniero Iberoamericano       Competencias Genéricas de Egreso del Ingeniero
+      Argentino.
+      Consejo Federal de Decanos de Ingeniería - CONFEDI (2017). Marco conceptual y
+      definición de estándares de acreditación de las carreras de ingeniería.
+      Consejo Federal de Decanos de Ingeniería - CONFEDI (2018). Propuestas de
+      estándares de segunda generación para la acreditación de carreras de ingeniería en
+      la R
+      Honorable Consejo Directivo- Facultad de Ciencias Exactas, Físicas y Naturales-
+      Universidad Nacional de Córdoba HCD (2002). Resolución 154/HCD/2002, y sus
+      rectificaciones 907/A/2003, 14/HCD/ 2003 y 680/HCD/ 2006                         -
+      Texto Ordenado Aprobado por Resolución 889 /T/2006.
+      Honorable Consejo Directivo- Facultad de Ciencias Exactas, Físicas y Naturales-
+      Universidad Nacional de Córdoba - HCD (2004). Resolución 389/HCD/2004
+
+      Honorable Consejo Superior de la Universidad Nacional de Córdoba - HCS UNC
+      (2016). Ordenanza 4/2016,
+      Honorable Consejo Superior de la Universidad Nacional de Córdoba - HCS UNC
+      (2019). Resolución 731/HCS/2019,               Pautas para la presentación o
+
+      Ley Nacional Nº 24.521- Ley de Enseñanza Superior (1995) sancionada el 20/07/1995
+      y promulgada el 07/08/1995.
+      Ministerio de Educación, Ciencia y Tecnología (2002). Resolución Nº 649/02,
+
+
+      Ministerio de Educación, Ciencia y Tecnología (2002). Resolución Nº 1054/02,
+      24/10/2002 -
+      Agrimensor                          - Anexo V-
+
+      Ministerio de Educación (2009). Resolución Nº 850/09, 03/06/2009. Incorporar
+      Actividades Reservadas el Título de Ingeniero Agrimensor.
+      Ministerio de Educación (2012). Resolución Nº 1781/12, 10/10/2012. Modificatoria de
+      la Resolución Nº 850/09, reemplazando los incisos a) y b) del Artículo 1 por los nuevos
+      incisos.
+      Ministerio de Educación y Deportes (2016). RESOL-2016-1870-E-APN-ME,
+      28/10/2016. Sistema Nacional de Reconocimiento Académico de Educación
+      Superior-
+
+
+                                                                                                44
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                  página 44 de 45
+      Ministerio     de     Educación    y   Deportes    (2016).   RESOL-2016-2417-E-APN-ME,
+
+      Agrimensor otorgado por la Universidad Nacional de Córdoba, Facultad de Ciencias
+      Exactas, Físicas y Naturales, perteneciente a la carrera de Ingeniería en Agrimensura
+
+      Ministerio de Educación (2018). RESOL-2018-989-APN-ME,
+      de
+      Ministerio de Educación (2018). RESOL-2018-1254-APN-ME, 15/05/2018 - Anexo
+
+      Ministerio de Educación Cultura, Ciencia y Tecnología (2019). RESOL-2019-1051-
+      APN-MECCYT,                Documento de Estándares de Aplicación General para la
+
+      Ministerio de Educación (2021). RESOL-2021-1554-APN-ME,                   Aprobar los
+      Contenidos Curriculares Básicos, Carga Horaria Mínima, Criterios de Intensidad de la
+      Formación Práctica y Estándares para la Acreditación de las carreras de INGENIERÍA
+
+      Ministerio de Educación (2021). RESOL-2016-2003-APN-ME, 08/06/2021- Resolución
+      de rectificación de la Resolución Ministerial 20016-2417 de reconocimiento oficial y
+      validación nacional de Título de Ingeniero Agrimensor otorgado por la Universidad
+      Nacional de Córdoba, sustituyendo su Anexo II por el Nuevo Anexo.
+      Universidad Nacional de Córdoba, Facultad de Ciencias Exactas, Físicas y Naturales
+      (2012) Plan de Desarrollo 2013-2019, carrera Ingeniería en Agrimensura.
+      Universidad Nacional de Córdoba (2017). Resolución Rectoral RR 449/2017,
+                    Implementar en el ámbito de la Universidad Nacional de Córdoba el
+      Sistema de Reconocimiento Académico de Educación Superior en aquellas unidades
+
+      Universidad Nacional de Córdoba (2017). Resolución Rectoral RR 1691/2018, del
+      31/10/2018 requisitos para la obtención de la certificación académica de
+      bachiller universitario
+
+
+
+
+                                                                                                45
+Av. Vélez Sársfield 1611     Pabellón Ingeniería C.P. X5016GCA Ciudad Universitaria Córdoba Argentina
+                                                                         IF-2023-00691129-UNC-EA#FCEFYN
+                           https://www.fcefyn.unc.edu.ar - Teléfono +54 351 5353800
+
+
+                                                                   página 45 de 45
+                                                          Universidad Nacional de Córdoba
+                                                      1983/2023 - 40 AÑOS DE DEMOCRACIA
+
+                                                                    Hoja Adicional de Firmas
+                                                                        Informe Gráfico
+
+Número: IF-2023-00691129-UNC-EA#FCEFYN
+
+                                                                                                     CORDOBA, CORDOBA
+                                                                                               Miércoles 16 de Agosto de 2023
+
+Referencia: PLAN NUEVO CORRECCIONES TABLAS
+
+
+El documento fue importado por el sistema GEDO con un total de 45 pagina/s.
+
+
+Digitally signed by GDE UNC
+DN: cn=GDE UNC, c=AR, o=Universidad Nacional de Cordoba, ou=Informatica, serialNumber=CUIT
+30546670623
+Date: 2023.08.16 20:12:53 -03'00'
+
+Ricardo Humberto Paglietta
+Director de Escuela
+Escuela de Agrimensura Facultad de Ciencias Exactas, Físicas y Naturales
+Universidad Nacional de Córdoba
+
+
+
+
+                                                                                                     Digitally signed by GDE UNC
+                                                                                                     DN: cn=GDE UNC, c=AR, o=Universidad
+                                                                                                     Nacional de Cordoba, ou=Informatica,
+                                                                                                     serialNumber=CUIT 30546670623
+                                                                                                     Date: 2023.08.16 20:12:59 -03'00'
+

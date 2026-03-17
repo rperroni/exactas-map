@@ -1,1 +1,367 @@
-[]
+[
+	{
+		"codigo": "IAG25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 1,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04050-ambientacion-universitaria/"
+	},
+	{
+		"codigo": "IAG25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04051-matematica/"
+	},
+	{
+		"codigo": "IAG25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04052-fisica-y-quimica/"
+	},
+
+	{
+		"codigo": "IAG25-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IAG25-AmbUniv"],
+		"RTF": 3,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04054-introduccion-a-la-ingenieria/"
+	},
+	{
+		"codigo": "IAG25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["IAG25-mat"],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04053-analisis-matematico-1/"
+	},
+	{
+		"codigo": "IAG25-economia",
+		"nombre": "Economía",
+		"correlativas": ["IAG25-mat"],
+		"RTF": 5,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-04065-economia/"
+	},
+	{
+		"codigo": "IAG25-agrgeom",
+		"nombre": "Agrimensura y Geometría Territorial",
+		"correlativas": [],
+		"RTF": 10,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09400-agrimensura-y-geometria-territorial/"
+	},
+
+	{
+		"codigo": "IAG25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IAG25-mat"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04059-algebra-lineal/"
+	},
+	{
+		"codigo": "IAG25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["IAG25-fyq", "IAG25-am1"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04060-fisica-1/"
+	},
+	{
+		"codigo": "IAG25-representacion",
+		"nombre": "Sistemas de Representación",
+		"correlativas": [],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-04056-sistemas-de-representacion/"
+	},
+	{
+		"codigo": "IAG25-construccion",
+		"nombre": "Elementos de la Construcción",
+		"correlativas": ["IAG25-economia"],
+		"RTF": 4.5,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09401-elementos-de-la-construccion/"
+	},
+
+	{
+		"codigo": "IAG25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["IAG25-am1", "IAG25-algebra"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04063-analisis-matematico-2/"
+	},
+	{
+		"codigo": "IAG25-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IAG25-am1"],
+		"RTF": 5,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04062-probabilidad-y-estadistica/"
+	},
+	{
+		"codigo": "IAG25-topo1",
+		"nombre": "Topografía 1 y Teoría de Errores",
+		"correlativas": ["IAG25-agrgeom", "IAG25-representacion"],
+		"RTF": 12,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09402-topografia-1-y-teoria-de-errores/"
+	},
+	{
+		"codigo": "IAG25-inforural",
+		"nombre": "Información Rural y Agrológica",
+		"correlativas": ["IAG25-economia", "IAG25-agrgeom"],
+		"RTF": 4.5,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09403-informacion-rural-y-agrologica/"
+	},
+
+	{
+		"codigo": "IAG25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["IAG25-f1", "IAG25-algebra"],
+		"RTF": 7,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04067-fisica-2/"
+	},
+	{
+		"codigo": "IAG25-cycn",
+		"nombre": "Computación y Cálculo Numérico",
+		"correlativas": ["IAG25-am1", "IAG25-algebra"],
+		"RTF": 7,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-04072-computacion-y-calculo-numerico/"
+	},
+	{
+		"codigo": "IAG25-topo2",
+		"nombre": "Topografía 2 e Hidrografía",
+		"correlativas": ["IAG25-pye", "IAG25-topo1"],
+		"RTF": 14,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09404-topografia-2-e-hidrografia/"
+	},
+	{
+		"codigo": "IAG25-geofisica",
+		"nombre": "Geografía Física",
+		"correlativas": ["IAG25-agrgeom"],
+		"RTF": 4.5,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/geologia-basica/departamento-de-geologia-basica/10-09405-geografia-fisica/"
+	},
+
+	{
+		"codigo": "IAG25-agrlegal1",
+		"nombre": "Agrimensura Legal 1",
+		"correlativas": ["IAG25-agrgeom"],
+		"RTF": 8,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-094060-agrimensura-legal-1/"
+	},
+	{
+		"codigo": "IAG25-cartografia",
+		"nombre": "Diseño Cartográfico y Cartografía",
+		"correlativas": ["IAG25-topo2"],
+		"RTF": 12,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09407-diseno-cartografico-y-cartografia/"
+	},
+	{
+		"codigo": "IAG25-fotointel",
+		"nombre": "Fotointerpretación y Teledetección",
+		"correlativas": ["IAG25-geofisica"],
+		"RTF": 10,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09408-fotointerpretacion-y-teledeteccion/"
+	},
+	{
+		"codigo": "IAG25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 10
+		},
+		"RTF": 3,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04066-modulo-de-ingles/"
+	},
+
+	{
+		"codigo": "IAG25-agrlegal2",
+		"nombre": "Agrimensura Legal 2",
+		"correlativas": ["IAG25-agrlegal1"],
+		"RTF": 8,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09409-agrimensura-legal-2/"
+	},
+	{
+		"codigo": "IAG25-geodesia",
+		"nombre": "Geodesia",
+		"correlativas": ["IAG25-cycn", "IAG25-topo2", "IAG25-f2"],
+		"RTF": 14,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09410-geodesia/"
+	},
+	{
+		"codigo": "IAG25-fotogrametria",
+		"nombre": "Fotogrametría",
+		"correlativas": ["IAG25-fotointel"],
+		"RTF": 10,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09411-fotogrametria/"
+	},
+	{
+		"codigo": "IAG25-orgseg",
+		"nombre": "Organización Industrial y Seguridad Laboral",
+		"correlativas": ["IAG25-construccion"],
+		"RTF": 4.5,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09412-organizacion-industrial-y-seguridad-laboral/"
+	},
+
+	{
+		"codigo": "IAG25-agrlegal3",
+		"nombre": "Agrimensura Legal 3",
+		"correlativas": ["IAG25-agrlegal2"],
+		"RTF": 7.5,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09413-agrimensura-legal-3/"
+	},
+	{
+		"codigo": "IAG25-sig",
+		"nombre": "Sistemas de Información Geográfica",
+		"correlativas": ["IAG25-cartografia", "IAG25-fotogrametria"],
+		"RTF": 12,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09414-sistemas-de-informacion-geografica/"
+	},
+	{
+		"codigo": "IAG25-catastro",
+		"nombre": "Catastro",
+		"correlativas": ["IAG25-agrlegal2", "IAG25-cartografia"],
+		"RTF": 14,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09415-catastro/"
+	},
+	{
+		"codigo": "IAG25-valuaciones1",
+		"nombre": "Valuaciones 1",
+		"correlativas": ["IAG25-inforural", "IAG25-construccion", "IAG25-pye"],
+		"RTF": 7.5,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09416-valuaciones-1/"
+	},
+
+	{
+		"codigo": "IAG25-mensura",
+		"nombre": "Mensura",
+		"correlativas": ["IAG25-agrlegal3", "IAG25-catastro"],
+		"RTF": 14,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09417-mensura/"
+	},
+	{
+		"codigo": "IAG25-georef",
+		"nombre": "Georreferenciación y Límites Territoriales",
+		"correlativas": ["IAG25-geodesia"],
+		"RTF": 7.5,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09418-georreferenciacion-y-limites-territoriales/"
+	},
+	{
+		"codigo": "IAG25-valuaciones2",
+		"nombre": "Valuaciones 2",
+		"correlativas": ["IAG25-valuaciones1"],
+		"RTF": 7.5,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09419-valuaciones-2/"
+	},
+	{
+		"codigo": "IAG25-gestionimpacto",
+		"nombre": "Gestión de Proyectos e Impacto Ambiental",
+		"correlativas": ["IAG25-sig", "IAG25-orgseg"],
+		"RTF": 5,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09420-gestion-de-proyectos-e-impacto-ambiental/"
+	},
+
+	{
+		"codigo": "IAG25-ordenamiento",
+		"nombre": "Ordenamiento Territorial",
+		"correlativas": ["IAG25-sig", "IAG25-catastro"],
+		"RTF": 12,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09422-ordenamiento-territorial/"
+	},
+	{
+		"codigo": "IAG25-estudiotrazados",
+		"nombre": "Estudio y Trazados Especiales",
+		"correlativas": ["IAG25-fotogrametria", "IAG25-geodesia", "IAG25-mensura"],
+		"RTF": 8,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09423-estudio-y-trazados-especiales/"
+	},
+	{
+		"codigo": "IAG25-PPS",
+		"nombre": "Práctica Profesional Supervisada",
+		"correlativas": ["IAG25-mensura", "IAG25-catastro"],
+		"RTF": 7,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-agrimensura/10-09421-practica-profesional-supervisada/"
+	},
+
+	{
+		"codigo": "IAG25-trabajofinal",
+		"nombre": "Trabajo Final",
+		"correlativas": [
+			"IAG25-AmbUniv",
+			"IAG25-mat",
+			"IAG25-fyq",
+			"IAG25-introing",
+			"IAG25-am1",
+			"IAG25-economia",
+			"IAG25-agrgeom",
+			"IAG25-algebra",
+			"IAG25-f1",
+			"IAG25-representacion",
+			"IAG25-construccion",
+			"IAG25-am2",
+			"IAG25-pye",
+			"IAG25-topo1",
+			"IAG25-inforural",
+			"IAG25-f2",
+			"IAG25-cycn",
+			"IAG25-topo2",
+			"IAG25-geofisica",
+			"IAG25-agrlegal1",
+			"IAG25-cartografia",
+			"IAG25-fotointel",
+			"IAG25-ingles",
+			"IAG25-agrlegal2",
+			"IAG25-geodesia",
+			"IAG25-fotogrametria",
+			"IAG25-orgseg",
+			"IAG25-agrlegal3",
+			"IAG25-sig",
+			"IAG25-catastro",
+			"IAG25-valuaciones1",
+			"IAG25-mensura",
+			"IAG25-georef",
+			"IAG25-valuaciones2",
+			"IAG25-gestionimpacto",
+			"IAG25-ordenamiento",
+			"IAG25-estudiotrazados",
+			"IAG25-PPS"
+		],
+		"RTF": 10,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-agrimensura/10-09424-trabajo-final/"
+	}
+]

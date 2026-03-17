@@ -1,0 +1,120 @@
+Ingeniería en Agrimensura
+
+
+        Plan de Correlatividades
+
+  Escuela de Ingeniería en Agrimensura
+‭|‬
+
+
+
+
+  ‭ abla‬ ‭2:‬ ‭Correlatividades‬ ‭correspondientes‬ ‭al‬ ‭Plan‬ ‭2025‬ ‭de‬
+  T
+  ‭Ingeniería en Agrimensura.‬
+
+‭AÑO‬        ‭SEMESTRE‬                   ‭ASIGNATURA‬                                ‭CORRELATIVA/S‬
+                           ‭Matemática‬                                                   ‭--------------‬
+‭CINEU‬         ‭CINEU‬    ‭Física y Química‬                                             ‭--------------‬
+                           ‭Ambientación Universitaria‬                                   ‭--------------‬
+                           ‭Introducción a la Ingeniería‬              ‭Ambientación Universitaria‬
+                           ‭Análisis Matemático 1‬                     ‭Matemática‬
+                  ‭1‬
+                           ‭Economía‬                                  ‭Matemática‬
+                           ‭Agrimensura y Geometría Territorial‬                            ‭-------------‬
+      ‭1‬                  ‭Algebra Lineal‬                            ‭Matemática‬
+                                                                       ‭Física y Química‬
+                           ‭Física 1‬
+                  ‭2‬                                                  ‭Análisis Matemático 1‬
+                           ‭Sistemas de Representación‬                                     ‭-------------‬
+                           ‭Elementos de la Construcción‬              ‭Economía‬
+                                                                       ‭Análisis Matemático 1‬
+                           ‭Análisis Matemático 2‬
+                                                                       ‭Algebra Lineal‬
+                           ‭Probabilidad y Estadística‬                ‭Análisis Matemático 1‬
+                  ‭3‬                                                  ‭Agrimensura y Geometría Territorial‬
+                           ‭Topografía 1 y Teoría de Errores‬
+                                                                       ‭Sistemas de Representación‬
+                                                                       ‭Economía‬
+                           ‭Información Rural y Agrológica‬
+                                                                       ‭Agrimensura y Geometría Territorial‬
+      ‭2‬
+                                                                       ‭Física 1‬
+                           ‭Física 2‬
+                                                                       ‭Álgebra Lineal‬
+                                                                       ‭Análisis Matemático 1‬
+                           ‭Computación y Cálculo Numérico‬
+                  ‭4‬                                                  ‭Algebra Lineal‬
+                                                                       ‭Probabilidad y Estadística‬
+                           ‭Topografía 2 e Hidrografía‬
+                                                                       ‭Topografía 1 y Teoría de Errores‬
+                           ‭Geografía Física‬                          ‭Agrimensura y Geometría Territorial‬
+                           ‭Agrimensura Legal 1‬                       ‭Agrimensura y Geometría Territorial‬
+                           ‭Diseño Cartográfico y Cartografía‬         ‭Topografía 2 e Hidrografía‬
+                  ‭5‬
+                           ‭Fotointerpretación y Teledetección‬        ‭Geografía Física‬
+                           ‭Módulo de Inglés‬                          ‭10 asignaturas‬
+                           ‭Agrimensura Legal 2‬                       ‭Agrimensura Legal 1‬
+      ‭3‬
+                                                                       ‭Computación y Cálculo Numérico‬
+                           ‭Geodesia‬
+                                                                       ‭Topografía 2 e Hidrografía‬
+                  ‭6‬
+                                                                       ‭Física 2‬
+                           ‭Fotogrametría‬
+                                                                       ‭Fotointerpretación y Teledetección‬
+
+                                                                            IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                            página 3 de 22
+‭|‬
+
+
+
+
+                           ‭ rganización Industrial y Seguridad‬
+                           O
+                                                                       ‭Elementos de la Construcción‬
+                           ‭Laboral‬
+                            ‭Agrimensura Legal 3‬                      ‭Agrimensura Legal 2‬
+                                                                       ‭Agrimensura Legal 2‬
+                           ‭Catastro‬
+                                                                       ‭Diseño Cartográfico y Cartografía‬
+                                                                       ‭Diseño Cartográfico y Cartografía‬
+                  ‭7‬      ‭Sistemas de Información Geográfica‬
+                                                                       ‭Fotogrametría‬
+                                                                       ‭Información Rural y Agrológica‬
+                           ‭Valuaciones 1‬                             ‭Elementos de la Construcción‬
+      ‭4‬                                                              ‭Probabilidad y Estadística‬
+                           ‭ eorreferenciación y Límites‬
+                           G                                           ‭Geodesia‬
+                           ‭Territoriales‬                             ‭Agrimensura Legal 3‬
+                           ‭Mensura‬                                   ‭Agrimensura Legal 3‬
+                  ‭8‬                                                  ‭Catastro‬
+                           ‭Valuaciones 2‬
+                                                                       ‭Valuaciones 1‬
+                           ‭ estión de Proyectos e Impacto‬
+                           G                                           ‭Sistemas de Información Geográfica‬
+                           ‭Ambiental‬                                 ‭Organización Industrial y Seguridad Laboral‬
+                                                                       ‭Sistemas de Información Geográfica‬
+                           ‭Ordenamiento Territorial‬
+                                                                       ‭Catastro‬
+                                                                       ‭Fotogrametría‬
+                  ‭9‬      ‭Estudio y Trazados Especiales‬
+      ‭5‬                                                              ‭Geodesia‬
+                                                                       ‭Mensura‬
+                           ‭Práctica Profesional Supervisada‬
+                                                                       ‭Catastro‬
+                 ‭10º‬     ‭Trabajo Final‬                             ‭Todas las asignaturas‬
+
+
+
+
+                                                                            IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                            página 4 de 22
+
