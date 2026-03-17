@@ -1,1 +1,380 @@
-[]
+[
+	{
+		"codigo": "IC25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04050-ambientacion-universitaria/"
+	},
+	{
+		"codigo": "IC25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04052-fisica-y-quimica/"
+	},
+	{
+		"codigo": "IC25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04051-matematica/"
+	},
+
+	{
+		"codigo": "IC25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["IC25-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04053-analisis-matematico-1/"
+	},
+	{
+		"codigo": "IC25-quimica",
+		"nombre": "Química",
+		"correlativas": ["IC25-mat", "IC25-fyq"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/departamento-de-quimica/10-04057-quimica/"
+	},
+	{
+		"codigo": "IC25-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IC25-AmbUniv"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04054-introduccion-a-la-ingenieria/"
+	},
+	{
+		"codigo": "IC25-economia",
+		"nombre": "Economía",
+		"correlativas": ["IC25-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-04065-economia/"
+	},
+
+	{
+		"codigo": "IC25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IC25-mat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04059-algebra-lineal/"
+	},
+	{
+		"codigo": "IC25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["IC25-am1", "IC25-fyq"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04060-fisica-1/"
+	},
+	{
+		"codigo": "IC25-representacion",
+		"nombre": "Sistemas de Representación",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-04056-sistemas-de-representacion/"
+	},
+	{
+		"codigo": "IC25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 5
+		},
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04066-modulo-de-ingles/"
+	},
+
+	{
+		"codigo": "IC25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["IC25-am1", "IC25-algebra"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04063-analisis-matematico-2/"
+	},
+	{
+		"codigo": "IC25-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IC25-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04062-probabilidad-y-estadistica/"
+	},
+	{
+		"codigo": "IC25-estatica",
+		"nombre": "Estática",
+		"correlativas": ["IC25-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09000-estatica/"
+	},
+	{
+		"codigo": "IC25-topobas",
+		"nombre": "Topografía Básica",
+		"correlativas": ["IC25-mat", "IC25-representacion"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09001-topografia-basica/"
+	},
+
+	{
+		"codigo": "IC25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["IC25-f1", "IC25-algebra"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04067-fisica-2/"
+	},
+	{
+		"codigo": "IC25-cycn",
+		"nombre": "Computación y Cálculo Numérico",
+		"correlativas": ["IC25-am1", "IC25-algebra"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-04072-computacion-y-calculo-numerico/"
+	},
+	{
+		"codigo": "IC25-mecestr",
+		"nombre": "Mecánica de las Estructuras",
+		"correlativas": ["IC25-estatica", "IC25-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09002-mecanica-de-las-estructuras/"
+	},
+	{
+		"codigo": "IC25-topoap",
+		"nombre": "Topografía Aplicada",
+		"correlativas": ["IC25-topobas"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09003-topografia-aplicada/"
+	},
+
+	{
+		"codigo": "IC25-ingeogeot",
+		"nombre": "Ingeniería Geológica y Geotécnica",
+		"correlativas": ["IC25-fyq"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09004-ingenieria-geologica-y-geotecnica/"
+	},
+	{
+		"codigo": "IC25-potransp",
+		"nombre": "Planificación y Operación del Transporte",
+		"correlativas": ["IC25-pye", "IC25-economia"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09005-planificacion-y-operacion-del-transporte/"
+	},
+	{
+		"codigo": "IC25-tecmat",
+		"nombre": "Tecnología de los Materiales",
+		"correlativas": ["IC25-estatica", "IC25-quimica", "IC25-f1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09006-tecnologia-de-los-materiales/"
+	},
+	{
+		"codigo": "IC25-fluidos",
+		"nombre": "Mecánica de los Fluidos",
+		"correlativas": ["IC25-am2"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/departamento-de-hidraulica/10-09007-mecanica-de-los-fluidos/"
+	},
+
+	{
+		"codigo": "IC25-teccons",
+		"nombre": "Tecnología de la Construcción",
+		"correlativas": ["IC25-representacion", "IC25-tecmat"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09008-tecnologia-de-la-construccion/"
+	},
+	{
+		"codigo": "IC25-anaestr",
+		"nombre": "Análisis Estructural",
+		"correlativas": ["IC25-mecestr"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09009-analisis-estructural/"
+	},
+	{
+		"codigo": "IC25-mecsuelos",
+		"nombre": "Mecánica de Suelos y Rocas",
+		"correlativas": ["IC25-estatica", "IC25-ingeogeot"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09010-mecanica-de-suelos-y-rocas/"
+	},
+	{
+		"codigo": "IC25-instsyel",
+		"nombre": "Instalaciones Sanitarias y Eléctricas",
+		"correlativas": ["IC25-f2"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09011-instalaciones-sanitarias-y-electricas/"
+	},
+
+	{
+		"codigo": "IC25-hidrologia",
+		"nombre": "Hidrología y Procesos Hidráulicos",
+		"correlativas": ["IC25-ingeogeot", "IC25-fluidos"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/departamento-de-hidraulica/10-09012-hidrologia-y-procesos-hidraulicos/"
+	},
+	{
+		"codigo": "IC25-instgasterm",
+		"nombre": "Instalaciones de Gas y Termomecánicas",
+		"correlativas": ["IC25-quimica", "IC25-instsyel"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09013-instalaciones-de-gas-y-termomecanicas/"
+	},
+	{
+		"codigo": "IC25-inggestamb",
+		"nombre": "Ingeniería y Gestión Ambiental",
+		"correlativas": ["IC25-quimica", "IC25-fluidos"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/departamento-de-produccion-gestion-y-medioambiente/10-09014-ingenieria-y-gestion-ambiental/"
+	},
+	{
+		"codigo": "IC25-disarq",
+		"nombre": "Diseño Arquitectónico",
+		"correlativas": ["IC25-teccons"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09015-diseno-arquitectonico/"
+	},
+	{
+		"codigo": "IC25-elastlam",
+		"nombre": "Elasticidad y Estructuras Laminares",
+		"correlativas": ["IC25-anaestr"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09016-elasticidad-y-estructuras-laminares/"
+	},
+
+	{
+		"codigo": "IC25-disinftransp",
+		"nombre": "Diseño de Infraestructura del Transporte",
+		"correlativas": ["IC25-potransp", "IC25-hidrologia", "IC25-topoap"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09017-diseno-de-infraestructura-del-transporte/"
+	},
+	{
+		"codigo": "IC25-hormigon",
+		"nombre": "Hormigón Armado y Pretensado",
+		"correlativas": ["IC25-mecestr", "IC25-tecmat"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09018-hormigon-armado-y-pretensado/"
+	},
+	{
+		"codigo": "IC25-estmetmadera",
+		"nombre": "Estructuras Metálicas y de Madera",
+		"correlativas": ["IC25-anaestr"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09019-estructuras-metalicas-y-de-madera/"
+	},
+	{
+		"codigo": "IC25-inglegetica",
+		"nombre": "Ingeniería Legal y Ética",
+		"correlativas": ["IC25-disarq", "IC25-introing"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09020-ingenieria-legal-y-etica/"
+	},
+
+	{
+		"codigo": "IC25-consinftransp",
+		"nombre": "Construcción de Infraestructura del Transporte",
+		"correlativas": ["IC25-disinftransp"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09021-construccion-de-infraestructura-del-transporte/"
+	},
+	{
+		"codigo": "IC25-ingsanitaria",
+		"nombre": "Ingeniería Sanitaria",
+		"correlativas": ["IC25-quimica", "IC25-hidrologia"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/departamento-de-hidraulica/10-09022-ingenieria-sanitaria/"
+	},
+	{
+		"codigo": "IC25-cimentaciones",
+		"nombre": "Cimentaciones y Obras Geotécnicas",
+		"correlativas": ["IC25-mecsuelos", "IC25-hormigon"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09023-cimentaciones-y-obras-geotecnicas/"
+	},
+	{
+		"codigo": "IC25-pdov",
+		"nombre": "Proyecto, Dirección de Obras y Valuaciones",
+		"correlativas": ["IC25-economia", "IC25-inglegetica"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09024-proyecto-direccion-de-obras-y-valuaciones/"
+	},
+
+	{
+		"codigo": "IC25-disestructuras",
+		"nombre": "Diseño de Estructuras",
+		"correlativas": ["IC25-anaestr", "IC25-hormigon"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09025-diseno-de-estructuras/"
+	},
+	{
+		"codigo": "IC25-obrashid",
+		"nombre": "Obras Hidráulicas",
+		"correlativas": ["IC25-hidrologia", "IC25-mecsuelos"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/hidraulica/departamento-de-hidraulica/10-09026-obras-hidraulicas/"
+	},
+	{
+		"codigo": "IC25-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": ["IC25-teccons", "IC25-inglegetica"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09027-higiene-y-seguridad/"
+	},
+	{
+		"codigo": "IC25-planeamiento",
+		"nombre": "Planeamiento y Urbanismo",
+		"correlativas": ["IC25-disarq", "IC25-potransp"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09028-planeamiento-y-urbanismo/"
+	},
+	{
+		"codigo": "IC25-practica",
+		"nombre": "Práctica Supervisada",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 39
+		},
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	}
+]
