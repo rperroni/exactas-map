@@ -1,1 +1,258 @@
-[]
+[
+	{
+		"codigo": "CONS25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 1,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04050-ambientacion-universitaria/"
+	},
+	{
+		"codigo": "CONS25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04052-fisica-y-quimica/"
+	},
+	{
+		"codigo": "CONS25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 3,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04051-matematica/"
+	},
+
+	{
+		"codigo": "CONS25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["CONS25-mat"],
+		"RTF": 7,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04053-analisis-matematico-1/"
+	},
+	{
+		"codigo": "CONS25-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["CONS25-AmbUniv"],
+		"RTF": 3,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04054-introduccion-a-la-ingenieria/"
+	},
+	{
+		"codigo": "CONS25-quimica",
+		"nombre": "Química",
+		"correlativas": ["CONS25-mat", "CONS25-fyq"],
+		"RTF": 5,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/departamento-de-quimica/10-04057-quimica/"
+	},
+	{
+		"codigo": "CONS25-economia",
+		"nombre": "Economía",
+		"correlativas": ["CONS25-mat"],
+		"RTF": 5,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-04065-economia/"
+	},
+
+	{
+		"codigo": "CONS25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["CONS25-mat"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04059-algebra-lineal/"
+	},
+	{
+		"codigo": "CONS25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["CONS25-fyq", "CONS25-am1"],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04060-fisica-1/"
+	},
+	{
+		"codigo": "CONS25-representacion",
+		"nombre": "Sistemas de Representación",
+		"correlativas": [],
+		"RTF": 7,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-04056-sistemas-de-representacion/"
+	},
+	{
+		"codigo": "CONS25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 5
+		},
+		"RTF": 3,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04066-modulo-de-ingles/"
+	},
+
+	{
+		"codigo": "CONS25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["CONS25-am1", "CONS25-algebra"],
+		"RTF": 7,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04063-analisis-matematico-2/"
+	},
+	{
+		"codigo": "CONS25-tecmat",
+		"nombre": "Tecnología de los Materiales",
+		"correlativas": ["CONS25-f1", "CONS25-quimica"],
+		"RTF": 8,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09006-tecnologia-de-los-materiales/"
+	},
+	{
+		"codigo": "CONS25-estatica",
+		"nombre": "Estática",
+		"correlativas": ["CONS25-f1"],
+		"RTF": 8,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09000-estatica/"
+	},
+
+	{
+		"codigo": "CONS25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["CONS25-f1", "CONS25-algebra"],
+		"RTF": 7,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04067-fisica-2/"
+	},
+	{
+		"codigo": "CONS25-mecestr",
+		"nombre": "Mecánica de las Estructuras",
+		"correlativas": ["CONS25-estatica", "CONS25-am2"],
+		"RTF": 8,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09002-mecanica-de-las-estructuras/"
+	},
+	{
+		"codigo": "CONS25-teccons",
+		"nombre": "Tecnología de la Construcción",
+		"correlativas": ["CONS25-representacion", "CONS25-tecmat"],
+		"RTF": 9.5,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09008-tecnologia-de-la-construccion/"
+	},
+
+	{
+		"codigo": "CONS25-topobas",
+		"nombre": "Topografía Básica",
+		"correlativas": ["CONS25-mat", "CONS25-representacion"],
+		"RTF": 8,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/agrimensura/departamento-de-agrimensura/10-09001-topografia-basica/"
+	},
+	{
+		"codigo": "CONS25-disarq",
+		"nombre": "Diseño Arquitectónico",
+		"correlativas": ["CONS25-teccons"],
+		"RTF": 9.5,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09015-diseno-arquitectonico/"
+	},
+	{
+		"codigo": "CONS25-tecconstruct",
+		"nombre": "Técnicas Constructivas",
+		"correlativas": ["CONS25-teccons"],
+		"RTF": 12,
+		"semestre": 5,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "CONS25-instsyel",
+		"nombre": "Instalaciones Sanitarias y Eléctricas",
+		"correlativas": ["CONS25-f2"],
+		"RTF": 7,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09011-instalaciones-sanitarias-y-electricas/"
+	},
+	{
+		"codigo": "CONS25-hormigon",
+		"nombre": "Hormigón Armado y Pretensado",
+		"correlativas": ["CONS25-mecestr", "CONS25-tecmat"],
+		"RTF": 7,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09018-hormigon-armado-y-pretensado/"
+	},
+	{
+		"codigo": "CONS25-tecplanobra",
+		"nombre": "Técnicas y Planificación de Obra",
+		"correlativas": ["CONS25-tecconstruct"],
+		"RTF": 12,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "CONS25-inglegetica",
+		"nombre": "Ingeniería Legal y Ética",
+		"correlativas": ["CONS25-teccons", "CONS25-disarq"],
+		"RTF": 5,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09020-ingenieria-legal-y-etica/"
+	},
+
+	{
+		"codigo": "CONS25-fundaciones",
+		"nombre": "Fundaciones",
+		"correlativas": ["CONS25-hormigon"],
+		"RTF": 16,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "CONS25-instgasterm",
+		"nombre": "Instalaciones de Gas y Termomecánicas",
+		"correlativas": ["CONS25-quimica", "CONS25-instsyel"],
+		"RTF": 7,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/construcciones-civiles/departamento-de-construcciones-civiles/10-09013-instalaciones-de-gas-y-termomecanicas/"
+	},
+	{
+		"codigo": "CONS25-pdov",
+		"nombre": "Proyecto, Dirección de Obras y Valuaciones",
+		"correlativas": ["CONS25-economia", "CONS25-inglegetica"],
+		"RTF": 6.5,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09024-proyecto-direccion-de-obras-y-valuaciones/"
+	},
+
+	{
+		"codigo": "CONS25-disestruct",
+		"nombre": "Diseño Estructural",
+		"correlativas": ["CONS25-hormigon"],
+		"RTF": 16,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/estructuras/departamento-de-estructuras/10-09025-diseno-de-estructuras/"
+	},
+	{
+		"codigo": "CONS25-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": ["CONS25-teccons"],
+		"RTF": 3.5,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-09027-higiene-y-seguridad/"
+	},
+	{
+		"codigo": "CONS25-practica",
+		"nombre": "Práctica Supervisada",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 25
+		},
+		"RTF": 32,
+		"semestre": 8,
+		"programa_url": ""
+	}
+]
