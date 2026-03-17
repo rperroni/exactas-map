@@ -1,1 +1,597 @@
-[]
+[
+	{
+		"codigo": "IAE05-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-fisica",
+		"nombre": "Física",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-ambuniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-intromat",
+		"nombre": "Introducción a la Matemática",
+		"correlativas": ["IAE05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-informatica",
+		"nombre": "Informática",
+		"correlativas": ["IAE05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-quimicaap",
+		"nombre": "Química Aplicada",
+		"correlativas": ["IAE05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-repingenieria",
+		"nombre": "Sistemas de Representación en Ingeniería",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-introing",
+		"nombre": "Introducción a la Ingeniería",
+		"correlativas": ["IAE05-ambuniv"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-am1",
+		"nombre": "Análisis Matemático I",
+		"correlativas": ["IAE05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-f1",
+		"nombre": "Física I",
+		"correlativas": ["IAE05-fisica", "IAE05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IAE05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-repasistida",
+		"nombre": "Representación Asistida",
+		"correlativas": ["IAE05-repingenieria"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-am2",
+		"nombre": "Análisis Matemático II",
+		"correlativas": ["IAE05-am1", "IAE05-algebra"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-f2",
+		"nombre": "Física II",
+		"correlativas": ["IAE05-am1", "IAE05-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-estructurasiso",
+		"nombre": "Estructuras Isostáticas",
+		"correlativas": ["IAE05-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-materiales1",
+		"nombre": "Materiales I",
+		"correlativas": ["IAE05-f1", "IAE05-quimicaap"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-dibujotecnico",
+		"nombre": "Dibujo Técnico",
+		"correlativas": ["IAE05-repasistida"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-mecestructuras",
+		"nombre": "Mecánica de las Estructuras",
+		"correlativas": ["IAE05-estructurasiso"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-am3",
+		"nombre": "Análisis Matemático III",
+		"correlativas": ["IAE05-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-termodinamica",
+		"nombre": "Termodinámica",
+		"correlativas": ["IAE05-f1", "IAE05-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-materiales2",
+		"nombre": "Materiales II",
+		"correlativas": ["IAE05-materiales1"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IAE05-am1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-metodosnum",
+		"nombre": "Métodos Numéricos",
+		"correlativas": ["IAE05-am1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-modingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-electrotecnia",
+		"nombre": "Electrotecnia y Electricidad",
+		"correlativas": ["IAE05-f2"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-mecanicaracional",
+		"nombre": "Mecánica Racional",
+		"correlativas": ["IAE05-f1", "IAE05-am3"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-control",
+		"nombre": "Teoría del Control",
+		"correlativas": ["IAE05-mecanicaracional"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-aerogeneral",
+		"nombre": "Aeronáutica General",
+		"correlativas": ["IAE05-termodinamica"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-fluidos",
+		"nombre": "Mecánica de los Fluidos",
+		"correlativas": ["IAE05-termodinamica"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-mecanismos",
+		"nombre": "Mecanismo y Elementos de Máquinas",
+		"correlativas": ["IAE05-mecestructuras"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-tecmec1",
+		"nombre": "Tecnología Mecánica I",
+		"correlativas": ["IAE05-materiales2"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-calestr1",
+		"nombre": "Cálculo Estructural I",
+		"correlativas": ["IAE05-mecestructuras"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-dingases1",
+		"nombre": "Dinámica de los Gases I",
+		"correlativas": ["IAE05-fluidos"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-aerodinamica1",
+		"nombre": "Aerodinámica I",
+		"correlativas": ["IAE05-fluidos"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-tecmec2",
+		"nombre": "Tecnología Mecánica II",
+		"correlativas": ["IAE05-tecmec1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-seminarios",
+		"nombre": "Seminarios de Aeronáutica y Aeropuertos",
+		"correlativas": ["IAE05-aerogeneral"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-propulsion",
+		"nombre": "Propulsión",
+		"correlativas": ["IAE05-aerogeneral"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-avionica",
+		"nombre": "Instrumentos y Aviónica",
+		"correlativas": ["IAE05-aerodinamica1"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-calestr2",
+		"nombre": "Cálculo Estructural II",
+		"correlativas": ["IAE05-calestr1"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-mecvuelo1",
+		"nombre": "Mecánica del Vuelo I",
+		"correlativas": ["IAE05-aerodinamica1"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-calestr3",
+		"nombre": "Cálculo Estructural III",
+		"correlativas": ["IAE05-calestr2"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-pps",
+		"nombre": "Práctica Profesional Supervisada",
+		"correlativas": [],
+        "condiciones": {
+        "tipo": "minAprobadas",
+        "cantidad": 32
+        },
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-mecanica-aeronautica/practica-profesional-supervisada-1/"
+	},
+	{
+		"codigo": "IAE05-sistemasavion",
+		"nombre": "Sistemas y Equipos del Avión",
+		"correlativas": ["IAE05-aerogeneral"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-econproduccion",
+		"nombre": "Economía y Producción Industrial",
+		"correlativas": ["IAE05-tecmec2"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-proyectoint",
+		"nombre": "Proyecto Integrador",
+		"correlativas": [],
+        "condiciones": {
+        "tipo": "minAprobadas",
+        "cantidad": 32
+        },
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-mecanica-aeronautica/proyecto-integrador-3/"
+	},
+
+	{
+		"codigo": "IAE05-construccionav",
+		"nombre": "Construcción de Aviones",
+		"correlativas": ["IAE05-calestr3"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-legetica",
+		"nombre": "Legislación y Ética Profesional",
+		"correlativas": ["IAE05-seminarios"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-seghigamb",
+		"nombre": "Seguridad Industrial y Ambiental e Higiene",
+		"correlativas": ["IAE05-econproduccion"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+    	{
+		"codigo": "IAE05-opt-optativa1",
+		"nombre": "Optativa I",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-optativa2",
+		"nombre": "Optativa II",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-optativa3",
+		"nombre": "Optativa III",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-optativa4",
+		"nombre": "Optativa IV",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAE05-opt-emprendedorismo",
+		"nombre": "Emprendedorismo Tecnológico",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-portugues",
+		"nombre": "Módulo de Portugués",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-dinmecsis",
+		"nombre": "Dinámica de los Sistemas Mecánicos",
+		"correlativas": ["IAE05-calestr2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-labaerodinamica",
+		"nombre": "Laboratorio de Aerodinámica",
+		"correlativas": ["IAE05-aerodinamica1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-ensayovuelo",
+		"nombre": "Ensayos en Vuelo",
+		"correlativas": ["IAE05-aerodinamica1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-proyaviones",
+		"nombre": "Proyecto de Aviones",
+		"correlativas": ["IAE05-aerogeneral", "IAE05-calestr2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-mantaeronaves",
+		"nombre": "Mantenimiento de Aeronaves",
+		"correlativas": ["IAE05-aerogeneral"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-metodosnum2",
+		"nombre": "Métodos Numéricos II",
+		"correlativas": ["IAE05-informatica", "IAE05-metodosnum"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-end",
+		"nombre": "Ensayos No Destructivos",
+		"correlativas": ["IAE05-tecmec1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-motoresaviacion",
+		"nombre": "Motores de Aviación",
+		"correlativas": ["IAE05-propulsion"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-vibracionesaleat",
+		"nombre": "Vibraciones Aleatorias",
+		"correlativas": ["IAE05-calestr2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-mecvuelo2",
+		"nombre": "Mecánica del Vuelo II",
+		"correlativas": ["IAE05-mecvuelo1", "IAE05-propulsion"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-dingases2",
+		"nombre": "Dinámica de los Gases II",
+		"correlativas": ["IAE05-dingases1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-aerodinamica2",
+		"nombre": "Aerodinámica II",
+		"correlativas": ["IAE05-aerodinamica1", "IAE05-metodosnum"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-sistemasespaciales",
+		"nombre": "Sistemas Espaciales",
+		"correlativas": ["IAE05-control", "IAE05-tecmec2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-simulacionvuelo",
+		"nombre": "Simulación de Vuelo",
+		"correlativas": ["IAE05-mecvuelo1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-epistemologia",
+		"nombre": "Problemas Epistemológicos e Historia de la Ciencia y de la Técnica",
+		"correlativas": ["IAE05-introing", "IAE05-seminarios"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-progcientifica",
+		"nombre": "Programación Científica",
+		"correlativas": ["IAE05-informatica", "IAE05-metodosnum"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-ingasistida",
+		"nombre": "Ingeniería Asistida",
+		"correlativas": ["IAE05-tecmec2"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAE05-opt-mfc",
+		"nombre": "Mecánica de Fluidos Computacional",
+		"correlativas": ["IAE05-metodosnum", "IAE05-dingases1"],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	}
+]
