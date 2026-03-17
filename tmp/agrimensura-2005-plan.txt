@@ -1,0 +1,696 @@
+                                 Reporte de Plan de Estudios - (24105) - 24105
+                                                       Detalles de correlativas
+
+
+
+
+RAíZ DEL PLAN 24105
+
+SELECTIVA NO OBLIGATORIA
+
+ 1. (10-04022) - EMPRENDEDORISMO TECNOLOGICO
+
+             Sin Correlativas
+
+
+PLAN BASICO
+
+ AGRIMENSURA (1 CUATR.) PLAN 05 V1
+
+  1. (10-04002) - INTRODUCCION A LA MATEMATICA
+
+              1.1. Correlativas para Cursar
+
+                                1.1.1. Opcion 1
+
+                                                  1.1.1.1. MATEMATICA - Aprobada
+
+              1.2. Correlativas para Rendir
+
+                                1.2.1. Opcion 1
+
+                                                  1.2.1.1. MATEMATICA - Aprobada
+
+
+
+  2. (10-04003) - INFORMATICA
+
+              2.1. Correlativas para Cursar
+
+                                2.1.1. Opcion 1
+
+                                                  2.1.1.1. MATEMATICA - Aprobada
+
+              2.2. Correlativas para Rendir
+
+                                2.2.1. Opcion 1
+
+                                                  2.2.1.1. MATEMATICA - Aprobada
+
+
+
+  3. (10-06001) - INTRODUCCION A LA AGRIMENSURA Y A LA ETICA
+
+              3.1. Correlativas para Cursar
+
+                                3.1.1. Opcion 1
+
+                                                  3.1.1.1. AMBIENTACION UNIVERSITARIA - Aprobada
+
+              3.2. Correlativas para Rendir
+
+                                3.2.1. Opcion 1
+
+                                                  3.2.1.1. AMBIENTACION UNIVERSITARIA - Aprobada
+
+
+
+                                                                                                   Pág. 1 de 10
+                                  Reporte de Plan de Estudios - (24105) - 24105
+                                                        Detalles de correlativas
+
+
+
+
+4. (10-06002) - REPRESENTACION GRAFICA
+
+              Sin Correlativas
+
+
+AGRIMENSURA (2 CUATR.) PLAN 05 V2
+
+1. (10-04004) - ANALISIS MATEMATICO I
+
+              1.1. Correlativas para Cursar
+
+                                 1.1.1. Opcion 1
+
+                                                   1.1.1.1. INTRODUCCION A LA MATEMATICA - Regularizada
+
+              1.2. Correlativas para Rendir
+
+                                 1.2.1. Opcion 1
+
+                                                   1.2.1.1. INTRODUCCION A LA MATEMATICA - Aprobada
+
+
+
+2. (10-04005) - FISICA I
+
+              2.1. Correlativas para Cursar
+
+                                 2.1.1. Opcion 1
+
+                                                   2.1.1.1. FISICA - Aprobada
+
+              2.2. Correlativas para Rendir
+
+                                 2.2.1. Opcion 1
+
+                                                   2.2.1.1. FISICA - Aprobada
+
+
+
+3. (10-04006) - QUIMICA APLICADA
+
+              3.1. Correlativas para Cursar
+
+                                 3.1.1. Opcion 1
+
+                                                   3.1.1.1. MATEMATICA - Aprobada
+
+              3.2. Correlativas para Rendir
+
+                                 3.2.1. Opcion 1
+
+                                                   3.2.1.1. MATEMATICA - Aprobada
+
+
+
+4. (10-04007) - ALGEBRA LINEAL
+
+              4.1. Correlativas para Cursar
+
+                                 4.1.1. Opcion 1
+
+                                                   4.1.1.1. INTRODUCCION A LA MATEMATICA - Regularizada
+
+              4.2. Correlativas para Rendir
+
+                                                                                                          Pág. 2 de 10
+                               Reporte de Plan de Estudios - (24105) - 24105
+                                                     Detalles de correlativas
+
+
+
+
+                              4.2.1. Opcion 1
+
+                                                4.2.1.1. INTRODUCCION A LA MATEMATICA - Aprobada
+
+
+
+5. (10-06003) - REPRESENTACION ASISTIDA
+
+              5.1. Correlativas para Cursar
+
+                              5.1.1. Opcion 1
+
+                                                5.1.1.1. INFORMATICA - Regularizada
+                                                5.1.1.2. REPRESENTACION GRAFICA - Regularizada
+
+              5.2. Correlativas para Rendir
+
+                              5.2.1. Opcion 1
+
+                                                5.2.1.1. INFORMATICA - Aprobada
+                                                5.2.1.2. REPRESENTACION GRAFICA - Aprobada
+
+
+AGRIMENSURA (3 CUATR.) PLAN 05 V1
+
+1. (10-04008) - ANALISIS MATEMATICO II
+
+              1.1. Correlativas para Cursar
+
+                              1.1.1. Opcion 1
+
+                                                1.1.1.1. ANALISIS MATEMATICO I - Regularizada
+
+              1.2. Correlativas para Rendir
+
+                              1.2.1. Opcion 1
+
+                                                1.2.1.1. ANALISIS MATEMATICO I - Aprobada
+
+
+
+2. (10-04009) - FISICA II
+
+              2.1. Correlativas para Cursar
+
+                              2.1.1. Opcion 1
+
+                                                2.1.1.1. ANALISIS MATEMATICO I - Regularizada
+                                                2.1.1.2. FISICA I - Regularizada
+
+              2.2. Correlativas para Rendir
+
+                              2.2.1. Opcion 1
+
+                                                2.2.1.1. ANALISIS MATEMATICO I - Aprobada
+                                                2.2.1.2. FISICA I - Aprobada
+
+
+
+3. (10-04010) - PROBABILIDAD Y ESTADISTICA
+
+              3.1. Correlativas para Cursar
+
+                              3.1.1. Opcion 1
+
+                                                3.1.1.1. ANALISIS MATEMATICO I - Regularizada
+
+                                                                                                   Pág. 3 de 10
+                             Reporte de Plan de Estudios - (24105) - 24105
+                                                   Detalles de correlativas
+
+
+
+
+            3.2. Correlativas para Rendir
+
+                            3.2.1. Opcion 1
+
+                                              3.2.1.1. ANALISIS MATEMATICO I - Aprobada
+
+
+
+4. (10-06004) - AGRIMENSURA LEGAL I
+
+            4.1. Correlativas para Cursar
+
+                            4.1.1. Opcion 1
+
+                                              4.1.1.1. INTRODUCCION A LA AGRIMENSURA Y A LA ETICA - Regularizada
+
+            4.2. Correlativas para Rendir
+
+                            4.2.1. Opcion 1
+
+                                              4.2.1.1. INTRODUCCION A LA AGRIMENSURA Y A LA ETICA - Aprobada
+
+
+AGRIMENSURA( 4 CUATR) PLAN 05 V2
+
+1. (10-06006) - TOPOGRAFIA I
+
+            1.1. Correlativas para Cursar
+
+                            1.1.1. Opcion 1
+
+                                              1.1.1.1. PROBABILIDAD Y ESTADISTICA - Regularizada
+                                              1.1.1.2. REPRESENTACION ASISTIDA - Regularizada
+
+            1.2. Correlativas para Rendir
+
+                            1.2.1. Opcion 1
+
+                                              1.2.1.1. PROBABILIDAD Y ESTADISTICA - Aprobada
+                                              1.2.1.2. REPRESENTACION ASISTIDA - Aprobada
+
+
+
+2. (10-06007) - INFORMACION AGRARIA Y PERITAJES RURALES
+
+            2.1. Correlativas para Cursar
+
+                            2.1.1. Opcion 1
+
+                                              2.1.1.1. PROBABILIDAD Y ESTADISTICA - Regularizada
+                                              2.1.1.2. INTRODUCCION A LA AGRIMENSURA Y A LA ETICA - Regularizada
+
+            2.2. Correlativas para Rendir
+
+                            2.2.1. Opcion 1
+
+                                              2.2.1.1. PROBABILIDAD Y ESTADISTICA - Aprobada
+                                              2.2.1.2. INTRODUCCION A LA AGRIMENSURA Y A LA ETICA - Aprobada
+
+
+
+3. (10-06025) - ANALISIS NUMERICO Y TEORIA DE ERRORES DE LAS MEDICIONES
+
+            3.1. Correlativas para Cursar
+
+                            3.1.1. Opcion 1
+
+                                                                                                        Pág. 4 de 10
+                             Reporte de Plan de Estudios - (24105) - 24105
+                                                   Detalles de correlativas
+
+
+
+
+                                              3.1.1.1. ANALISIS MATEMATICO I - Regularizada
+                                              3.1.1.2. ALGEBRA LINEAL - Regularizada
+                                              3.1.1.3. PROBABILIDAD Y ESTADISTICA - Regularizada
+
+            3.2. Correlativas para Rendir
+
+                            3.2.1. Opcion 1
+
+                                              3.2.1.1. ANALISIS MATEMATICO I - Aprobada
+                                              3.2.1.2. ALGEBRA LINEAL - Aprobada
+                                              3.2.1.3. PROBABILIDAD Y ESTADISTICA - Aprobada
+
+
+AGRIMENSURA (5 CUATR.) PLAN 05 V1
+
+1. (10-04013) - MODULO DE INGLES
+
+            1.1. Correlativas para Cursar
+
+                            1.1.1. Opcion 1
+
+                                              1.1.1.1. Tener n materias aprobadas -
+
+            1.2. Correlativas para Rendir
+
+                            1.2.1. Opcion 1
+
+                                              1.2.1.1. Tener n materias aprobadas -
+
+
+
+2. (10-06008) - DIBUJO TOPOGRAFICO
+
+            2.1. Correlativas para Cursar
+
+                            2.1.1. Opcion 1
+
+                                              2.1.1.1. REPRESENTACION ASISTIDA - Regularizada
+                                              2.1.1.2. TOPOGRAFIA I - Regularizada
+
+            2.2. Correlativas para Rendir
+
+                            2.2.1. Opcion 1
+
+                                              2.2.1.1. REPRESENTACION ASISTIDA - Aprobada
+                                              2.2.1.2. TOPOGRAFIA I - Aprobada
+
+
+
+3. (10-06009) - TOPOGRAFIA II E HIDROGRAFIA
+
+            3.1. Correlativas para Cursar
+
+                            3.1.1. Opcion 1
+
+                                              3.1.1.1. TOPOGRAFIA I - Regularizada
+                                              3.1.1.2. ANALISIS NUMERICO Y TEORIA DE ERRORES DE LAS MEDICIONES
+                                              - Regularizada
+
+            3.2. Correlativas para Rendir
+
+                            3.2.1. Opcion 1
+
+                                              3.2.1.1. TOPOGRAFIA I - Aprobada
+                                              3.2.1.2. ANALISIS NUMERICO Y TEORIA DE ERRORES DE LAS MEDICIONES
+                                              - Aprobada
+
+                                                                                                     Pág. 5 de 10
+                             Reporte de Plan de Estudios - (24105) - 24105
+                                                   Detalles de correlativas
+
+
+
+
+4. (10-06010) - AGRIMENSURA LEGAL II
+
+            4.1. Correlativas para Cursar
+
+                            4.1.1. Opcion 1
+
+                                              4.1.1.1. AGRIMENSURA LEGAL I - Regularizada
+
+            4.2. Correlativas para Rendir
+
+                            4.2.1. Opcion 1
+
+                                              4.2.1.1. AGRIMENSURA LEGAL I - Aprobada
+
+
+AGRIMENSURA (6 CUATR.) PLAN 05 V1
+
+1. (10-06011) - GEOGRAFIA FISICA
+
+            1.1. Correlativas para Cursar
+
+                            1.1.1. Opcion 1
+
+                                              1.1.1.1. INTRODUCCION A LA AGRIMENSURA Y A LA ETICA - Regularizada
+
+            1.2. Correlativas para Rendir
+
+                            1.2.1. Opcion 1
+
+                                              1.2.1.1. INTRODUCCION A LA AGRIMENSURA Y A LA ETICA - Aprobada
+
+
+
+2. (10-06012) - FOTOINTERPRETACION
+
+            2.1. Correlativas para Cursar
+
+                            2.1.1. Opcion 1
+
+                                              2.1.1.1. TOPOGRAFIA I - Regularizada
+                                              2.1.1.2. DIBUJO TOPOGRAFICO - Regularizada
+
+            2.2. Correlativas para Rendir
+
+                            2.2.1. Opcion 1
+
+                                              2.2.1.1. TOPOGRAFIA I - Aprobada
+                                              2.2.1.2. DIBUJO TOPOGRAFICO - Aprobada
+
+
+
+3. (10-06013) - GEODESIA I
+
+            3.1. Correlativas para Cursar
+
+                            3.1.1. Opcion 1
+
+                                              3.1.1.1. TOPOGRAFIA II E HIDROGRAFIA - Regularizada
+                                              3.1.1.2. ANALISIS NUMERICO Y TEORIA DE ERRORES DE LAS MEDICIONES
+                                              - Regularizada
+
+            3.2. Correlativas para Rendir
+
+                            3.2.1. Opcion 1
+
+                                                                                                        Pág. 6 de 10
+                              Reporte de Plan de Estudios - (24105) - 24105
+                                                    Detalles de correlativas
+
+
+
+
+                                               3.2.1.1. TOPOGRAFIA II E HIDROGRAFIA - Aprobada
+                                               3.2.1.2. ANALISIS NUMERICO Y TEORIA DE ERRORES DE LAS MEDICIONES
+                                               - Aprobada
+
+
+
+4. (10-06014) - VALUACIONES
+
+             4.1. Correlativas para Cursar
+
+                             4.1.1. Opcion 1
+
+                                               4.1.1.1. INFORMACION AGRARIA Y PERITAJES RURALES - Regularizada
+
+             4.2. Correlativas para Rendir
+
+                             4.2.1. Opcion 1
+
+                                               4.2.1.1. INFORMACION AGRARIA Y PERITAJES RURALES - Aprobada
+
+
+AGRIMENSURA (7 CUATR.) PLAN 05 V1
+
+1. (10-06015) - GEODESIA II
+
+             1.1. Correlativas para Cursar
+
+                             1.1.1. Opcion 1
+
+                                               1.1.1.1. GEODESIA I - Regularizada
+
+             1.2. Correlativas para Rendir
+
+                             1.2.1. Opcion 1
+
+                                               1.2.1.1. GEODESIA I - Aprobada
+
+
+
+2. (10-06016) - FOTOGRAMETRIA
+
+             2.1. Correlativas para Cursar
+
+                             2.1.1. Opcion 1
+
+                                               2.1.1.1. FOTOINTERPRETACION - Regularizada
+                                               2.1.1.2. GEODESIA I - Regularizada
+
+             2.2. Correlativas para Rendir
+
+                             2.2.1. Opcion 1
+
+                                               2.2.1.1. FOTOINTERPRETACION - Aprobada
+                                               2.2.1.2. GEODESIA I - Aprobada
+
+
+
+3. (10-06017) - CARTOGRAFIA
+
+             3.1. Correlativas para Cursar
+
+                             3.1.1. Opcion 1
+
+                                               3.1.1.1. DIBUJO TOPOGRAFICO - Regularizada
+                                               3.1.1.2. GEODESIA I - Regularizada
+
+             3.2. Correlativas para Rendir
+
+                                                                                                        Pág. 7 de 10
+                             Reporte de Plan de Estudios - (24105) - 24105
+                                                   Detalles de correlativas
+
+
+
+
+                            3.2.1. Opcion 1
+
+                                              3.2.1.1. DIBUJO TOPOGRAFICO - Aprobada
+                                              3.2.1.2. GEODESIA I - Aprobada
+
+
+AGRIMENSURA (CUATR. 8) PLAN 05 V1
+
+1. (10-06018) - SISTEMAS DE INFORMACION TERRITORIAL
+
+            1.1. Correlativas para Cursar
+
+                            1.1.1. Opcion 1
+
+                                              1.1.1.1. CARTOGRAFIA - Regularizada
+
+            1.2. Correlativas para Rendir
+
+                            1.2.1. Opcion 1
+
+                                              1.2.1.1. CARTOGRAFIA - Aprobada
+
+
+
+2. (10-06019) - CATASTRO
+
+            2.1. Correlativas para Cursar
+
+                            2.1.1. Opcion 1
+
+                                              2.1.1.1. AGRIMENSURA LEGAL II - Regularizada
+                                              2.1.1.2. VALUACIONES - Regularizada
+                                              2.1.1.3. CARTOGRAFIA - Regularizada
+
+            2.2. Correlativas para Rendir
+
+                            2.2.1. Opcion 1
+
+                                              2.2.1.1. AGRIMENSURA LEGAL II - Aprobada
+                                              2.2.1.2. VALUACIONES - Aprobada
+                                              2.2.1.3. CARTOGRAFIA - Aprobada
+
+
+
+3. (10-06020) - MENSURA
+
+            3.1. Correlativas para Cursar
+
+                            3.1.1. Opcion 1
+
+                                              3.1.1.1. AGRIMENSURA LEGAL II - Regularizada
+                                              3.1.1.2. CARTOGRAFIA - Regularizada
+
+            3.2. Correlativas para Rendir
+
+                            3.2.1. Opcion 1
+
+                                              3.2.1.1. AGRIMENSURA LEGAL II - Aprobada
+                                              3.2.1.2. CARTOGRAFIA - Aprobada
+
+
+AGRIMENSURA (9 CUATR.) PLAN 05 V1
+
+1. (10-06021) - PRACTICA PROFESIONAL SUPERVISADA - MENSURA
+                                                                                             Pág. 8 de 10
+                             Reporte de Plan de Estudios - (24105) - 24105
+                                                   Detalles de correlativas
+
+
+
+
+            1.1. Correlativas para Cursar
+
+                            1.1.1. Opcion 1
+
+                                              1.1.1.1. MENSURA - Regularizada
+
+            1.2. Correlativas para Rendir
+
+                            1.2.1. Opcion 1
+
+                                              1.2.1.1. MENSURA - Aprobada
+
+
+
+2. (10-06022) - ORDENAMIENTO TERRITORIAL
+
+            2.1. Correlativas para Cursar
+
+                            2.1.1. Opcion 1
+
+                                              2.1.1.1. SISTEMAS DE INFORMACION TERRITORIAL - Regularizada
+                                              2.1.1.2. CATASTRO - Regularizada
+
+            2.2. Correlativas para Rendir
+
+                            2.2.1. Opcion 1
+
+                                              2.2.1.1. SISTEMAS DE INFORMACION TERRITORIAL - Aprobada
+                                              2.2.1.2. CATASTRO - Aprobada
+
+
+
+3. (10-06023) - MEDICIONES ESPECIALES
+
+            3.1. Correlativas para Cursar
+
+                            3.1.1. Opcion 1
+
+                                              3.1.1.1. GEODESIA II - Regularizada
+                                              3.1.1.2. FOTOGRAMETRIA - Regularizada
+                                              3.1.1.3. CARTOGRAFIA - Regularizada
+
+            3.2. Correlativas para Rendir
+
+                            3.2.1. Opcion 1
+
+                                              3.2.1.1. GEODESIA II - Aprobada
+                                              3.2.1.2. FOTOGRAMETRIA - Aprobada
+                                              3.2.1.3. CARTOGRAFIA - Aprobada
+
+
+AGRIMENSURA (10 CUATR.) PLAN 05 V1
+
+1. (10-06024) - TRABAJO FINAL
+
+            1.1. Correlativas para Cursar
+
+                            1.1.1. Opcion 1
+
+                                              1.1.1.1. PRACTICA PROFESIONAL SUPERVISADA - MENSURA - Regularizada
+                                              1.1.1.2. ORDENAMIENTO TERRITORIAL - Regularizada
+                                              1.1.1.3. MEDICIONES ESPECIALES - Regularizada
+
+            1.2. Correlativas para Rendir
+
+
+                                                                                                        Pág. 9 de 10
+                                  Reporte de Plan de Estudios - (24105) - 24105
+                                                       Detalles de correlativas
+
+
+
+
+                                 1.2.1. Opcion 1
+
+                                                   1.2.1.1. PRACTICA PROFESIONAL SUPERVISADA - MENSURA - Aprobada
+                                                   1.2.1.2. ORDENAMIENTO TERRITORIAL - Aprobada
+                                                   1.2.1.3. MEDICIONES ESPECIALES - Aprobada
+
+
+CICLO DE NIVELACION
+
+ 1. (10-02001) - MATEMATICA
+
+              Sin Correlativas
+
+
+
+ 2. (10-02002) - FISICA
+
+              Sin Correlativas
+
+
+
+ 3. (10-02003) - AMBIENTACION UNIVERSITARIA
+
+              Sin Correlativas
+
+
+GENERICA NO OBLIGATORIA
+
+1. (10-06026) - REVALIDA I
+
+             Sin Correlativas
+
+
+
+
+                                                                                                          Pág. 10 de 10
+

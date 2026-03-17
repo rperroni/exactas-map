@@ -1,1 +1,317 @@
-[]
+[
+	{
+		"codigo": "IAG05-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-fisica",
+		"nombre": "Física",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-introagrim",
+		"nombre": "Introducción a la Agrimensura y a la Ética",
+		"correlativas": ["IAG05-AmbUniv"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-informatica",
+		"nombre": "Informática",
+		"correlativas": ["IAG05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-intromat",
+		"nombre": "Introducción a la Matemática",
+		"correlativas": ["IAG05-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-repgrafica",
+		"nombre": "Representación Gráfica",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-am1",
+		"nombre": "Análisis Matemático I",
+		"correlativas": ["IAG05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-f1",
+		"nombre": "Física I",
+		"correlativas": ["IAG05-fisica"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-quimicaap",
+		"nombre": "Química Aplicada",
+		"correlativas": ["IAG05-mat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IAG05-intromat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-repasistida",
+		"nombre": "Representación Asistida",
+		"correlativas": ["IAG05-informatica", "IAG05-repgrafica"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-am2",
+		"nombre": "Análisis Matemático II",
+		"correlativas": ["IAG05-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-f2",
+		"nombre": "Física II",
+		"correlativas": ["IAG05-am1", "IAG05-f1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IAG05-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-agrlegal1",
+		"nombre": "Agrimensura Legal I",
+		"correlativas": ["IAG05-introagrim"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-topografia1",
+		"nombre": "Topografía I",
+		"correlativas": ["IAG05-pye", "IAG05-repasistida"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-infoagraria",
+		"nombre": "Información Agraria y Peritajes Rurales",
+		"correlativas": ["IAG05-pye", "IAG05-introagrim"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-anumerico",
+		"nombre": "Análisis Numérico y Teoría de Errores de las Mediciones",
+		"correlativas": ["IAG05-am1", "IAG05-algebra", "IAG05-pye"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-modingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-dibujotopo",
+		"nombre": "Dibujo Topográfico",
+		"correlativas": ["IAG05-repasistida", "IAG05-topografia1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-topografia2",
+		"nombre": "Topografía II e Hidrografía",
+		"correlativas": ["IAG05-topografia1", "IAG05-anumerico"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-agrlegal2",
+		"nombre": "Agrimensura Legal II",
+		"correlativas": ["IAG05-agrlegal1"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-geografiafisica",
+		"nombre": "Geografía Física",
+		"correlativas": ["IAG05-introagrim"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-fotointerp",
+		"nombre": "Fotointerpretación",
+		"correlativas": ["IAG05-topografia1", "IAG05-dibujotopo"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-geodesia1",
+		"nombre": "Geodesia I",
+		"correlativas": ["IAG05-topografia2", "IAG05-anumerico"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-valuaciones",
+		"nombre": "Valuaciones",
+		"correlativas": ["IAG05-infoagraria"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-geodesia2",
+		"nombre": "Geodesia II",
+		"correlativas": ["IAG05-geodesia1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-fotogrametria",
+		"nombre": "Fotogrametría",
+		"correlativas": ["IAG05-fotointerp", "IAG05-geodesia1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-cartografia",
+		"nombre": "Cartografía",
+		"correlativas": ["IAG05-dibujotopo", "IAG05-geodesia1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-sit",
+		"nombre": "Sistemas de Información Territorial",
+		"correlativas": ["IAG05-cartografia"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-catastro",
+		"nombre": "Catastro",
+		"correlativas": ["IAG05-agrlegal2", "IAG05-valuaciones", "IAG05-cartografia"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-mensura",
+		"nombre": "Mensura",
+		"correlativas": ["IAG05-agrlegal2", "IAG05-cartografia"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-pps",
+		"nombre": "Práctica Profesional Supervisada - Mensura",
+		"correlativas": ["IAG05-mensura"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-ordterritorial",
+		"nombre": "Ordenamiento Territorial",
+		"correlativas": ["IAG05-sit", "IAG05-catastro"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IAG05-medicionesesp",
+		"nombre": "Mediciones Especiales",
+		"correlativas": ["IAG05-geodesia2", "IAG05-fotogrametria", "IAG05-cartografia"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-trabajofinal",
+		"nombre": "Trabajo Final",
+		"correlativas": ["IAG05-pps", "IAG05-ordterritorial", "IAG05-medicionesesp"],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IAG05-opt-emprendedorismo",
+		"nombre": "Emprendedorismo Tecnológico",
+		"correlativas": [],
+		"RTF": 0,
+		"tipo": "optativa",
+		"programa_url": ""
+	}
+]
