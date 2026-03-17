@@ -1,0 +1,123 @@
+Ingeniería Electrónica
+
+
+     Plan de Correlatividades
+
+ Escuela de Ingeniería Electrónica
+‭|‬
+
+
+
+
+  ‭ abla‬ ‭7:‬ ‭Correlatividades‬ ‭correspondientes‬ ‭al‬ ‭Plan‬ ‭2025‬ ‭de‬
+  T
+  ‭Ingeniería Electrónica.‬
+
+      ‭AÑO‬     ‭SEMESTRE‬                ‭ASIGNATURA‬                                   ‭CORRELATIVA/S‬
+                             ‭Ambientación Universitaria‬              ‭-----‬
+      ‭CINEU‬     ‭CINEU‬    ‭Física y Química‬                        ‭-----‬
+                             ‭Matemática‬                              ‭-----‬
+                             ‭Análisis Matemático 1‬                   ‭Matemática‬
+                                                                       ‭Matemática‬
+                             ‭Química‬
+                                                                       ‭Física y Química‬
+                    ‭1‬
+                             ‭Sistemas de Representación‬              ‭-----‬
+                                                                       ‭Ambientación Universitaria‬
+                             ‭Taller y Laboratorio‬
+        ‭1‬                                                            ‭Matemática‬
+                             ‭Álgebra Lineal‬                          ‭Matemática‬
+                                                                       ‭Física y Química‬
+                             ‭Física 1‬
+                    ‭2‬                                                ‭Análisis Matemático 1‬
+                             ‭Informática y Cálculo Numérico‬          ‭Análisis Matemático 1‬
+                             ‭Módulo de Inglés‬                        ‭5 asignaturas‬
+                                                                       ‭Análisis Matemático 1‬
+                             ‭Análisis Matemático 2‬
+                                                                       ‭Álgebra Lineal‬
+                                                                       ‭Taller y Laboratorio‬
+                    ‭3‬      ‭Electrónica Digital 1‬
+                                                                       ‭Informática y Cálculo Numérico‬
+                             ‭Informática Avanzada‬                    ‭Informática y Cálculo Numérico‬
+                             ‭Probabilidad y Estadística‬              ‭Análisis Matemático 1‬
+        ‭2‬
+                             ‭Análisis Matemático 3‬                   ‭Análisis Matemático 2‬
+                                                                       ‭Taller y Laboratorio‬
+                             ‭Dispositivos Electrónicos‬
+                                                                       ‭Física 1‬
+                    ‭4‬
+                             ‭Electrónica Digital 2‬                   ‭Electrónica Digital 1‬
+                                                                       ‭Física 1‬
+                             ‭Física 2‬
+                                                                       ‭Álgebra Lineal‬
+                                                                       ‭Informática Avanzada‬
+                             ‭Electrónica Digital 3‬
+                                                                       ‭Electrónica Digital 2‬
+                                                                       ‭Electrónica Digital 1‬
+                             ‭Mediciones Electrónicas‬
+                    ‭5‬                                                ‭Dispositivos Electrónicos‬
+                             ‭Señales y Sistemas‬                      ‭Análisis Matemático 3‬
+        ‭3‬
+                                                                       ‭Análisis Matemático 3‬
+                             ‭Teoría de Circuitos‬
+                                                                       ‭Física 2‬
+                                                                       ‭Dispositivos Electrónicos‬
+                             ‭Electrónica Analógica 1‬
+                    ‭6‬                                                ‭Teoría de Circuitos‬
+
+                                                                                 IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                                 página 13 de 22
+‭|‬
+
+
+
+
+                            ‭Sistemas de Computación‬                  ‭Electrónica Digital 3‬
+                            ‭Sistemas de Control 1‬                    ‭Teoría de Circuitos‬
+                                                                       ‭Física 2‬
+                            ‭Tecnología Electrónica‬
+                                                                       ‭Dispositivos Electrónicos‬
+                                                                       ‭Mediciones Electrónicas‬
+                            ‭Electrónica Analógica 2‬
+                                                                       ‭Electrónica Analógica 1‬
+                                                                       ‭Análisis Matemático 1‬
+                            ‭Ingeniería Económica y Legal‬
+                    ‭7‬                                                ‭Taller y Laboratorio‬
+                                                                       ‭Mediciones Electrónicas‬
+                            ‭Instalaciones Eléctricas‬
+        ‭4‬                                                            ‭Teoría de Circuitos‬
+                            ‭Sistemas de Comunicación‬                 ‭Señales y Sistemas‬
+                            ‭Campo Electromagnético‬                   ‭Teoría de Circuitos‬
+                            ‭Electrónica Analógica 3‬                  ‭Electrónica Analógica 2‬
+                    ‭8‬
+                            ‭Higiene y Seguridad‬                      ‭Ingeniería Económica y Legal‬
+                            ‭Sistemas de Control 2‬                    ‭Sistemas de Control 1‬
+                                                                       ‭Sistemas de Control 1‬
+                            ‭Electrónica Industrial‬
+                                                                       ‭Electrónica Analógica 3‬
+                    ‭9‬                                                ‭Electrónica Analógica 2‬
+                            ‭Ingeniería de Microondas‬
+                                                                       ‭Campo Electromagnético‬
+        ‭5‬                 ‭Selectiva 1‬                              ‭Según Selectiva‬
+                                                                       ‭ deudar, como máximo, una cantidad de‬
+                                                                       A
+                            ‭Práctica Profesional Supervisada‬
+                                                                       ‭materias equivalente a 86 RTF‬
+                   ‭10‬     ‭Selectiva 2‬                              ‭Según Selectiva‬
+                                                                       ‭ deudar, como máximo, una cantidad de‬
+                                                                       A
+                            ‭Proyecto Integrador‬
+                                                                       ‭materias equivalente a 33 RTF‬
+
+
+
+
+                                                                            IF-2024-00783115-UNC-ME#FCEFYN
+      ‭Av. Vélez Sársfield 1611 – Pabellón Ingeniería C.P. X5000JJC – Ciudad Universitaria – Córdoba – Argentina‬
+                                ‭https://www.fcefyn.unc.edu.ar‬‭- Teléfono +54 351‬‭5353800‬
+
+                                                                            página 14 de 22
+

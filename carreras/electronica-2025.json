@@ -1,1 +1,352 @@
-[]
+[
+	{
+		"codigo": "IE25-AmbUniv",
+		"nombre": "Ambientación Universitaria",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04050-ambientacion-universitaria/"
+	},
+	{
+		"codigo": "IE25-fyq",
+		"nombre": "Física y Química",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04052-fisica-y-quimica/"
+	},
+	{
+		"codigo": "IE25-mat",
+		"nombre": "Matemática",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 0,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingreso/departamento-ingreso/10-04051-matematica/"
+	},
+
+	{
+		"codigo": "IE25-am1",
+		"nombre": "Análisis Matemático 1",
+		"correlativas": ["IE25-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04053-analisis-matematico-1/"
+	},
+	{
+		"codigo": "IE25-quimica",
+		"nombre": "Química",
+		"correlativas": ["IE25-mat", "IE25-fyq"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/quimica/departamento-de-quimica/10-04057-quimica/"
+	},
+	{
+		"codigo": "IE25-representacion",
+		"nombre": "Sistemas de Representación",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/diseno/departamento-de-diseno/10-04055-sistemas-de-representacion/"
+	},
+	{
+		"codigo": "IE25-tallerlab",
+		"nombre": "Taller y Laboratorio",
+		"correlativas": ["IE25-AmbUniv", "IE25-mat"],
+		"RTF": 0,
+		"semestre": 1,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04058-taller-y-laboratorio/"
+	},
+
+	{
+		"codigo": "IE25-algebra",
+		"nombre": "Álgebra Lineal",
+		"correlativas": ["IE25-mat"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04059-algebra-lineal/"
+	},
+	{
+		"codigo": "IE25-f1",
+		"nombre": "Física 1",
+		"correlativas": ["IE25-fyq", "IE25-am1"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04060-fisica-1/"
+	},
+	{
+		"codigo": "IE25-infcalc",
+		"nombre": "Informática y Cálculo Numérico",
+		"correlativas": ["IE25-am1"],
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-04061-informatica-y-calculo-numerico/"
+	},
+	{
+		"codigo": "IE25-ingles",
+		"nombre": "Módulo de Inglés",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "minAprobadas",
+			"cantidad": 5
+		},
+		"RTF": 0,
+		"semestre": 2,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ensenanza-de-la-ciencia-y-la-tecnologia/departamento-de-ensenanza-de-la-ciencia-y-la-tecnologia/10-04066-modulo-de-ingles/"
+	},
+
+	{
+		"codigo": "IE25-am2",
+		"nombre": "Análisis Matemático 2",
+		"correlativas": ["IE25-am1", "IE25-algebra"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04063-analisis-matematico-2/"
+	},
+	{
+		"codigo": "IE25-ed1",
+		"nombre": "Electrónica Digital 1",
+		"correlativas": ["IE25-tallerlab", "IE25-infcalc"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04068-electronica-digital-1/"
+	},
+	{
+		"codigo": "IE25-infav",
+		"nombre": "Informática Avanzada",
+		"correlativas": ["IE25-infcalc"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09700-informatica-avanzada/"
+	},
+	{
+		"codigo": "IE25-pye",
+		"nombre": "Probabilidad y Estadística",
+		"correlativas": ["IE25-am1"],
+		"RTF": 0,
+		"semestre": 3,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04062-probabilidad-y-estadistica/"
+	},
+
+	{
+		"codigo": "IE25-am3",
+		"nombre": "Análisis Matemático 3",
+		"correlativas": ["IE25-am2"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/matematica/departamento-de-matematica/10-04070-analisis-matematico-3/"
+	},
+	{
+		"codigo": "IE25-dispositivos",
+		"nombre": "Dispositivos Electrónicos",
+		"correlativas": ["IE25-tallerlab", "IE25-f1"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09701-dispositivos-electronicos/"
+	},
+	{
+		"codigo": "IE25-ed2",
+		"nombre": "Electrónica Digital 2",
+		"correlativas": ["IE25-ed1"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04071-electronica-digital-2/"
+	},
+	{
+		"codigo": "IE25-f2",
+		"nombre": "Física 2",
+		"correlativas": ["IE25-f1", "IE25-algebra"],
+		"RTF": 0,
+		"semestre": 4,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/fisica/departamento-de-fisica/10-04067-fisica-2/"
+	},
+
+	{
+		"codigo": "IE25-ed3",
+		"nombre": "Electrónica Digital 3",
+		"correlativas": ["IE25-infav", "IE25-ed2"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04075-electronica-digital-3/"
+	},
+	{
+		"codigo": "IE25-mediciones",
+		"nombre": "Mediciones Electrónicas",
+		"correlativas": ["IE25-ed1", "IE25-dispositivos"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09702-mediciones-electronicas/"
+	},
+	{
+		"codigo": "IE25-senales",
+		"nombre": "Señales y Sistemas",
+		"correlativas": ["IE25-am3"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04076-senales-y-sistemas/"
+	},
+	{
+		"codigo": "IE25-teocircuitos",
+		"nombre": "Teoría de Circuitos",
+		"correlativas": ["IE25-am3", "IE25-f2"],
+		"RTF": 0,
+		"semestre": 5,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09703-teoria-de-circuitos/"
+	},
+
+	{
+		"codigo": "IE25-eanalog1",
+		"nombre": "Electrónica Analógica 1",
+		"correlativas": ["IE25-dispositivos", "IE25-teocircuitos"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09704-electronica-analogica-1/"
+	},
+	{
+		"codigo": "IE25-siscomp",
+		"nombre": "Sistemas de Computación",
+		"correlativas": ["IE25-ed3"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/computacion/departamento-de-computacion/10-09705-sistemas-de-computacion/"
+	},
+	{
+		"codigo": "IE25-siscontrol1",
+		"nombre": "Sistemas de Control 1",
+		"correlativas": ["IE25-teocircuitos"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04081-sistemas-de-control-1/"
+	},
+	{
+		"codigo": "IE25-tecelec",
+		"nombre": "Tecnología Electrónica",
+		"correlativas": ["IE25-f2", "IE25-dispositivos"],
+		"RTF": 0,
+		"semestre": 6,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09706-tecnologia-electronica/"
+	},
+
+	{
+		"codigo": "IE25-eanalog2",
+		"nombre": "Electrónica Analógica 2",
+		"correlativas": ["IE25-mediciones", "IE25-eanalog1"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09707-electronica-analogica-2/"
+	},
+	{
+		"codigo": "IE25-ingeconleg",
+		"nombre": "Ingeniería Económica y Legal",
+		"correlativas": ["IE25-am1", "IE25-tallerlab"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/ingenieria-economica-y-legal/departamento-de-ingenieria-economica-y-legal/10-04064-ingenieria-economica-y-legal/"
+	},
+	{
+		"codigo": "IE25-instelec",
+		"nombre": "Instalaciones Eléctricas",
+		"correlativas": ["IE25-mediciones", "IE25-teocircuitos"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electrotecnia/departamento-de-electrotecnia/10-09708-instalaciones-electricas/"
+	},
+	{
+		"codigo": "IE25-siscom",
+		"nombre": "Sistemas de Comunicación",
+		"correlativas": ["IE25-senales"],
+		"RTF": 0,
+		"semestre": 7,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09709-sistemas-de-comunicacion/"
+	},
+
+	{
+		"codigo": "IE25-campoelect",
+		"nombre": "Campo Electromagnético",
+		"correlativas": ["IE25-teocircuitos"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09710-campo-electromagnetico/"
+	},
+	{
+		"codigo": "IE25-eanalog3",
+		"nombre": "Electrónica Analógica 3",
+		"correlativas": ["IE25-eanalog2"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09711-electronica-analogica-3/"
+	},
+	{
+		"codigo": "IE25-hys",
+		"nombre": "Higiene y Seguridad",
+		"correlativas": ["IE25-ingeconleg"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/produccion-gestion-y-medio-ambiente/departamento-de-produccion-gestion-y-medioambiente/10-04078-higiene-y-seguridad/"
+	},
+	{
+		"codigo": "IE25-siscontrol2",
+		"nombre": "Sistemas de Control 2",
+		"correlativas": ["IE25-siscontrol1"],
+		"RTF": 0,
+		"semestre": 8,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-04082-sistemas-de-control-2/"
+	},
+
+	{
+		"codigo": "IE25-eindustrial",
+		"nombre": "Electrónica Industrial",
+		"correlativas": ["IE25-siscontrol1", "IE25-eanalog3"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09712-electronica-industrial/"
+	},
+	{
+		"codigo": "IE25-microondas",
+		"nombre": "Ingeniería de Microondas",
+		"correlativas": ["IE25-eanalog2", "IE25-campoelect"],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09713-ingenieria-de-microondas/"
+	},
+	{
+		"codigo": "IE25-selectiva1",
+		"nombre": "Selectiva 1",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 9,
+		"programa_url": ""
+	},
+
+	{
+		"codigo": "IE25-pps",
+		"nombre": "Práctica Profesional Supervisada",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "maxRtfAdeudados",
+			"cantidad": 86
+		},
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09715-practica-profesional-supervisada/"
+	},
+	{
+		"codigo": "IE25-selectiva2",
+		"nombre": "Selectiva 2",
+		"correlativas": [],
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": ""
+	},
+	{
+		"codigo": "IE25-projint",
+		"nombre": "Proyecto Integrador",
+		"correlativas": [],
+		"condiciones": {
+			"tipo": "maxRtfAdeudados",
+			"cantidad": 33
+		},
+		"RTF": 0,
+		"semestre": 10,
+		"programa_url": "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/departamentos/electronica/departamento-de-electronica/10-09717-proyecto-integrador/"
+	}
+]
