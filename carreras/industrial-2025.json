@@ -382,8 +382,8 @@
     "nombre": "Práctica Profesional Integradora",
     "correlativas": [],
     "condiciones": {
-      "tipo": "minAprobadas",
-      "cantidad": 30
+      "tipo": "maxRtfAdeudados",
+      "cantidad": 90
     },
     "RTF": 21,
     "semestre": 10,
