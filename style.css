@@ -760,7 +760,8 @@ footer {
 
 /* Onboarding */
 .onboarding-modal-content {
-    max-width: 560px;
+    width: min(800px, 92vw);
+    max-width: 500px important!;
     text-align: left;
 }
 

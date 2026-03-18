@@ -116,8 +116,8 @@ function marcarOnboardingComoVisto() {
 function construirPasosTutorial() {
     const steps = [
         {
-            title: "Recorrido rapido",
-            intro: "Este tour te muestra donde esta cada cosa importante de Exactas Map."
+            title: "Recorrido rápido",
+            intro: "Este tour te muestra dónde está cada cosa importante de Exactas Map."
         }
     ];
 
@@ -126,7 +126,7 @@ function construirPasosTutorial() {
         steps.push({
             element: dropdownCarrera,
             title: "Carrera y plan",
-            intro: "Desde aca elegis la carrera y el plan que queres consultar."
+            intro: "Desde acá elegís la carrera y el plan que querés consultar."
         });
     }
 
@@ -135,7 +135,7 @@ function construirPasosTutorial() {
         steps.push({
             element: linkPlan,
             title: "Plan oficial",
-            intro: "Este boton abre el documento oficial del plan de estudios."
+            intro: "Este botón abre el documento oficial del plan de estudios."
         });
     }
 
@@ -144,7 +144,7 @@ function construirPasosTutorial() {
         steps.push({
             element: primeraMateria,
             title: "Materias",
-            intro: "Con un click la marcas como <span class=\"tour-estado-chip tour-estado-aprobada\">aprobada</span>, o como <span class=\"tour-estado-chip tour-estado-regular\">regular</span> si primero esta <span class=\"tour-estado-chip tour-estado-cursando\">cursando</span>. Click derecho para ver correlativas que faltan."
+            intro: "Con un click la marcás como <span class=\"tour-estado-chip tour-estado-aprobada\">aprobada</span>, o como <span class=\"tour-estado-chip tour-estado-regular\">regular</span> si primero está <span class=\"tour-estado-chip tour-estado-cursando\">cursando</span>. Click derecho para ver correlativas que faltan."
         });
 
         const iconoAnotarse = primeraMateria.querySelector(".icono-anotarse");
@@ -152,7 +152,7 @@ function construirPasosTutorial() {
             steps.push({
                 element: iconoAnotarse,
                 title: "Inscribirse o desinscribirse",
-                intro: "Este boton sirve para anotarte <i class=\"fa-regular fa-pen-to-square\" aria-hidden=\"true\"></i> o abandonar/desinscribirte <i class=\"fa-solid fa-ban\" aria-hidden=\"true\"></i>, segun el estado de la materia."
+                intro: "Este botón sirve para anotarte <i class=\"fa-regular fa-pen-to-square\" aria-hidden=\"true\"></i> o abandonar/desinscribirte <i class=\"fa-solid fa-ban\" aria-hidden=\"true\"></i>, según el estado de la materia."
             });
         }
 
@@ -161,7 +161,7 @@ function construirPasosTutorial() {
             steps.push({
                 element: iconoPrograma,
                 title: "Ver programa",
-                intro: "Este icono abre el programa de la materia. Si no esta cargado, te muestra un aviso."
+                intro: "Este ícono abre el programa de la materia. Si no está cargado, te muestra un aviso."
             });
         }
     }
@@ -171,7 +171,7 @@ function construirPasosTutorial() {
         steps.push({
             element: btnOptativas,
             title: "Optativas",
-            intro: "Desde aca podes mostrar u ocultar el bloque de materias optativas."
+            intro: "Desde acá podés mostrar u ocultar el bloque de materias optativas."
         });
     }
 
@@ -179,8 +179,8 @@ function construirPasosTutorial() {
     if (dniInput) {
         steps.push({
             element: dniInput,
-            title: "Sincronizacion",
-            intro: "Ingresa tu DNI para sincronizar progreso entre dispositivos."
+            title: "Sincronización",
+            intro: "Ingresá tu DNI para sincronizar progreso entre dispositivos."
         });
     }
 
@@ -198,7 +198,7 @@ function construirPasosTutorial() {
         steps.push({
             element: btnLocal,
             title: "Modo local",
-            intro: "Vuelve al modo local del navegador cuando no queres sincronizar."
+            intro: "Volvé al modo local del navegador cuando no querés sincronizar."
         });
     }
 
@@ -216,7 +216,7 @@ function construirPasosTutorial() {
         steps.push({
             element: githubLink,
             title: "Proyecto en GitHub",
-            intro: "Aca podes ver el codigo del proyecto, reportar issues o proponer mejoras."
+            intro: "Acá podés ver el código del proyecto, reportar issues o proponer mejoras."
         });
     }
 
@@ -225,7 +225,7 @@ function construirPasosTutorial() {
         steps.push({
             element: matecitoLink,
             title: "Matecito",
-            intro: "Si te sirve la herramienta y queres apoyar el proyecto, aca podes dejar una donacion."
+            intro: "Si te sirve la herramienta y querés apoyar el proyecto, acá podés dejar una donación."
         });
     }
 
@@ -234,7 +234,7 @@ function construirPasosTutorial() {
         steps.push({
             element: btnSugerencias,
             title: "Sugerencias",
-            intro: "Desde aca podes enviar mejoras o reportar errores del mapa."
+            intro: "Desde acá podés enviar mejoras o reportar errores del mapa."
         });
     }
 
@@ -309,7 +309,7 @@ function iniciarTutorial() {
     tour.setOptions({
         steps,
         nextLabel: "Siguiente",
-        prevLabel: "Atras",
+        prevLabel: "Atrás",
         skipLabel: "Saltar",
         doneLabel: "Listo",
         showProgress: true,
