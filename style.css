@@ -830,12 +830,13 @@ footer {
 }
 
 .introjs-tooltipbuttons {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr auto auto;
     gap: 8px;
-    justify-content: flex-end;
+    align-items: center;
     border-top: 1px solid #dcdcdc;
     padding-top: 12px;
+    overflow: hidden;
 }
 
 .introjs-button {
@@ -847,6 +848,10 @@ footer {
     font-weight: 600;
     padding: 7px 12px;
     box-sizing: border-box;
+    font-size: 0.86rem !important;
+    line-height: 1.2 !important;
+    white-space: nowrap;
+    text-decoration: none !important;
 }
 
 body.tour-mode .tour-demo-materia .icono-flotante,
@@ -859,32 +864,57 @@ body.tour-mode .tour-demo-materia .icono-anotarse {
     display: flex !important;
 }
 
+.introjs-prevbutton,
 .introjs-nextbutton,
 .introjs-donebutton {
-    background: #2f855a;
+    background: #37474f;
     color: #fff;
 }
 
+.introjs-prevbutton:hover,
 .introjs-nextbutton:hover,
 .introjs-donebutton:hover {
-    background: #276749;
+    background: #1e88e5;
     color: #fff;
-}
-
-.introjs-skipbutton,
-.introjs-prevbutton {
-    background: #edf2f7;
-    color: #1a202c;
 }
 
 .introjs-skipbutton {
-    margin-right: auto;
+    justify-self: start;
+    min-width: 0;
+    min-height: 0 !important;
+    height: auto !important;
+    max-height: 28px;
+    max-width: 130px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background: transparent;
+    color: #455a64;
+    border: 1px solid #b0bec5;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    font-size: 0.78rem !important;
+    line-height: 1.1 !important;
+    font-weight: 600 !important;
+    padding: 6px 10px !important;
+    border-radius: 7px !important;
+    text-transform: none !important;
 }
 
-.introjs-skipbutton:hover,
-.introjs-prevbutton:hover {
-    background: #e2e8f0;
-    color: #1a202c;
+.introjs-tooltip .introjs-skipbutton,
+.introjs-tooltip .introjs-skipbutton:link,
+.introjs-tooltip .introjs-skipbutton:visited {
+    min-height: 0 !important;
+    height: auto !important;
+    font-size: 0.78rem !important;
+    line-height: 1.1 !important;
+}
+
+.introjs-skipbutton:hover {
+    background: #eceff1;
+    color: #263238;
 }
 
 @media (max-width: 700px) {
@@ -901,11 +931,32 @@ body.tour-mode .tour-demo-materia .icono-anotarse {
     }
 
     .introjs-tooltipbuttons {
-        justify-content: stretch;
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
     }
 
     .introjs-button {
-        flex: 1 1 calc(50% - 8px);
+        width: 100%;
+        min-width: 0;
+    }
+
+    .introjs-skipbutton {
+        grid-column: 1 / -1;
+        max-width: none;
+        justify-self: stretch;
+        text-align: center;
+        margin: 0;
+    }
+
+    .introjs-prevbutton,
+    .introjs-nextbutton,
+    .introjs-donebutton {
+        min-width: 0;
+        text-align: center;
+    }
+
+    .introjs-tooltip {
+        max-width: 92vw !important;
         min-width: 0;
     }
 }
