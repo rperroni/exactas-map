@@ -855,6 +855,27 @@ footer {
     line-height: 1.4;
 }
 
+/* Asegura que los iconos de Font Awesome se rendericen bien dentro del texto del tutorial */
+.introjs-tooltiptext .fa-regular,
+.introjs-tooltiptext .fa-solid,
+.introjs-tooltiptext .fa {
+    font-style: normal !important;
+    display: inline-block;
+    line-height: 1;
+    vertical-align: -0.08em;
+}
+
+.introjs-tooltiptext .fa-regular {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 400 !important;
+}
+
+.introjs-tooltiptext .fa-solid,
+.introjs-tooltiptext .fa {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 900 !important;
+}
+
 .tour-estado-chip {
     display: inline-block;
     padding: 1px 7px;
