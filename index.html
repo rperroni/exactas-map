@@ -13,6 +13,7 @@
     <meta property="og:image" content="https://rperroni.github.io/fcefyn-map/assets/thumbnail.png">
     <meta property="og:url" content="https://rperroni.github.io/fcefyn-map/">
     <meta property="og:type" content="website">
+    <link rel="stylesheet" href="https://unpkg.com/intro.js/minified/introjs.min.css">
 </head>
 <header>
     <!--<h1>
@@ -77,6 +78,9 @@
             <button id="sugerencias-btn" class="footer-btn" title="Enviar sugerencia o reportar error">
                 <i class="fa-regular fa-message"></i>
             </button>
+            <button id="tutorial-btn" class="footer-btn" title="Ver tutorial">
+                <i class="fa-solid fa-circle-question"></i>
+            </button>
         </div>
     </footer>
     <!-- Modal referencia de colores -->
@@ -121,9 +125,32 @@
             <div id="programa-modal-body"></div>
         </div>
     </div>
+
+    <!-- Modal de bienvenida al tutorial -->
+    <div id="onboarding-welcome-modal" class="footer-colores-modal">
+        <div class="footer-colores-modal-content onboarding-modal-content">
+            <span id="onboarding-welcome-close" class="footer-colores-close">&times;</span>
+            <h2>Hola, bienvenida/o a Exactas Map</h2>
+            <p>
+                Esta herramienta te ayuda a visualizar planes de estudio, correlativas y organizar tu avance.
+            </p>
+            <p>
+                El proyecto fue hecho por estudiantes para estudiantes, y sigue creciendo con aportes de la comunidad.
+            </p>
+            <p>
+                Si queres, te muestro un recorrido rapido para ubicarte en la pagina.
+            </p>
+            <div class="onboarding-actions">
+                <button id="onboarding-start-btn" class="footer-btn enviar-btn">Iniciar tutorial</button>
+                <button id="onboarding-skip-btn" class="footer-btn">Ahora no</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Scripts -->
     <script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-firestore-compat.js"></script>
+    <script src="https://unpkg.com/intro.js/minified/intro.min.js"></script>
     <script type="module" src="script.js?v=2"></script>
 </body>
 </html>

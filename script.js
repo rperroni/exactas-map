@@ -104,6 +104,190 @@ try {
 
 let dniActual = '';
 
+const ONBOARDING_STORAGE_KEY = "fcefyn_onboarding_seen_v1";
+let onboardingSetupDone = false;
+let onboardingAutoPromptPending = !localStorage.getItem(ONBOARDING_STORAGE_KEY);
+
+function marcarOnboardingComoVisto() {
+    localStorage.setItem(ONBOARDING_STORAGE_KEY, "1");
+    onboardingAutoPromptPending = false;
+}
+
+function construirPasosTutorial() {
+    const steps = [
+        {
+            title: "Recorrido rapido",
+            intro: "Este tour te muestra donde esta cada cosa importante de Exactas Map."
+        }
+    ];
+
+    const dropdownCarrera = document.getElementById("carrera-dropdown");
+    if (dropdownCarrera) {
+        steps.push({
+            element: dropdownCarrera,
+            title: "Carrera y plan",
+            intro: "Desde aca elegis la carrera y el plan que queres consultar."
+        });
+    }
+
+    const linkPlan = document.getElementById("plan-carrera-link");
+    if (linkPlan) {
+        steps.push({
+            element: linkPlan,
+            title: "Plan oficial",
+            intro: "Este boton abre el documento oficial del plan de estudios."
+        });
+    }
+
+    const primeraMateria = document.querySelector(".materia");
+    if (primeraMateria) {
+        steps.push({
+            element: primeraMateria,
+            title: "Materias",
+            intro: "Click para cambiar estado. Click derecho para ver correlativas que faltan."
+        });
+    }
+
+    const btnOptativas = document.getElementById("optativas-btn");
+    if (btnOptativas) {
+        steps.push({
+            element: btnOptativas,
+            title: "Optativas",
+            intro: "Desde aca podes mostrar u ocultar el bloque de materias optativas."
+        });
+    }
+
+    const dniInput = document.getElementById("dni-input");
+    if (dniInput) {
+        steps.push({
+            element: dniInput,
+            title: "Sincronizacion",
+            intro: "Ingresa tu DNI para sincronizar progreso entre dispositivos."
+        });
+    }
+
+    const btnSync = document.getElementById("btn-sync");
+    if (btnSync) {
+        steps.push({
+            element: btnSync,
+            title: "Guardar en la nube",
+            intro: "Sincroniza o guarda tu avance cuando usas DNI."
+        });
+    }
+
+    const btnLocal = document.getElementById("btn-local");
+    if (btnLocal) {
+        steps.push({
+            element: btnLocal,
+            title: "Modo local",
+            intro: "Vuelve al modo local del navegador cuando no queres sincronizar."
+        });
+    }
+
+    const btnColores = document.getElementById("footer-colores-btn");
+    if (btnColores) {
+        steps.push({
+            element: btnColores,
+            title: "Colores",
+            intro: "Muestra la referencia de estados: aprobada, disponible, cursando, etc."
+        });
+    }
+
+    const btnSugerencias = document.getElementById("sugerencias-btn");
+    if (btnSugerencias) {
+        steps.push({
+            element: btnSugerencias,
+            title: "Sugerencias",
+            intro: "Desde aca podes enviar mejoras o reportar errores del mapa."
+        });
+    }
+
+    return steps;
+}
+
+function iniciarTutorial() {
+    if (typeof window.introJs !== "function") {
+        console.warn("Intro.js no esta disponible.");
+        return;
+    }
+
+    const steps = construirPasosTutorial();
+    if (steps.length === 0) return;
+
+    const tour = window.introJs();
+    tour.setOptions({
+        steps,
+        nextLabel: "Siguiente",
+        prevLabel: "Atras",
+        skipLabel: "Saltar",
+        doneLabel: "Listo",
+        showProgress: true,
+        scrollToElement: true,
+        disableInteraction: false
+    });
+
+    tour.start();
+}
+
+function setupOnboarding() {
+    const modal = document.getElementById("onboarding-welcome-modal");
+    const closeBtn = document.getElementById("onboarding-welcome-close");
+    const startBtn = document.getElementById("onboarding-start-btn");
+    const skipBtn = document.getElementById("onboarding-skip-btn");
+    const tutorialBtn = document.getElementById("tutorial-btn");
+
+    if (!modal || !startBtn || !skipBtn || !tutorialBtn) return;
+
+    const abrirModalBienvenida = () => {
+        modal.classList.add("visible");
+    };
+
+    const cerrarModalBienvenida = () => {
+        modal.classList.remove("visible");
+    };
+
+    tutorialBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        abrirModalBienvenida();
+    });
+
+    if (closeBtn) {
+        closeBtn.addEventListener("click", () => {
+            cerrarModalBienvenida();
+            marcarOnboardingComoVisto();
+        });
+    }
+
+    modal.addEventListener("click", (e) => {
+        if (e.target === modal) {
+            cerrarModalBienvenida();
+            marcarOnboardingComoVisto();
+        }
+    });
+
+    skipBtn.addEventListener("click", () => {
+        cerrarModalBienvenida();
+        marcarOnboardingComoVisto();
+    });
+
+    startBtn.addEventListener("click", () => {
+        cerrarModalBienvenida();
+        marcarOnboardingComoVisto();
+        setTimeout(iniciarTutorial, 120);
+    });
+}
+
+function maybeShowOnboardingWelcome() {
+    if (!onboardingSetupDone || !onboardingAutoPromptPending) return;
+
+    const modal = document.getElementById("onboarding-welcome-modal");
+    const primeraMateria = document.querySelector(".materia");
+    if (!modal || !primeraMateria) return;
+
+    modal.classList.add("visible");
+    onboardingAutoPromptPending = false;
+}
+
 function updateSyncUI() {
     const syncBtn = document.getElementById('btn-sync');
     const localBtn = document.getElementById('btn-local');
@@ -776,6 +960,7 @@ function cargarCarrera(nombreCarrera) {
             updateOptativaSlots();
 
             actualizarEstado();
+            maybeShowOnboardingWelcome();
         })
         .catch(err => console.error("Error cargando materias:", err));
 }
@@ -1049,6 +1234,9 @@ document.addEventListener("DOMContentLoaded", () => {
     setupFooterColores();
     setupInfoColores();
     setupProgramaModal();
+    setupOnboarding();
+    onboardingSetupDone = true;
+    maybeShowOnboardingWelcome();
 
     // Toggle optativas: no depende de que exista el contenedor en este momento
     const btnOptativas = document.getElementById("optativas-btn");

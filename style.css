@@ -745,6 +745,78 @@ footer {
     color: #42A5F5;
 }
 
+/* Onboarding */
+.onboarding-modal-content {
+    max-width: 560px;
+    text-align: left;
+}
+
+.onboarding-modal-content p {
+    margin: 10px 0;
+    color: #2d3748;
+    line-height: 1.45;
+}
+
+.onboarding-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 18px;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.introjs-tooltip {
+    border-radius: 12px;
+}
+
+.introjs-tooltip-title {
+    font-weight: 700;
+}
+
+.introjs-button {
+    border-radius: 8px;
+    border: none;
+    text-shadow: none;
+    font-weight: 600;
+}
+
+.introjs-nextbutton,
+.introjs-donebutton {
+    background: #2f855a;
+    color: #fff;
+}
+
+.introjs-nextbutton:hover,
+.introjs-donebutton:hover {
+    background: #276749;
+    color: #fff;
+}
+
+.introjs-skipbutton,
+.introjs-prevbutton {
+    background: #edf2f7;
+    color: #1a202c;
+}
+
+.introjs-skipbutton:hover,
+.introjs-prevbutton:hover {
+    background: #e2e8f0;
+    color: #1a202c;
+}
+
+@media (max-width: 700px) {
+    .onboarding-modal-content {
+        max-width: 92vw;
+    }
+
+    .onboarding-actions {
+        justify-content: stretch;
+    }
+
+    .onboarding-actions .footer-btn {
+        flex: 1 1 auto;
+    }
+}
 .enviar-btn {
     font-size: 1.1rem;
     background: #42A5F5;
