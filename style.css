@@ -780,6 +780,16 @@ footer {
     font-weight: 600;
 }
 
+body.tour-mode .tour-demo-materia .icono-flotante,
+body.tour-mode .tour-demo-materia .icono-anotarse {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+body.tour-mode .tour-demo-materia .icono-anotarse {
+    display: flex !important;
+}
+
 .introjs-nextbutton,
 .introjs-donebutton {
     background: #2f855a;

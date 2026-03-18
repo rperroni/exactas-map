@@ -139,13 +139,31 @@ function construirPasosTutorial() {
         });
     }
 
-    const primeraMateria = document.querySelector(".materia");
+    const primeraMateria = document.querySelector(".tour-demo-materia") || document.querySelector(".materia");
     if (primeraMateria) {
         steps.push({
             element: primeraMateria,
             title: "Materias",
             intro: "Click para cambiar estado. Click derecho para ver correlativas que faltan."
         });
+
+        const iconoAnotarse = primeraMateria.querySelector(".icono-anotarse");
+        if (iconoAnotarse) {
+            steps.push({
+                element: iconoAnotarse,
+                title: "Inscribirse o desinscribirse",
+                intro: "Este boton sirve para anotarte (lapiz) o abandonar/desinscribirte (prohibido), segun el estado de la materia."
+            });
+        }
+
+        const iconoPrograma = primeraMateria.querySelector(".icono-flotante");
+        if (iconoPrograma) {
+            steps.push({
+                element: iconoPrograma,
+                title: "Ver programa",
+                intro: "Este icono abre el programa de la materia. Si no esta cargado, te muestra un aviso."
+            });
+        }
     }
 
     const btnOptativas = document.getElementById("optativas-btn");
@@ -211,6 +229,15 @@ function iniciarTutorial() {
         return;
     }
 
+    const materiaDemo = document.querySelector(".materia");
+    if (materiaDemo) materiaDemo.classList.add("tour-demo-materia");
+    document.body.classList.add("tour-mode");
+
+    const limpiarModoTour = () => {
+        document.body.classList.remove("tour-mode");
+        document.querySelectorAll(".tour-demo-materia").forEach(el => el.classList.remove("tour-demo-materia"));
+    };
+
     const steps = construirPasosTutorial();
     if (steps.length === 0) return;
 
@@ -225,6 +252,9 @@ function iniciarTutorial() {
         scrollToElement: true,
         disableInteraction: false
     });
+
+    tour.oncomplete(limpiarModoTour);
+    tour.onexit(limpiarModoTour);
 
     tour.start();
 }
