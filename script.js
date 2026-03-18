@@ -152,7 +152,7 @@ function construirPasosTutorial() {
             steps.push({
                 element: iconoAnotarse,
                 title: "Inscribirse o desinscribirse",
-                intro: "Este boton sirve para anotarte (lapiz) o abandonar/desinscribirte (prohibido), segun el estado de la materia."
+                intro: "Este boton sirve para anotarte <i class=\"fa-regular fa-pen-to-square\" aria-hidden=\"true\"></i> o abandonar/desinscribirte <i class=\"fa-solid fa-ban\" aria-hidden=\"true\"></i>, segun el estado de la materia."
             });
         }
 
@@ -208,6 +208,24 @@ function construirPasosTutorial() {
             element: btnColores,
             title: "Colores",
             intro: "Muestra la referencia de estados: aprobada, disponible, cursando, etc."
+        });
+    }
+
+    const githubLink = document.getElementById("github-link");
+    if (githubLink) {
+        steps.push({
+            element: githubLink,
+            title: "Proyecto en GitHub",
+            intro: "Aca podes ver el codigo del proyecto, reportar issues o proponer mejoras."
+        });
+    }
+
+    const matecitoLink = document.getElementById("matecito-link");
+    if (matecitoLink) {
+        steps.push({
+            element: matecitoLink,
+            title: "Matecito",
+            intro: "Si te sirve la herramienta y queres apoyar el proyecto, aca podes dejar una donacion."
         });
     }
 

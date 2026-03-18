@@ -683,6 +683,8 @@ footer {
     display: flex;
     gap: 32px;
     align-items: center;
+    width: min(1200px, 100%);
+    justify-content: center;
 }
 
 .icono-footer {
@@ -743,6 +745,17 @@ footer {
 
 .footer-btn:hover {
     color: #42A5F5;
+}
+
+#tutorial-btn {
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#tutorial-btn i {
+    font-weight: 400;
 }
 
 /* Onboarding */
@@ -1103,6 +1116,9 @@ body.tour-mode .tour-demo-materia .icono-anotarse {
     .footer-btn {
         font-size: 1.15rem;
         padding: 0 4px;
+    }
+    #tutorial-btn {
+        right: 4px;
     }
     .fa-palette {
         font-size: 1.15rem !important;
