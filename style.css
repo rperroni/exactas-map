@@ -778,19 +778,75 @@ footer {
     flex-wrap: wrap;
 }
 
+.onboarding-btn {
+    border: none;
+    border-radius: 8px;
+    padding: 9px 14px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: transform 0.12s ease, background 0.2s ease, color 0.2s ease;
+}
+
+.onboarding-btn:active {
+    transform: translateY(1px);
+}
+
+.onboarding-btn-primary {
+    background: #42A5F5;
+    color: #fff;
+}
+
+.onboarding-btn-primary:hover {
+    background: #1565c0;
+}
+
+.onboarding-btn-secondary {
+    background: #e5e7eb;
+    color: #1f2937;
+}
+
+.onboarding-btn-secondary:hover {
+    background: #d1d5db;
+}
+
 .introjs-tooltip {
+    background: #f7f7f7;
+    border: 1.5px solid #e0e0e0;
+    color: #222;
     border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18);
 }
 
 .introjs-tooltip-title {
+    color: #1565c0;
     font-weight: 700;
 }
 
+.introjs-tooltiptext {
+    color: #222;
+    line-height: 1.4;
+}
+
+.introjs-tooltipbuttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: flex-end;
+    border-top: 1px solid #dcdcdc;
+    padding-top: 12px;
+}
+
 .introjs-button {
+    float: none !important;
+    min-width: 88px;
     border-radius: 8px;
     border: none;
     text-shadow: none;
     font-weight: 600;
+    padding: 7px 12px;
+    box-sizing: border-box;
 }
 
 body.tour-mode .tour-demo-materia .icono-flotante,
@@ -821,6 +877,10 @@ body.tour-mode .tour-demo-materia .icono-anotarse {
     color: #1a202c;
 }
 
+.introjs-skipbutton {
+    margin-right: auto;
+}
+
 .introjs-skipbutton:hover,
 .introjs-prevbutton:hover {
     background: #e2e8f0;
@@ -836,8 +896,17 @@ body.tour-mode .tour-demo-materia .icono-anotarse {
         justify-content: stretch;
     }
 
-    .onboarding-actions .footer-btn {
-        flex: 1 1 auto;
+    .onboarding-actions .onboarding-btn {
+        flex: 1 1 100%;
+    }
+
+    .introjs-tooltipbuttons {
+        justify-content: stretch;
+    }
+
+    .introjs-button {
+        flex: 1 1 calc(50% - 8px);
+        min-width: 0;
     }
 }
 .enviar-btn {
