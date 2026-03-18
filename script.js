@@ -134,8 +134,8 @@ function construirPasosTutorial() {
     if (linkPlan) {
         steps.push({
             element: linkPlan,
-            title: "Plan oficial",
-            intro: "Este botón abre el documento oficial del plan de estudios."
+            title: "Plan de estudios",
+            intro: "Este botón abre el documento del plan de estudios publicado en la página de la facultad."
         });
     }
 
@@ -144,7 +144,7 @@ function construirPasosTutorial() {
         steps.push({
             element: primeraMateria,
             title: "Materias",
-            intro: "Con un click la marcás como <span class=\"tour-estado-chip tour-estado-aprobada\">aprobada</span>, o como <span class=\"tour-estado-chip tour-estado-regular\">regular</span> si primero está <span class=\"tour-estado-chip tour-estado-cursando\">cursando</span>. Click derecho para ver correlativas que faltan."
+            intro: "Con un click la marcás como <span class=\"tour-estado-chip tour-estado-aprobada\">aprobada</span>, o como <span class=\"tour-estado-chip tour-estado-regular\">regular</span> si primero está <span class=\"tour-estado-chip tour-estado-cursando\">cursando</span>. Click derecho para ver correlativas que necesitas para poder cursar la materia."
         });
 
         const iconoAnotarse = primeraMateria.querySelector(".icono-anotarse");
@@ -152,7 +152,7 @@ function construirPasosTutorial() {
             steps.push({
                 element: iconoAnotarse,
                 title: "Inscribirse o desinscribirse",
-                intro: "Este botón sirve para anotarte <i class=\"fa-regular fa-pen-to-square\" aria-hidden=\"true\"></i> o abandonar/desinscribirte <i class=\"fa-solid fa-ban\" aria-hidden=\"true\"></i>, según el estado de la materia."
+                intro: "Este botón sirve para marcar como cursando <i class=\"fa-regular fa-pen-to-square\" aria-hidden=\"true\"></i> o abandonar <i class=\"fa-solid fa-ban\" aria-hidden=\"true\"></i>, según el estado de la materia."
             });
         }
 
@@ -161,7 +161,7 @@ function construirPasosTutorial() {
             steps.push({
                 element: iconoPrograma,
                 title: "Ver programa",
-                intro: "Este ícono abre el programa de la materia. Si no está cargado, te muestra un aviso."
+                intro: "Este ícono abre el programa de la materia."
             });
         }
     }
@@ -171,7 +171,7 @@ function construirPasosTutorial() {
         steps.push({
             element: btnOptativas,
             title: "Optativas",
-            intro: "Desde acá podés mostrar u ocultar el bloque de materias optativas."
+            intro: "Desde acá podés mostrar u ocultar el bloque de materias optativas. Aún no disponibles para los planes 2025."
         });
     }
 
@@ -180,7 +180,7 @@ function construirPasosTutorial() {
         steps.push({
             element: dniInput,
             title: "Sincronización",
-            intro: "Ingresá tu DNI para sincronizar progreso entre dispositivos."
+            intro: "Ingresá tu DNI para sincronizar progreso entre dispositivos. Si no querés usar el DNI todo bien, cualquier clave numérica sirve (siempre que uses siempre la misma)."
         });
     }
 
@@ -189,7 +189,7 @@ function construirPasosTutorial() {
         steps.push({
             element: btnSync,
             title: "Guardar en la nube",
-            intro: "Sincroniza o guarda tu avance cuando usas DNI."
+            intro: "Sincroniza o guarda tu avance con la clave del paso anterior."
         });
     }
 
@@ -216,7 +216,7 @@ function construirPasosTutorial() {
         steps.push({
             element: githubLink,
             title: "Proyecto en GitHub",
-            intro: "Acá podés ver el código del proyecto, reportar issues o proponer mejoras."
+            intro: "Acá podés ver el código del proyecto, reportar issues o proponer mejoras. También podés consultar la lista de tareas pendientes (si tu problema está ahí, estoy trabajando en resolverlo)."
         });
     }
 
