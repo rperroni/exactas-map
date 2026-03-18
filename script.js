@@ -144,7 +144,7 @@ function construirPasosTutorial() {
         steps.push({
             element: primeraMateria,
             title: "Materias",
-            intro: "Click para cambiar estado. Click derecho para ver correlativas que faltan."
+            intro: "Con un click la marcas como <span class=\"tour-estado-chip tour-estado-aprobada\">aprobada</span>, o como <span class=\"tour-estado-chip tour-estado-regular\">regular</span> si primero esta <span class=\"tour-estado-chip tour-estado-cursando\">cursando</span>. Click derecho para ver correlativas que faltan."
         });
 
         const iconoAnotarse = primeraMateria.querySelector(".icono-anotarse");
@@ -247,17 +247,63 @@ function iniciarTutorial() {
         return;
     }
 
-    const materiaDemo = document.querySelector(".materia");
+    const materiasCandidatas = Array.from(document.querySelectorAll(".materia"));
+    const materiaDemo =
+        materiasCandidatas.find(m => m.querySelector(".icono-anotarse i.fa-regular.fa-pen-to-square, .icono-anotarse i.fa-solid.fa-ban")) ||
+        materiasCandidatas.find(m => m.querySelector(".icono-anotarse")) ||
+        materiasCandidatas[0] ||
+        null;
+
     if (materiaDemo) materiaDemo.classList.add("tour-demo-materia");
+
+    const iconoAnotarseDemo = materiaDemo ? materiaDemo.querySelector(".icono-anotarse") : null;
+    const estadoOriginalIcono = iconoAnotarseDemo
+        ? {
+            html: iconoAnotarseDemo.innerHTML,
+            display: iconoAnotarseDemo.style.display,
+            title: iconoAnotarseDemo.title,
+            teniaAnotarse: iconoAnotarseDemo.classList.contains("anotarse"),
+            teniaAbandonar: iconoAnotarseDemo.classList.contains("abandonar")
+        }
+        : null;
+
+    if (iconoAnotarseDemo) {
+        const tieneIconoValido = iconoAnotarseDemo.querySelector("i.fa-regular.fa-pen-to-square, i.fa-solid.fa-ban");
+        if (!tieneIconoValido) {
+            iconoAnotarseDemo.innerHTML = '<i class="fa-regular fa-pen-to-square" aria-hidden="true"></i>';
+            iconoAnotarseDemo.title = "Anotarse";
+        }
+        iconoAnotarseDemo.style.display = "flex";
+        if (!iconoAnotarseDemo.classList.contains("anotarse") && !iconoAnotarseDemo.classList.contains("abandonar")) {
+            iconoAnotarseDemo.classList.add("anotarse");
+        }
+    }
+
     document.body.classList.add("tour-mode");
 
     const limpiarModoTour = () => {
         document.body.classList.remove("tour-mode");
         document.querySelectorAll(".tour-demo-materia").forEach(el => el.classList.remove("tour-demo-materia"));
+
+        if (iconoAnotarseDemo && estadoOriginalIcono) {
+            iconoAnotarseDemo.innerHTML = estadoOriginalIcono.html;
+            iconoAnotarseDemo.style.display = estadoOriginalIcono.display;
+            iconoAnotarseDemo.title = estadoOriginalIcono.title;
+
+            if (!estadoOriginalIcono.teniaAnotarse) {
+                iconoAnotarseDemo.classList.remove("anotarse");
+            }
+            if (!estadoOriginalIcono.teniaAbandonar) {
+                iconoAnotarseDemo.classList.remove("abandonar");
+            }
+        }
     };
 
     const steps = construirPasosTutorial();
-    if (steps.length === 0) return;
+    if (steps.length === 0) {
+        limpiarModoTour();
+        return;
+    }
 
     const tour = window.introJs();
     tour.setOptions({
@@ -285,6 +331,16 @@ function setupOnboarding() {
     const tutorialBtn = document.getElementById("tutorial-btn");
 
     if (!modal || !startBtn || !skipBtn || !tutorialBtn) return;
+
+    const updateOnboardingDeviceNote = () => {
+        const note = document.getElementById("onboarding-device-note");
+        if (!note) return;
+        const isMobileViewport = window.matchMedia("(max-width: 900px)").matches;
+        note.classList.toggle("visible", isMobileViewport);
+    };
+
+    updateOnboardingDeviceNote();
+    window.addEventListener("resize", updateOnboardingDeviceNote);
 
     const abrirModalBienvenida = () => {
         modal.classList.add("visible");
